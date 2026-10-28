@@ -14403,6 +14403,578 @@
   "img": "assets/img/interiors-08-marble-bath-sm.jpg"
  },
  {
+  "title": "Cozy Living Room",
+  "pack": "interiors",
+  "tags": [
+   "interior",
+   "living room",
+   "cozy",
+   "sofa",
+   "plants"
+  ],
+  "url": "wallpaper-interiors-09-cozy-living.html",
+  "img": "assets/img/interiors-09-cozy-living-sm.jpg"
+ },
+ {
+  "title": "Marble Kitchen",
+  "pack": "interiors",
+  "tags": [
+   "interior",
+   "kitchen",
+   "marble",
+   "luxury",
+   "pendant"
+  ],
+  "url": "wallpaper-interiors-10-kitchen-marble.html",
+  "img": "assets/img/interiors-10-kitchen-marble-sm.jpg"
+ },
+ {
+  "title": "Japandi Calm",
+  "pack": "interiors",
+  "tags": [
+   "interior",
+   "japandi",
+   "bedroom",
+   "wood",
+   "minimal"
+  ],
+  "url": "wallpaper-interiors-11-japandi.html",
+  "img": "assets/img/interiors-11-japandi-sm.jpg"
+ },
+ {
+  "title": "Loft Windows",
+  "pack": "interiors",
+  "tags": [
+   "interior",
+   "loft",
+   "industrial",
+   "windows",
+   "city"
+  ],
+  "url": "wallpaper-interiors-12-loft-window.html",
+  "img": "assets/img/interiors-12-loft-window-sm.jpg"
+ },
+ {
+  "title": "Spiral Staircase",
+  "pack": "interiors",
+  "tags": [
+   "interior",
+   "staircase",
+   "spiral",
+   "white",
+   "architecture"
+  ],
+  "url": "wallpaper-interiors-13-spiral-stair.html",
+  "img": "assets/img/interiors-13-spiral-stair-sm.jpg"
+ },
+ {
+  "title": "Cafe Corner",
+  "pack": "interiors",
+  "tags": [
+   "interior",
+   "cafe",
+   "coffee",
+   "sunlight",
+   "plants"
+  ],
+  "url": "wallpaper-interiors-14-cafe-corner.html",
+  "img": "assets/img/interiors-14-cafe-corner-sm.jpg"
+ },
+ {
+  "title": "Hotel Luxe",
+  "pack": "interiors",
+  "tags": [
+   "interior",
+   "hotel",
+   "luxury",
+   "bedroom",
+   "gold"
+  ],
+  "url": "wallpaper-interiors-15-hotel-luxe.html",
+  "img": "assets/img/interiors-15-hotel-luxe-sm.jpg"
+ },
+ {
+  "title": "Balcony Sunset",
+  "pack": "interiors",
+  "tags": [
+   "interior",
+   "balcony",
+   "sunset",
+   "city",
+   "coffee"
+  ],
+  "url": "wallpaper-interiors-16-balcony-view.html",
+  "img": "assets/img/interiors-16-balcony-view-sm.jpg"
+ },
+ {
+  "title": "Home Office",
+  "pack": "interiors",
+  "tags": [
+   "interior",
+   "office",
+   "desk",
+   "work",
+   "plants"
+  ],
+  "url": "wallpaper-interiors-17-home-office.html",
+  "img": "assets/img/interiors-17-home-office-sm.jpg"
+ },
+ {
+  "title": "By the Fire",
+  "pack": "interiors",
+  "tags": [
+   "interior",
+   "fireplace",
+   "stone",
+   "cozy",
+   "armchair"
+  ],
+  "url": "wallpaper-interiors-18-fireplace.html",
+  "img": "assets/img/interiors-18-fireplace-sm.jpg"
+ },
+ {
+  "title": "Riad Courtyard",
+  "pack": "interiors",
+  "tags": [
+   "interior",
+   "moroccan",
+   "courtyard",
+   "tiles",
+   "fountain"
+  ],
+  "url": "wallpaper-interiors-19-riad-courtyard.html",
+  "img": "assets/img/interiors-19-riad-courtyard-sm.jpg"
+ },
+ {
+  "title": "Penthouse Dusk",
+  "pack": "interiors",
+  "tags": [
+   "interior",
+   "penthouse",
+   "dusk",
+   "windows",
+   "luxury"
+  ],
+  "url": "wallpaper-interiors-20-penthouse.html",
+  "img": "assets/img/interiors-20-penthouse-sm.jpg"
+ },
+ {
+  "title": "Boho Bedroom",
+  "pack": "interiors",
+  "tags": [
+   "interior",
+   "boho",
+   "bedroom",
+   "rattan",
+   "fairy lights"
+  ],
+  "url": "wallpaper-interiors-21-boho-bedroom.html",
+  "img": "assets/img/interiors-21-boho-bedroom-sm.jpg"
+ },
+ {
+  "title": "Walk-In Closet",
+  "pack": "interiors",
+  "tags": [
+   "interior",
+   "closet",
+   "luxury",
+   "wardrobe",
+   "organized"
+  ],
+  "url": "wallpaper-interiors-22-walkin-closet.html",
+  "img": "assets/img/interiors-22-walkin-closet-sm.jpg"
+ },
+ {
+  "title": "The Conservatory",
+  "pack": "interiors",
+  "tags": [
+   "interior",
+   "conservatory",
+   "plants",
+   "glass",
+   "sunlight"
+  ],
+  "url": "wallpaper-interiors-23-conservatory.html",
+  "img": "assets/img/interiors-23-conservatory-sm.jpg"
+ },
+ {
+  "title": "Attic Room",
+  "pack": "interiors",
+  "tags": [
+   "interior",
+   "attic",
+   "cozy",
+   "fairy lights",
+   "reading"
+  ],
+  "url": "wallpaper-interiors-24-attic-room.html",
+  "img": "assets/img/interiors-24-attic-room-sm.jpg"
+ },
+ {
+  "title": "Marble Hall",
+  "pack": "interiors",
+  "tags": [
+   "interior",
+   "lobby",
+   "marble",
+   "chandelier",
+   "grand"
+  ],
+  "url": "wallpaper-interiors-25-marble-hall.html",
+  "img": "assets/img/interiors-25-marble-hall-sm.jpg"
+ },
+ {
+  "title": "Cabin Inside",
+  "pack": "interiors",
+  "tags": [
+   "interior",
+   "cabin",
+   "wood",
+   "fireplace",
+   "rustic"
+  ],
+  "url": "wallpaper-interiors-26-cabin-interior.html",
+  "img": "assets/img/interiors-26-cabin-interior-sm.jpg"
+ },
+ {
+  "title": "Minimal Desk",
+  "pack": "interiors",
+  "tags": [
+   "interior",
+   "desk",
+   "minimal",
+   "white",
+   "workspace"
+  ],
+  "url": "wallpaper-interiors-27-minimal-desk.html",
+  "img": "assets/img/interiors-27-minimal-desk-sm.jpg"
+ },
+ {
+  "title": "Vintage Library",
+  "pack": "interiors",
+  "tags": [
+   "interior",
+   "library",
+   "vintage",
+   "books",
+   "ladder"
+  ],
+  "url": "wallpaper-interiors-28-vintage-library.html",
+  "img": "assets/img/interiors-28-vintage-library-sm.jpg"
+ },
+ {
+  "title": "Sunroom",
+  "pack": "interiors",
+  "tags": [
+   "interior",
+   "sunroom",
+   "wicker",
+   "garden",
+   "bright"
+  ],
+  "url": "wallpaper-interiors-29-sunroom.html",
+  "img": "assets/img/interiors-29-sunroom-sm.jpg"
+ },
+ {
+  "title": "Zen Bath",
+  "pack": "interiors",
+  "tags": [
+   "interior",
+   "bathroom",
+   "zen",
+   "stone",
+   "bamboo"
+  ],
+  "url": "wallpaper-interiors-30-bathroom-zen.html",
+  "img": "assets/img/interiors-30-bathroom-zen-sm.jpg"
+ },
+ {
+  "title": "Gallery Hall",
+  "pack": "interiors",
+  "tags": [
+   "interior",
+   "gallery",
+   "art",
+   "minimal",
+   "painting"
+  ],
+  "url": "wallpaper-interiors-31-art-gallery.html",
+  "img": "assets/img/interiors-31-art-gallery-sm.jpg"
+ },
+ {
+  "title": "Rooftop Lounge",
+  "pack": "interiors",
+  "tags": [
+   "interior",
+   "rooftop",
+   "lounge",
+   "night",
+   "city"
+  ],
+  "url": "wallpaper-interiors-32-rooftop-lounge.html",
+  "img": "assets/img/interiors-32-rooftop-lounge-sm.jpg"
+ },
+ {
+  "title": "Cave Suite",
+  "pack": "interiors",
+  "tags": [
+   "interior",
+   "santorini",
+   "cave hotel",
+   "white",
+   "pool"
+  ],
+  "url": "wallpaper-interiors-33-santorini-cave.html",
+  "img": "assets/img/interiors-33-santorini-cave-sm.jpg"
+ },
+ {
+  "title": "Parisian Flat",
+  "pack": "interiors",
+  "tags": [
+   "interior",
+   "paris",
+   "apartment",
+   "herringbone",
+   "windows"
+  ],
+  "url": "wallpaper-interiors-34-parisian-flat.html",
+  "img": "assets/img/interiors-34-parisian-flat-sm.jpg"
+ },
+ {
+  "title": "Treehouse Room",
+  "pack": "interiors",
+  "tags": [
+   "interior",
+   "treehouse",
+   "forest",
+   "window",
+   "wood"
+  ],
+  "url": "wallpaper-interiors-35-treehouse.html",
+  "img": "assets/img/interiors-35-treehouse-sm.jpg"
+ },
+ {
+  "title": "Pool Villa",
+  "pack": "interiors",
+  "tags": [
+   "interior",
+   "villa",
+   "bali",
+   "pool",
+   "tropical"
+  ],
+  "url": "wallpaper-interiors-36-pool-villa.html",
+  "img": "assets/img/interiors-36-pool-villa-sm.jpg"
+ },
+ {
+  "title": "Cozy Bookstore",
+  "pack": "interiors",
+  "tags": [
+   "interior",
+   "bookstore",
+   "books",
+   "warm",
+   "cozy"
+  ],
+  "url": "wallpaper-interiors-37-bookstore.html",
+  "img": "assets/img/interiors-37-bookstore-sm.jpg"
+ },
+ {
+  "title": "Glass House",
+  "pack": "interiors",
+  "tags": [
+   "interior",
+   "glass house",
+   "forest",
+   "dusk",
+   "modern"
+  ],
+  "url": "wallpaper-interiors-38-glass-house.html",
+  "img": "assets/img/interiors-38-glass-house-sm.jpg"
+ },
+ {
+  "title": "Wine Cellar",
+  "pack": "interiors",
+  "tags": [
+   "interior",
+   "wine cellar",
+   "brick",
+   "arch",
+   "warm"
+  ],
+  "url": "wallpaper-interiors-39-wine-cellar.html",
+  "img": "assets/img/interiors-39-wine-cellar-sm.jpg"
+ },
+ {
+  "title": "Staircase & Shadow",
+  "pack": "interiors",
+  "tags": [
+   "interior",
+   "staircase",
+   "shadow",
+   "architecture",
+   "light"
+  ],
+  "url": "wallpaper-interiors-40-staircase-shadow.html",
+  "img": "assets/img/interiors-40-staircase-shadow-sm.jpg"
+ },
+ {
+  "title": "Skylight Bedroom",
+  "pack": "interiors",
+  "tags": [
+   "interior",
+   "loft",
+   "bedroom",
+   "skylight",
+   "scandinavian"
+  ],
+  "url": "wallpaper-interiors-41-loft-bedroom.html",
+  "img": "assets/img/interiors-41-loft-bedroom-sm.jpg"
+ },
+ {
+  "title": "Tea House",
+  "pack": "interiors",
+  "tags": [
+   "interior",
+   "japanese",
+   "tea house",
+   "tatami",
+   "garden"
+  ],
+  "url": "wallpaper-interiors-42-tea-house.html",
+  "img": "assets/img/interiors-42-tea-house-sm.jpg"
+ },
+ {
+  "title": "Observatory",
+  "pack": "interiors",
+  "tags": [
+   "interior",
+   "observatory",
+   "telescope",
+   "stars",
+   "dome"
+  ],
+  "url": "wallpaper-interiors-43-observatory-dome.html",
+  "img": "assets/img/interiors-43-observatory-dome-sm.jpg"
+ },
+ {
+  "title": "Castle Hall",
+  "pack": "interiors",
+  "tags": [
+   "interior",
+   "castle",
+   "hall",
+   "candles",
+   "stone"
+  ],
+  "url": "wallpaper-interiors-44-castle-room.html",
+  "img": "assets/img/interiors-44-castle-room-sm.jpg"
+ },
+ {
+  "title": "Tiny Home",
+  "pack": "interiors",
+  "tags": [
+   "interior",
+   "tiny home",
+   "loft bed",
+   "wood",
+   "small space"
+  ],
+  "url": "wallpaper-interiors-45-tiny-home.html",
+  "img": "assets/img/interiors-45-tiny-home-sm.jpg"
+ },
+ {
+  "title": "Cedar Sauna",
+  "pack": "interiors",
+  "tags": [
+   "interior",
+   "sauna",
+   "spa",
+   "cedar",
+   "steam"
+  ],
+  "url": "wallpaper-interiors-46-spa-sauna.html",
+  "img": "assets/img/interiors-46-spa-sauna-sm.jpg"
+ },
+ {
+  "title": "The Atrium",
+  "pack": "interiors",
+  "tags": [
+   "interior",
+   "atrium",
+   "trees",
+   "glass roof",
+   "modern"
+  ],
+  "url": "wallpaper-interiors-47-atrium.html",
+  "img": "assets/img/interiors-47-atrium-sm.jpg"
+ },
+ {
+  "title": "Night Lounge",
+  "pack": "interiors",
+  "tags": [
+   "interior",
+   "lounge",
+   "bar",
+   "night",
+   "amber"
+  ],
+  "url": "wallpaper-interiors-48-night-lounge.html",
+  "img": "assets/img/interiors-48-night-lounge-sm.jpg"
+ },
+ {
+  "title": "Window Seat",
+  "pack": "interiors",
+  "tags": [
+   "interior",
+   "window seat",
+   "cozy",
+   "autumn",
+   "reading"
+  ],
+  "url": "wallpaper-interiors-49-window-seat.html",
+  "img": "assets/img/interiors-49-window-seat-sm.jpg"
+ },
+ {
+  "title": "Arch Hallway",
+  "pack": "interiors",
+  "tags": [
+   "interior",
+   "hallway",
+   "arches",
+   "mediterranean",
+   "sunlight"
+  ],
+  "url": "wallpaper-interiors-50-arch-hallway.html",
+  "img": "assets/img/interiors-50-arch-hallway-sm.jpg"
+ },
+ {
+  "title": "Farmhouse Kitchen",
+  "pack": "interiors",
+  "tags": [
+   "interior",
+   "kitchen",
+   "farmhouse",
+   "morning",
+   "window"
+  ],
+  "url": "wallpaper-interiors-51-kitchen-window.html",
+  "img": "assets/img/interiors-51-kitchen-window-sm.jpg"
+ },
+ {
+  "title": "Reading Corner",
+  "pack": "interiors",
+  "tags": [
+   "interior",
+   "reading",
+   "armchair",
+   "lamp",
+   "windows"
+  ],
+  "url": "wallpaper-interiors-52-reading-corner.html",
+  "img": "assets/img/interiors-52-reading-corner-sm.jpg"
+ },
+ {
   "title": "Floating Islands",
   "pack": "fantasy",
   "tags": [
