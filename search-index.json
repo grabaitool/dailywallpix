@@ -4888,6 +4888,630 @@
   "img": "assets/img/amoled-04-gold-wave-sm.jpg"
  },
  {
+  "title": "Neon Jellyfish",
+  "pack": "amoled",
+  "tags": [
+   "amoled",
+   "neon",
+   "jellyfish",
+   "black",
+   "glow"
+  ],
+  "url": "wallpaper-amoled-05-neon-jellyfish.html",
+  "img": "assets/img/amoled-05-neon-jellyfish-sm.jpg"
+ },
+ {
+  "title": "Neon Butterfly",
+  "pack": "amoled",
+  "tags": [
+   "amoled",
+   "neon",
+   "butterfly",
+   "black",
+   "wings"
+  ],
+  "url": "wallpaper-amoled-06-neon-butterfly.html",
+  "img": "assets/img/amoled-06-neon-butterfly-sm.jpg"
+ },
+ {
+  "title": "Neon Skyline",
+  "pack": "amoled",
+  "tags": [
+   "amoled",
+   "neon",
+   "city",
+   "skyline",
+   "black"
+  ],
+  "url": "wallpaper-amoled-07-neon-city.html",
+  "img": "assets/img/amoled-07-neon-city-sm.jpg"
+ },
+ {
+  "title": "The Neon Wave",
+  "pack": "amoled",
+  "tags": [
+   "amoled",
+   "neon",
+   "wave",
+   "circle",
+   "black"
+  ],
+  "url": "wallpaper-amoled-08-neon-wave-circle.html",
+  "img": "assets/img/amoled-08-neon-wave-circle-sm.jpg"
+ },
+ {
+  "title": "Neon Cat",
+  "pack": "amoled",
+  "tags": [
+   "amoled",
+   "neon",
+   "cat",
+   "black",
+   "eyes"
+  ],
+  "url": "wallpaper-amoled-09-neon-cat.html",
+  "img": "assets/img/amoled-09-neon-cat-sm.jpg"
+ },
+ {
+  "title": "Neon Tree",
+  "pack": "amoled",
+  "tags": [
+   "amoled",
+   "neon",
+   "tree",
+   "roots",
+   "black"
+  ],
+  "url": "wallpaper-amoled-10-neon-tree.html",
+  "img": "assets/img/amoled-10-neon-tree-sm.jpg"
+ },
+ {
+  "title": "Ringed Neon",
+  "pack": "amoled",
+  "tags": [
+   "amoled",
+   "neon",
+   "planet",
+   "rings",
+   "black"
+  ],
+  "url": "wallpaper-amoled-11-neon-planet-ring.html",
+  "img": "assets/img/amoled-11-neon-planet-ring-sm.jpg"
+ },
+ {
+  "title": "Neon Feather",
+  "pack": "amoled",
+  "tags": [
+   "amoled",
+   "neon",
+   "feather",
+   "black",
+   "drift"
+  ],
+  "url": "wallpaper-amoled-12-neon-feather.html",
+  "img": "assets/img/amoled-12-neon-feather-sm.jpg"
+ },
+ {
+  "title": "Neon Dragon",
+  "pack": "amoled",
+  "tags": [
+   "amoled",
+   "neon",
+   "dragon",
+   "circle",
+   "black"
+  ],
+  "url": "wallpaper-amoled-13-neon-dragon.html",
+  "img": "assets/img/amoled-13-neon-dragon-sm.jpg"
+ },
+ {
+  "title": "Heartbeat",
+  "pack": "amoled",
+  "tags": [
+   "amoled",
+   "neon",
+   "heart",
+   "pulse",
+   "black"
+  ],
+  "url": "wallpaper-amoled-14-neon-heart-lines.html",
+  "img": "assets/img/amoled-14-neon-heart-lines-sm.jpg"
+ },
+ {
+  "title": "Geometric Owl",
+  "pack": "amoled",
+  "tags": [
+   "amoled",
+   "neon",
+   "owl",
+   "geometric",
+   "black"
+  ],
+  "url": "wallpaper-amoled-15-neon-owl.html",
+  "img": "assets/img/amoled-15-neon-owl-sm.jpg"
+ },
+ {
+  "title": "Neon Koi",
+  "pack": "amoled",
+  "tags": [
+   "amoled",
+   "neon",
+   "koi",
+   "fish",
+   "black"
+  ],
+  "url": "wallpaper-amoled-16-neon-fish-koi.html",
+  "img": "assets/img/amoled-16-neon-fish-koi-sm.jpg"
+ },
+ {
+  "title": "Moon Phases",
+  "pack": "amoled",
+  "tags": [
+   "amoled",
+   "neon",
+   "moon",
+   "phases",
+   "black"
+  ],
+  "url": "wallpaper-amoled-17-neon-moon-phases.html",
+  "img": "assets/img/amoled-17-neon-moon-phases-sm.jpg"
+ },
+ {
+  "title": "Gold Rose Line",
+  "pack": "amoled",
+  "tags": [
+   "amoled",
+   "neon",
+   "rose",
+   "gold",
+   "black"
+  ],
+  "url": "wallpaper-amoled-18-neon-rose-gold.html",
+  "img": "assets/img/amoled-18-neon-rose-gold-sm.jpg"
+ },
+ {
+  "title": "Neon Antlers",
+  "pack": "amoled",
+  "tags": [
+   "amoled",
+   "neon",
+   "deer",
+   "antlers",
+   "black"
+  ],
+  "url": "wallpaper-amoled-19-neon-deer-antlers.html",
+  "img": "assets/img/amoled-19-neon-deer-antlers-sm.jpg"
+ },
+ {
+  "title": "Neon Galaxy",
+  "pack": "amoled",
+  "tags": [
+   "amoled",
+   "neon",
+   "galaxy",
+   "spiral",
+   "black"
+  ],
+  "url": "wallpaper-amoled-20-neon-spiral-galaxy.html",
+  "img": "assets/img/amoled-20-neon-spiral-galaxy-sm.jpg"
+ },
+ {
+  "title": "Poly Fox",
+  "pack": "amoled",
+  "tags": [
+   "amoled",
+   "neon",
+   "fox",
+   "low poly",
+   "black"
+  ],
+  "url": "wallpaper-amoled-21-neon-fox.html",
+  "img": "assets/img/amoled-21-neon-fox-sm.jpg"
+ },
+ {
+  "title": "Neon Lotus",
+  "pack": "amoled",
+  "tags": [
+   "amoled",
+   "neon",
+   "lotus",
+   "bloom",
+   "black"
+  ],
+  "url": "wallpaper-amoled-22-neon-lotus.html",
+  "img": "assets/img/amoled-22-neon-lotus-sm.jpg"
+ },
+ {
+  "title": "Neon Astronaut",
+  "pack": "amoled",
+  "tags": [
+   "amoled",
+   "neon",
+   "astronaut",
+   "space",
+   "black"
+  ],
+  "url": "wallpaper-amoled-23-neon-astronaut.html",
+  "img": "assets/img/amoled-23-neon-astronaut-sm.jpg"
+ },
+ {
+  "title": "Neon Lion",
+  "pack": "amoled",
+  "tags": [
+   "amoled",
+   "neon",
+   "lion",
+   "geometric",
+   "black"
+  ],
+  "url": "wallpaper-amoled-24-neon-lion.html",
+  "img": "assets/img/amoled-24-neon-lion-sm.jpg"
+ },
+ {
+  "title": "Neon Hummingbird",
+  "pack": "amoled",
+  "tags": [
+   "amoled",
+   "neon",
+   "hummingbird",
+   "flight",
+   "black"
+  ],
+  "url": "wallpaper-amoled-25-neon-hummingbird.html",
+  "img": "assets/img/amoled-25-neon-hummingbird-sm.jpg"
+ },
+ {
+  "title": "Neon Cube",
+  "pack": "amoled",
+  "tags": [
+   "amoled",
+   "neon",
+   "cube",
+   "wireframe",
+   "black"
+  ],
+  "url": "wallpaper-amoled-26-neon-cube.html",
+  "img": "assets/img/amoled-26-neon-cube-sm.jpg"
+ },
+ {
+  "title": "Line Falls",
+  "pack": "amoled",
+  "tags": [
+   "amoled",
+   "neon",
+   "waterfall",
+   "line art",
+   "black"
+  ],
+  "url": "wallpaper-amoled-27-neon-waterfall.html",
+  "img": "assets/img/amoled-27-neon-waterfall-sm.jpg"
+ },
+ {
+  "title": "Neon Phoenix",
+  "pack": "amoled",
+  "tags": [
+   "amoled",
+   "neon",
+   "phoenix",
+   "rising",
+   "black"
+  ],
+  "url": "wallpaper-amoled-28-neon-phoenix.html",
+  "img": "assets/img/amoled-28-neon-phoenix-sm.jpg"
+ },
+ {
+  "title": "Star Whale",
+  "pack": "amoled",
+  "tags": [
+   "amoled",
+   "neon",
+   "whale",
+   "stars",
+   "black"
+  ],
+  "url": "wallpaper-amoled-29-neon-whale.html",
+  "img": "assets/img/amoled-29-neon-whale-sm.jpg"
+ },
+ {
+  "title": "The Neon Eye",
+  "pack": "amoled",
+  "tags": [
+   "amoled",
+   "neon",
+   "eye",
+   "black",
+   "glow"
+  ],
+  "url": "wallpaper-amoled-30-neon-eye.html",
+  "img": "assets/img/amoled-30-neon-eye-sm.jpg"
+ },
+ {
+  "title": "Neon Cactus",
+  "pack": "amoled",
+  "tags": [
+   "amoled",
+   "neon",
+   "cactus",
+   "flower",
+   "black"
+  ],
+  "url": "wallpaper-amoled-31-neon-cactus.html",
+  "img": "assets/img/amoled-31-neon-cactus-sm.jpg"
+ },
+ {
+  "title": "Neon Mushrooms",
+  "pack": "amoled",
+  "tags": [
+   "amoled",
+   "neon",
+   "mushrooms",
+   "glow",
+   "black"
+  ],
+  "url": "wallpaper-amoled-32-neon-mushrooms.html",
+  "img": "assets/img/amoled-32-neon-mushrooms-sm.jpg"
+ },
+ {
+  "title": "The Gold Key",
+  "pack": "amoled",
+  "tags": [
+   "amoled",
+   "neon",
+   "key",
+   "gold",
+   "minimal"
+  ],
+  "url": "wallpaper-amoled-33-neon-key-line.html",
+  "img": "assets/img/amoled-33-neon-key-line-sm.jpg"
+ },
+ {
+  "title": "Neon Turtle",
+  "pack": "amoled",
+  "tags": [
+   "amoled",
+   "neon",
+   "turtle",
+   "pattern",
+   "black"
+  ],
+  "url": "wallpaper-amoled-34-neon-turtle.html",
+  "img": "assets/img/amoled-34-neon-turtle-sm.jpg"
+ },
+ {
+  "title": "Peaks and a Star",
+  "pack": "amoled",
+  "tags": [
+   "amoled",
+   "neon",
+   "mountains",
+   "shooting star",
+   "black"
+  ],
+  "url": "wallpaper-amoled-35-neon-mountain-stars.html",
+  "img": "assets/img/amoled-35-neon-mountain-stars-sm.jpg"
+ },
+ {
+  "title": "Neon Wings",
+  "pack": "amoled",
+  "tags": [
+   "amoled",
+   "neon",
+   "wings",
+   "angel",
+   "black"
+  ],
+  "url": "wallpaper-amoled-36-neon-angel-wings.html",
+  "img": "assets/img/amoled-36-neon-angel-wings-sm.jpg"
+ },
+ {
+  "title": "Neon Diamond",
+  "pack": "amoled",
+  "tags": [
+   "amoled",
+   "neon",
+   "diamond",
+   "light",
+   "black"
+  ],
+  "url": "wallpaper-amoled-37-neon-diamond.html",
+  "img": "assets/img/amoled-37-neon-diamond-sm.jpg"
+ },
+ {
+  "title": "Spiral Time",
+  "pack": "amoled",
+  "tags": [
+   "amoled",
+   "neon",
+   "clock",
+   "spiral",
+   "black"
+  ],
+  "url": "wallpaper-amoled-38-neon-clock-spiral.html",
+  "img": "assets/img/amoled-38-neon-clock-spiral-sm.jpg"
+ },
+ {
+  "title": "Neon Elephant",
+  "pack": "amoled",
+  "tags": [
+   "amoled",
+   "neon",
+   "elephant",
+   "line",
+   "black"
+  ],
+  "url": "wallpaper-amoled-39-neon-elephant.html",
+  "img": "assets/img/amoled-39-neon-elephant-sm.jpg"
+ },
+ {
+  "title": "Neon Lantern",
+  "pack": "amoled",
+  "tags": [
+   "amoled",
+   "neon",
+   "lantern",
+   "black",
+   "plain"
+  ],
+  "url": "wallpaper-amoled-40-neon-lantern.html",
+  "img": "assets/img/amoled-40-neon-lantern-sm.jpg"
+ },
+ {
+  "title": "Neon Rain",
+  "pack": "amoled",
+  "tags": [
+   "amoled",
+   "neon",
+   "umbrella",
+   "rain",
+   "black"
+  ],
+  "url": "wallpaper-amoled-41-neon-rain-umbrella.html",
+  "img": "assets/img/amoled-41-neon-rain-umbrella-sm.jpg"
+ },
+ {
+  "title": "Floral Skull",
+  "pack": "amoled",
+  "tags": [
+   "amoled",
+   "neon",
+   "skull",
+   "floral",
+   "black"
+  ],
+  "url": "wallpaper-amoled-42-neon-skull-floral.html",
+  "img": "assets/img/amoled-42-neon-skull-floral-sm.jpg"
+ },
+ {
+  "title": "Neon Balloon",
+  "pack": "amoled",
+  "tags": [
+   "amoled",
+   "neon",
+   "hot air balloon",
+   "stars",
+   "black"
+  ],
+  "url": "wallpaper-amoled-43-neon-balloon.html",
+  "img": "assets/img/amoled-43-neon-balloon-sm.jpg"
+ },
+ {
+  "title": "Koi Balance",
+  "pack": "amoled",
+  "tags": [
+   "amoled",
+   "neon",
+   "yin yang",
+   "koi",
+   "black"
+  ],
+  "url": "wallpaper-amoled-44-neon-yin-yang-koi.html",
+  "img": "assets/img/amoled-44-neon-yin-yang-koi-sm.jpg"
+ },
+ {
+  "title": "Infinity Loop",
+  "pack": "amoled",
+  "tags": [
+   "amoled",
+   "neon",
+   "infinity",
+   "cyan",
+   "magenta"
+  ],
+  "url": "wallpaper-amoled-45-neon-infinity.html",
+  "img": "assets/img/amoled-45-neon-infinity-sm.jpg"
+ },
+ {
+  "title": "Neon Samurai",
+  "pack": "amoled",
+  "tags": [
+   "amoled",
+   "neon",
+   "samurai",
+   "red moon",
+   "black"
+  ],
+  "url": "wallpaper-amoled-46-neon-samurai.html",
+  "img": "assets/img/amoled-46-neon-samurai-sm.jpg"
+ },
+ {
+  "title": "Neon Bee",
+  "pack": "amoled",
+  "tags": [
+   "amoled",
+   "neon",
+   "bee",
+   "gold",
+   "black"
+  ],
+  "url": "wallpaper-amoled-47-neon-bee.html",
+  "img": "assets/img/amoled-47-neon-bee-sm.jpg"
+ },
+ {
+  "title": "Neon Launch",
+  "pack": "amoled",
+  "tags": [
+   "amoled",
+   "neon",
+   "rocket",
+   "launch",
+   "black"
+  ],
+  "url": "wallpaper-amoled-48-neon-rocket.html",
+  "img": "assets/img/amoled-48-neon-rocket-sm.jpg"
+ },
+ {
+  "title": "Circuit Brain",
+  "pack": "amoled",
+  "tags": [
+   "amoled",
+   "neon",
+   "brain",
+   "circuit",
+   "black"
+  ],
+  "url": "wallpaper-amoled-49-neon-brain.html",
+  "img": "assets/img/amoled-49-neon-brain-sm.jpg"
+ },
+ {
+  "title": "Neon Fingerprint",
+  "pack": "amoled",
+  "tags": [
+   "amoled",
+   "neon",
+   "fingerprint",
+   "lines",
+   "black"
+  ],
+  "url": "wallpaper-amoled-50-neon-fingerprint.html",
+  "img": "assets/img/amoled-50-neon-fingerprint-sm.jpg"
+ },
+ {
+  "title": "Aurora Lines",
+  "pack": "amoled",
+  "tags": [
+   "amoled",
+   "neon",
+   "aurora",
+   "ribbons",
+   "black"
+  ],
+  "url": "wallpaper-amoled-51-neon-aurora-lines.html",
+  "img": "assets/img/amoled-51-neon-aurora-lines-sm.jpg"
+ },
+ {
+  "title": "Last Light",
+  "pack": "amoled",
+  "tags": [
+   "amoled",
+   "neon",
+   "lightbulb",
+   "heart",
+   "black"
+  ],
+  "url": "wallpaper-amoled-52-neon-last-light.html",
+  "img": "assets/img/amoled-52-neon-last-light-sm.jpg"
+ },
+ {
   "title": "Red Panda",
   "pack": "animals",
   "tags": [
