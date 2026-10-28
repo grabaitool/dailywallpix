@@ -53,6 +53,664 @@
   "img": "assets/img/halloween-cozy-cottage-sm.jpg"
  },
  {
+  "title": "Lantern Trio",
+  "pack": "halloween",
+  "tags": [
+   "halloween",
+   "pumpkins",
+   "jack o lantern",
+   "night",
+   "spooky"
+  ],
+  "url": "wallpaper-halloween-05-lantern-trio.html",
+  "img": "assets/img/halloween-05-lantern-trio-sm.jpg"
+ },
+ {
+  "title": "Bats & Moon",
+  "pack": "halloween",
+  "tags": [
+   "halloween",
+   "bats",
+   "moon",
+   "night",
+   "silhouette",
+   "spooky"
+  ],
+  "url": "wallpaper-halloween-06-bats-moon.html",
+  "img": "assets/img/halloween-06-bats-moon-sm.jpg"
+ },
+ {
+  "title": "Patch Ghost",
+  "pack": "halloween",
+  "tags": [
+   "halloween",
+   "ghost",
+   "pumpkins",
+   "cute",
+   "dusk"
+  ],
+  "url": "wallpaper-halloween-07-ghost-patch.html",
+  "img": "assets/img/halloween-07-ghost-patch-sm.jpg"
+ },
+ {
+  "title": "Witch Moon",
+  "pack": "halloween",
+  "tags": [
+   "halloween",
+   "witch",
+   "moon",
+   "silhouette",
+   "night"
+  ],
+  "url": "wallpaper-halloween-08-witch-moon.html",
+  "img": "assets/img/halloween-08-witch-moon-sm.jpg"
+ },
+ {
+  "title": "Fog Path",
+  "pack": "halloween",
+  "tags": [
+   "halloween",
+   "fog",
+   "forest",
+   "path",
+   "lantern",
+   "spooky"
+  ],
+  "url": "wallpaper-halloween-09-fog-path.html",
+  "img": "assets/img/halloween-09-fog-path-sm.jpg"
+ },
+ {
+  "title": "Pumpkin Latte",
+  "pack": "halloween",
+  "tags": [
+   "halloween",
+   "coffee",
+   "pumpkin spice",
+   "flatlay",
+   "cozy",
+   "autumn"
+  ],
+  "url": "wallpaper-halloween-10-pumpkin-latte.html",
+  "img": "assets/img/halloween-10-pumpkin-latte-sm.jpg"
+ },
+ {
+  "title": "Black Cat",
+  "pack": "halloween",
+  "tags": [
+   "halloween",
+   "cat",
+   "black cat",
+   "pumpkins",
+   "moon",
+   "night"
+  ],
+  "url": "wallpaper-halloween-11-black-cat.html",
+  "img": "assets/img/halloween-11-black-cat-sm.jpg"
+ },
+ {
+  "title": "Storm Mansion",
+  "pack": "halloween",
+  "tags": [
+   "halloween",
+   "haunted house",
+   "storm",
+   "lightning",
+   "night",
+   "spooky"
+  ],
+  "url": "wallpaper-halloween-12-mansion-storm.html",
+  "img": "assets/img/halloween-12-mansion-storm-sm.jpg"
+ },
+ {
+  "title": "Candy Corn",
+  "pack": "halloween",
+  "tags": [
+   "halloween",
+   "candy",
+   "candy corn",
+   "colorful",
+   "macro"
+  ],
+  "url": "wallpaper-halloween-13-candy-corn.html",
+  "img": "assets/img/halloween-13-candy-corn-sm.jpg"
+ },
+ {
+  "title": "Skeleton Lights",
+  "pack": "halloween",
+  "tags": [
+   "halloween",
+   "skeleton",
+   "lights",
+   "porch",
+   "funny",
+   "decor"
+  ],
+  "url": "wallpaper-halloween-14-skeleton-lights.html",
+  "img": "assets/img/halloween-14-skeleton-lights-sm.jpg"
+ },
+ {
+  "title": "Dew Web",
+  "pack": "halloween",
+  "tags": [
+   "halloween",
+   "spider web",
+   "dew",
+   "macro",
+   "morning"
+  ],
+  "url": "wallpaper-halloween-15-web-dew.html",
+  "img": "assets/img/halloween-15-web-dew-sm.jpg"
+ },
+ {
+  "title": "Owl Moon",
+  "pack": "halloween",
+  "tags": [
+   "halloween",
+   "owl",
+   "moon",
+   "night",
+   "silhouette"
+  ],
+  "url": "wallpaper-halloween-16-owl-moon.html",
+  "img": "assets/img/halloween-16-owl-moon-sm.jpg"
+ },
+ {
+  "title": "Lantern Street",
+  "pack": "halloween",
+  "tags": [
+   "halloween",
+   "street",
+   "lanterns",
+   "pumpkins",
+   "dusk",
+   "houses"
+  ],
+  "url": "wallpaper-halloween-17-lantern-street.html",
+  "img": "assets/img/halloween-17-lantern-street-sm.jpg"
+ },
+ {
+  "title": "The Cauldron",
+  "pack": "halloween",
+  "tags": [
+   "halloween",
+   "cauldron",
+   "witch",
+   "forest",
+   "green",
+   "fog"
+  ],
+  "url": "wallpaper-halloween-18-cauldron.html",
+  "img": "assets/img/halloween-18-cauldron-sm.jpg"
+ },
+ {
+  "title": "Graveyard Fog",
+  "pack": "halloween",
+  "tags": [
+   "halloween",
+   "graveyard",
+   "fog",
+   "moon",
+   "night",
+   "spooky"
+  ],
+  "url": "wallpaper-halloween-19-graveyard-fog.html",
+  "img": "assets/img/halloween-19-graveyard-fog-sm.jpg"
+ },
+ {
+  "title": "Patch Sunset",
+  "pack": "halloween",
+  "tags": [
+   "halloween",
+   "pumpkins",
+   "field",
+   "sunset",
+   "autumn"
+  ],
+  "url": "wallpaper-halloween-20-patch-sunset.html",
+  "img": "assets/img/halloween-20-patch-sunset-sm.jpg"
+ },
+ {
+  "title": "Castle in Fog",
+  "pack": "halloween",
+  "tags": [
+   "halloween",
+   "castle",
+   "vampire",
+   "fog",
+   "night",
+   "cliff"
+  ],
+  "url": "wallpaper-halloween-21-castle-fog.html",
+  "img": "assets/img/halloween-21-castle-fog-sm.jpg"
+ },
+ {
+  "title": "Monster Cupcakes",
+  "pack": "halloween",
+  "tags": [
+   "halloween",
+   "cupcakes",
+   "food",
+   "cute",
+   "flatlay",
+   "party"
+  ],
+  "url": "wallpaper-halloween-22-cupcakes.html",
+  "img": "assets/img/halloween-22-cupcakes-sm.jpg"
+ },
+ {
+  "title": "Haunted Library",
+  "pack": "halloween",
+  "tags": [
+   "halloween",
+   "library",
+   "candles",
+   "books",
+   "spooky"
+  ],
+  "url": "wallpaper-halloween-23-haunted-library.html",
+  "img": "assets/img/halloween-23-haunted-library-sm.jpg"
+ },
+ {
+  "title": "The Scarecrow",
+  "pack": "halloween",
+  "tags": [
+   "halloween",
+   "scarecrow",
+   "cornfield",
+   "moon",
+   "night"
+  ],
+  "url": "wallpaper-halloween-24-scarecrow.html",
+  "img": "assets/img/halloween-24-scarecrow-sm.jpg"
+ },
+ {
+  "title": "Ghost Town",
+  "pack": "halloween",
+  "tags": [
+   "halloween",
+   "ghost town",
+   "western",
+   "moon",
+   "night"
+  ],
+  "url": "wallpaper-halloween-25-ghost-town.html",
+  "img": "assets/img/halloween-25-ghost-town-sm.jpg"
+ },
+ {
+  "title": "Potion Shelf",
+  "pack": "halloween",
+  "tags": [
+   "halloween",
+   "potions",
+   "purple",
+   "green",
+   "magic",
+   "shelf"
+  ],
+  "url": "wallpaper-halloween-26-potions.html",
+  "img": "assets/img/halloween-26-potions-sm.jpg"
+ },
+ {
+  "title": "Candle Still Life",
+  "pack": "halloween",
+  "tags": [
+   "halloween",
+   "candles",
+   "skull",
+   "elegant",
+   "dark",
+   "still life"
+  ],
+  "url": "wallpaper-halloween-27-candle-skull.html",
+  "img": "assets/img/halloween-27-candle-skull-sm.jpg"
+ },
+ {
+  "title": "Witch's Cottage",
+  "pack": "halloween",
+  "tags": [
+   "halloween",
+   "witch",
+   "cottage",
+   "forest",
+   "autumn",
+   "cozy"
+  ],
+  "url": "wallpaper-halloween-28-witch-cottage.html",
+  "img": "assets/img/halloween-28-witch-cottage-sm.jpg"
+ },
+ {
+  "title": "Witch Sunset",
+  "pack": "halloween",
+  "tags": [
+   "halloween",
+   "witch",
+   "sunset",
+   "silhouette",
+   "orange"
+  ],
+  "url": "wallpaper-halloween-29-witch-sunset.html",
+  "img": "assets/img/halloween-29-witch-sunset-sm.jpg"
+ },
+ {
+  "title": "Carving Night",
+  "pack": "halloween",
+  "tags": [
+   "halloween",
+   "pumpkin carving",
+   "candles",
+   "night",
+   "hands"
+  ],
+  "url": "wallpaper-halloween-30-carving.html",
+  "img": "assets/img/halloween-30-carving-sm.jpg"
+ },
+ {
+  "title": "Gothic Ball",
+  "pack": "halloween",
+  "tags": [
+   "halloween",
+   "masquerade",
+   "ball",
+   "gothic",
+   "candles",
+   "elegant"
+  ],
+  "url": "wallpaper-halloween-31-gothic-ball.html",
+  "img": "assets/img/halloween-31-gothic-ball-sm.jpg"
+ },
+ {
+  "title": "Dark Carnival",
+  "pack": "halloween",
+  "tags": [
+   "halloween",
+   "carnival",
+   "ferris wheel",
+   "night",
+   "fog",
+   "spooky"
+  ],
+  "url": "wallpaper-halloween-32-dark-carnival.html",
+  "img": "assets/img/halloween-32-dark-carnival-sm.jpg"
+ },
+ {
+  "title": "Victorian Fog",
+  "pack": "halloween",
+  "tags": [
+   "halloween",
+   "victorian",
+   "street",
+   "fog",
+   "gas lamps",
+   "night"
+  ],
+  "url": "wallpaper-halloween-33-victorian-fog.html",
+  "img": "assets/img/halloween-33-victorian-fog-sm.jpg"
+ },
+ {
+  "title": "Marigold Altar",
+  "pack": "halloween",
+  "tags": [
+   "halloween",
+   "day of the dead",
+   "marigolds",
+   "candles",
+   "colorful",
+   "altar"
+  ],
+  "url": "wallpaper-halloween-34-marigold-altar.html",
+  "img": "assets/img/halloween-34-marigold-altar-sm.jpg"
+ },
+ {
+  "title": "Wolf Moon",
+  "pack": "halloween",
+  "tags": [
+   "halloween",
+   "wolf",
+   "moon",
+   "howl",
+   "night",
+   "silhouette"
+  ],
+  "url": "wallpaper-halloween-35-wolf-moon.html",
+  "img": "assets/img/halloween-35-wolf-moon-sm.jpg"
+ },
+ {
+  "title": "Kitten Witch",
+  "pack": "halloween",
+  "tags": [
+   "halloween",
+   "cat",
+   "kitten",
+   "witch hat",
+   "pumpkins",
+   "cute"
+  ],
+  "url": "wallpaper-halloween-36-kitten-witch.html",
+  "img": "assets/img/halloween-36-kitten-witch-sm.jpg"
+ },
+ {
+  "title": "Candy Porch",
+  "pack": "halloween",
+  "tags": [
+   "halloween",
+   "candy",
+   "porch",
+   "night",
+   "decor"
+  ],
+  "url": "wallpaper-halloween-37-candy-porch.html",
+  "img": "assets/img/halloween-37-candy-porch-sm.jpg"
+ },
+ {
+  "title": "Corn Maze",
+  "pack": "halloween",
+  "tags": [
+   "halloween",
+   "corn maze",
+   "moon",
+   "aerial",
+   "autumn"
+  ],
+  "url": "wallpaper-halloween-38-corn-maze.html",
+  "img": "assets/img/halloween-38-corn-maze-sm.jpg"
+ },
+ {
+  "title": "The Raven",
+  "pack": "halloween",
+  "tags": [
+   "halloween",
+   "raven",
+   "gothic",
+   "window",
+   "dusk"
+  ],
+  "url": "wallpaper-halloween-39-raven-window.html",
+  "img": "assets/img/halloween-39-raven-window-sm.jpg"
+ },
+ {
+  "title": "Halloween Wreath",
+  "pack": "halloween",
+  "tags": [
+   "halloween",
+   "wreath",
+   "door",
+   "pumpkins",
+   "autumn",
+   "decor"
+  ],
+  "url": "wallpaper-halloween-40-wreath-door.html",
+  "img": "assets/img/halloween-40-wreath-door-sm.jpg"
+ },
+ {
+  "title": "Twisted Tree",
+  "pack": "halloween",
+  "tags": [
+   "halloween",
+   "tree",
+   "moon",
+   "fog",
+   "silhouette",
+   "spooky"
+  ],
+  "url": "wallpaper-halloween-41-twisted-tree.html",
+  "img": "assets/img/halloween-41-twisted-tree-sm.jpg"
+ },
+ {
+  "title": "Floating Candles",
+  "pack": "halloween",
+  "tags": [
+   "halloween",
+   "candles",
+   "hall",
+   "magic",
+   "night"
+  ],
+  "url": "wallpaper-halloween-42-floating-candles.html",
+  "img": "assets/img/halloween-42-floating-candles-sm.jpg"
+ },
+ {
+  "title": "Storybook Pumpkins",
+  "pack": "halloween",
+  "tags": [
+   "halloween",
+   "pumpkins",
+   "vintage",
+   "illustration",
+   "night",
+   "cute"
+  ],
+  "url": "wallpaper-halloween-43-vintage-pumpkins.html",
+  "img": "assets/img/halloween-43-vintage-pumpkins-sm.jpg"
+ },
+ {
+  "title": "Ghost Leaves",
+  "pack": "halloween",
+  "tags": [
+   "halloween",
+   "ghosts",
+   "autumn",
+   "leaves",
+   "cute",
+   "illustration",
+   "night"
+  ],
+  "url": "wallpaper-halloween-44-ghost-leaves.html",
+  "img": "assets/img/halloween-44-ghost-leaves-sm.jpg"
+ },
+ {
+  "title": "Pumpkin Village",
+  "pack": "halloween",
+  "tags": [
+   "halloween",
+   "village",
+   "street",
+   "pumpkins",
+   "moon",
+   "night"
+  ],
+  "url": "wallpaper-halloween-45-pumpkin-village.html",
+  "img": "assets/img/halloween-45-pumpkin-village-sm.jpg"
+ },
+ {
+  "title": "Haunted Hayride",
+  "pack": "halloween",
+  "tags": [
+   "halloween",
+   "hayride",
+   "farm",
+   "moon",
+   "lanterns",
+   "autumn"
+  ],
+  "url": "wallpaper-halloween-46-hayride.html",
+  "img": "assets/img/halloween-46-hayride-sm.jpg"
+ },
+ {
+  "title": "Spell Book",
+  "pack": "halloween",
+  "tags": [
+   "halloween",
+   "spell book",
+   "candles",
+   "crystals",
+   "magic",
+   "flatlay"
+  ],
+  "url": "wallpaper-halloween-47-spell-book.html",
+  "img": "assets/img/halloween-47-spell-book-sm.jpg"
+ },
+ {
+  "title": "Pumpkin Moon",
+  "pack": "halloween",
+  "tags": [
+   "halloween",
+   "pumpkin",
+   "moon",
+   "bats",
+   "silhouette",
+   "orange"
+  ],
+  "url": "wallpaper-halloween-48-pumpkin-moon.html",
+  "img": "assets/img/halloween-48-pumpkin-moon-sm.jpg"
+ },
+ {
+  "title": "Ghost Friends",
+  "pack": "halloween",
+  "tags": [
+   "halloween",
+   "ghosts",
+   "lanterns",
+   "pumpkins",
+   "cute",
+   "night"
+  ],
+  "url": "wallpaper-halloween-49-ghost-friends.html",
+  "img": "assets/img/halloween-49-ghost-friends-sm.jpg"
+ },
+ {
+  "title": "One Lit Window",
+  "pack": "halloween",
+  "tags": [
+   "halloween",
+   "castle",
+   "moon",
+   "fog",
+   "night",
+   "spooky"
+  ],
+  "url": "wallpaper-halloween-50-castle-moon.html",
+  "img": "assets/img/halloween-50-castle-moon-sm.jpg"
+ },
+ {
+  "title": "The Big Display",
+  "pack": "halloween",
+  "tags": [
+   "halloween",
+   "house",
+   "decorations",
+   "pumpkins",
+   "lights",
+   "night",
+   "purple"
+  ],
+  "url": "wallpaper-halloween-51-candy-house.html",
+  "img": "assets/img/halloween-51-candy-house-sm.jpg"
+ },
+ {
+  "title": "Owl & Pumpkin",
+  "pack": "halloween",
+  "tags": [
+   "halloween",
+   "owl",
+   "pumpkin",
+   "forest",
+   "fireflies",
+   "night"
+  ],
+  "url": "wallpaper-halloween-52-owl-pumpkin.html",
+  "img": "assets/img/halloween-52-owl-pumpkin-sm.jpg"
+ },
+ {
   "title": "Lake Cabin",
   "pack": "autumn",
   "tags": [
