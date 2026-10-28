@@ -2017,5 +2017,579 @@
   ],
   "url": "wallpaper-rain-08-storm-window.html",
   "img": "assets/img/rain-08-storm-window-sm.jpg"
+ },
+ {
+  "title": "Small Steps",
+  "pack": "quotes",
+  "tags": [
+   "quote",
+   "motivational",
+   "ocean",
+   "sunrise",
+   "cliff"
+  ],
+  "url": "wallpaper-quotes-13-cliff.html",
+  "img": "assets/img/quotes-13-cliff-sm.jpg"
+ },
+ {
+  "title": "Future Self",
+  "pack": "quotes",
+  "tags": [
+   "quote",
+   "motivational",
+   "autumn",
+   "road",
+   "forest"
+  ],
+  "url": "wallpaper-quotes-14-road.html",
+  "img": "assets/img/quotes-14-road-sm.jpg"
+ },
+ {
+  "title": "Quiet Consistency",
+  "pack": "quotes",
+  "tags": [
+   "quote",
+   "motivational",
+   "winter",
+   "snow",
+   "cabin",
+   "night"
+  ],
+  "url": "wallpaper-quotes-15-cabin.html",
+  "img": "assets/img/quotes-15-cabin-sm.jpg"
+ },
+ {
+  "title": "Start Where You Are",
+  "pack": "quotes",
+  "tags": [
+   "quote",
+   "motivational",
+   "sunflowers",
+   "sunset",
+   "summer"
+  ],
+  "url": "wallpaper-quotes-16-sunflower.html",
+  "img": "assets/img/quotes-16-sunflower-sm.jpg"
+ },
+ {
+  "title": "Reef Glider",
+  "pack": "sealife",
+  "tags": [
+   "ocean",
+   "turtle",
+   "animal",
+   "underwater",
+   "reef"
+  ],
+  "url": "wallpaper-sealife-01-turtle.html",
+  "img": "assets/img/sealife-01-turtle-sm.jpg"
+ },
+ {
+  "title": "Drifting Lights",
+  "pack": "sealife",
+  "tags": [
+   "ocean",
+   "jellyfish",
+   "animal",
+   "underwater",
+   "blue",
+   "calm"
+  ],
+  "url": "wallpaper-sealife-02-jellyfish.html",
+  "img": "assets/img/sealife-02-jellyfish-sm.jpg"
+ },
+ {
+  "title": "The Giant",
+  "pack": "sealife",
+  "tags": [
+   "ocean",
+   "whale",
+   "animal",
+   "underwater",
+   "blue"
+  ],
+  "url": "wallpaper-sealife-03-whale.html",
+  "img": "assets/img/sealife-03-whale-sm.jpg"
+ },
+ {
+  "title": "Reef City",
+  "pack": "sealife",
+  "tags": [
+   "ocean",
+   "reef",
+   "fish",
+   "animal",
+   "underwater",
+   "colorful"
+  ],
+  "url": "wallpaper-sealife-04-coral-reef.html",
+  "img": "assets/img/sealife-04-coral-reef-sm.jpg"
+ },
+ {
+  "title": "Sunset Leap",
+  "pack": "sealife",
+  "tags": [
+   "ocean",
+   "dolphin",
+   "animal",
+   "sunset"
+  ],
+  "url": "wallpaper-sealife-05-dolphins.html",
+  "img": "assets/img/sealife-05-dolphins-sm.jpg"
+ },
+ {
+  "title": "Golden Seahorse",
+  "pack": "sealife",
+  "tags": [
+   "ocean",
+   "seahorse",
+   "animal",
+   "underwater",
+   "macro"
+  ],
+  "url": "wallpaper-sealife-06-seahorse.html",
+  "img": "assets/img/sealife-06-seahorse-sm.jpg"
+ },
+ {
+  "title": "The Thinker",
+  "pack": "sealife",
+  "tags": [
+   "ocean",
+   "octopus",
+   "animal",
+   "underwater",
+   "reef"
+  ],
+  "url": "wallpaper-sealife-07-octopus.html",
+  "img": "assets/img/sealife-07-octopus-sm.jpg"
+ },
+ {
+  "title": "Apex Silhouette",
+  "pack": "sealife",
+  "tags": [
+   "ocean",
+   "shark",
+   "animal",
+   "underwater"
+  ],
+  "url": "wallpaper-sealife-08-shark.html",
+  "img": "assets/img/sealife-08-shark-sm.jpg"
+ },
+ {
+  "title": "Neon Orange",
+  "pack": "supercars",
+  "tags": [
+   "car",
+   "supercar",
+   "night",
+   "city",
+   "neon"
+  ],
+  "url": "wallpaper-supercars-01-orange-night.html",
+  "img": "assets/img/supercars-01-orange-night-sm.jpg"
+ },
+ {
+  "title": "Matte Black",
+  "pack": "supercars",
+  "tags": [
+   "car",
+   "supercar",
+   "dark",
+   "black",
+   "studio"
+  ],
+  "url": "wallpaper-supercars-02-matte-black.html",
+  "img": "assets/img/supercars-02-matte-black-sm.jpg"
+ },
+ {
+  "title": "Desert Muscle",
+  "pack": "supercars",
+  "tags": [
+   "car",
+   "muscle",
+   "vintage",
+   "desert",
+   "road"
+  ],
+  "url": "wallpaper-supercars-03-muscle.html",
+  "img": "assets/img/supercars-03-muscle-sm.jpg"
+ },
+ {
+  "title": "Drift Smoke",
+  "pack": "supercars",
+  "tags": [
+   "car",
+   "supercar",
+   "drift",
+   "action",
+   "mountains"
+  ],
+  "url": "wallpaper-supercars-04-drift.html",
+  "img": "assets/img/supercars-04-drift-sm.jpg"
+ },
+ {
+  "title": "The Jewel",
+  "pack": "supercars",
+  "tags": [
+   "car",
+   "supercar",
+   "macro",
+   "detail",
+   "dark"
+  ],
+  "url": "wallpaper-supercars-05-headlight.html",
+  "img": "assets/img/supercars-05-headlight-sm.jpg"
+ },
+ {
+  "title": "Desert Hypercar",
+  "pack": "supercars",
+  "tags": [
+   "car",
+   "supercar",
+   "desert",
+   "road",
+   "golden"
+  ],
+  "url": "wallpaper-supercars-06-desert-hyper.html",
+  "img": "assets/img/supercars-06-desert-hyper-sm.jpg"
+ },
+ {
+  "title": "Rain GT",
+  "pack": "supercars",
+  "tags": [
+   "car",
+   "supercar",
+   "rain",
+   "night",
+   "city"
+  ],
+  "url": "wallpaper-supercars-07-rain-gt.html",
+  "img": "assets/img/supercars-07-rain-gt-sm.jpg"
+ },
+ {
+  "title": "The Line-Up",
+  "pack": "supercars",
+  "tags": [
+   "car",
+   "supercar",
+   "garage",
+   "dark"
+  ],
+  "url": "wallpaper-supercars-08-garage.html",
+  "img": "assets/img/supercars-08-garage-sm.jpg"
+ },
+ {
+  "title": "Gradient Waves",
+  "pack": "minimal",
+  "tags": [
+   "minimal",
+   "gradient",
+   "abstract",
+   "aesthetic",
+   "purple",
+   "pink"
+  ],
+  "url": "wallpaper-minimal-01-gradient-waves.html",
+  "img": "assets/img/minimal-01-gradient-waves-sm.jpg"
+ },
+ {
+  "title": "Pastel Shapes",
+  "pack": "minimal",
+  "tags": [
+   "minimal",
+   "pastel",
+   "abstract",
+   "aesthetic",
+   "3d"
+  ],
+  "url": "wallpaper-minimal-02-pastel-shapes.html",
+  "img": "assets/img/minimal-02-pastel-shapes-sm.jpg"
+ },
+ {
+  "title": "Line Sun",
+  "pack": "minimal",
+  "tags": [
+   "minimal",
+   "line art",
+   "sun",
+   "aesthetic",
+   "beige"
+  ],
+  "url": "wallpaper-minimal-03-line-sun.html",
+  "img": "assets/img/minimal-03-line-sun-sm.jpg"
+ },
+ {
+  "title": "The Arch",
+  "pack": "minimal",
+  "tags": [
+   "minimal",
+   "architecture",
+   "beige",
+   "aesthetic",
+   "calm"
+  ],
+  "url": "wallpaper-minimal-04-beige-arch.html",
+  "img": "assets/img/minimal-04-beige-arch-sm.jpg"
+ },
+ {
+  "title": "Silk Mesh",
+  "pack": "minimal",
+  "tags": [
+   "minimal",
+   "gradient",
+   "abstract",
+   "aesthetic",
+   "blue",
+   "green"
+  ],
+  "url": "wallpaper-minimal-05-mesh.html",
+  "img": "assets/img/minimal-05-mesh-sm.jpg"
+ },
+ {
+  "title": "Moon Phases",
+  "pack": "minimal",
+  "tags": [
+   "minimal",
+   "moon",
+   "gold",
+   "dark",
+   "night",
+   "aesthetic"
+  ],
+  "url": "wallpaper-minimal-06-moon-phases.html",
+  "img": "assets/img/minimal-06-moon-phases-sm.jpg"
+ },
+ {
+  "title": "Soft Ribbons",
+  "pack": "minimal",
+  "tags": [
+   "minimal",
+   "pastel",
+   "abstract",
+   "aesthetic",
+   "3d",
+   "pink"
+  ],
+  "url": "wallpaper-minimal-07-soft-3d.html",
+  "img": "assets/img/minimal-07-soft-3d-sm.jpg"
+ },
+ {
+  "title": "One Dune",
+  "pack": "minimal",
+  "tags": [
+   "minimal",
+   "desert",
+   "gradient",
+   "aesthetic",
+   "calm"
+  ],
+  "url": "wallpaper-minimal-08-desert-dune.html",
+  "img": "assets/img/minimal-08-desert-dune-sm.jpg"
+ },
+ {
+  "title": "Blossom Street",
+  "pack": "blossoms",
+  "tags": [
+   "spring",
+   "cherry blossom",
+   "flowers",
+   "street",
+   "pink",
+   "japan"
+  ],
+  "url": "wallpaper-blossoms-01-cherry-street.html",
+  "img": "assets/img/blossoms-01-cherry-street-sm.jpg"
+ },
+ {
+  "title": "Magnolia Sky",
+  "pack": "blossoms",
+  "tags": [
+   "spring",
+   "magnolia",
+   "flowers",
+   "pink",
+   "sky"
+  ],
+  "url": "wallpaper-blossoms-02-magnolia.html",
+  "img": "assets/img/blossoms-02-magnolia-sm.jpg"
+ },
+ {
+  "title": "Wisteria Tunnel",
+  "pack": "blossoms",
+  "tags": [
+   "spring",
+   "wisteria",
+   "flowers",
+   "purple",
+   "garden"
+  ],
+  "url": "wallpaper-blossoms-03-wisteria.html",
+  "img": "assets/img/blossoms-03-wisteria-sm.jpg"
+ },
+ {
+  "title": "Blossom Lake",
+  "pack": "blossoms",
+  "tags": [
+   "spring",
+   "cherry blossom",
+   "flowers",
+   "lake",
+   "mountains"
+  ],
+  "url": "wallpaper-blossoms-04-blossom-lake.html",
+  "img": "assets/img/blossoms-04-blossom-lake-sm.jpg"
+ },
+ {
+  "title": "Dew Tulip",
+  "pack": "blossoms",
+  "tags": [
+   "spring",
+   "tulip",
+   "flowers",
+   "macro",
+   "nature"
+  ],
+  "url": "wallpaper-blossoms-05-tulip-macro.html",
+  "img": "assets/img/blossoms-05-tulip-macro-sm.jpg"
+ },
+ {
+  "title": "Blossom Train",
+  "pack": "blossoms",
+  "tags": [
+   "spring",
+   "cherry blossom",
+   "train",
+   "japan",
+   "travel"
+  ],
+  "url": "wallpaper-blossoms-06-blossom-train.html",
+  "img": "assets/img/blossoms-06-blossom-train-sm.jpg"
+ },
+ {
+  "title": "Petal Rain",
+  "pack": "blossoms",
+  "tags": [
+   "spring",
+   "cherry blossom",
+   "flowers",
+   "park",
+   "golden"
+  ],
+  "url": "wallpaper-blossoms-07-petal-rain.html",
+  "img": "assets/img/blossoms-07-petal-rain-sm.jpg"
+ },
+ {
+  "title": "Almond Bloom",
+  "pack": "blossoms",
+  "tags": [
+   "spring",
+   "flowers",
+   "white",
+   "sky",
+   "nature"
+  ],
+  "url": "wallpaper-blossoms-08-almond.html",
+  "img": "assets/img/blossoms-08-almond-sm.jpg"
+ },
+ {
+  "title": "Moonrise Lake",
+  "pack": "nightsky",
+  "tags": [
+   "night",
+   "moon",
+   "lake",
+   "stars",
+   "calm"
+  ],
+  "url": "wallpaper-nightsky-01-full-moon-lake.html",
+  "img": "assets/img/nightsky-01-full-moon-lake-sm.jpg"
+ },
+ {
+  "title": "Crescent Sea",
+  "pack": "nightsky",
+  "tags": [
+   "night",
+   "moon",
+   "ocean",
+   "stars",
+   "calm"
+  ],
+  "url": "wallpaper-nightsky-02-crescent-sea.html",
+  "img": "assets/img/nightsky-02-crescent-sea-sm.jpg"
+ },
+ {
+  "title": "Tent Under Stars",
+  "pack": "nightsky",
+  "tags": [
+   "night",
+   "stars",
+   "camping",
+   "mountains",
+   "milky way"
+  ],
+  "url": "wallpaper-nightsky-03-camping-stars.html",
+  "img": "assets/img/nightsky-03-camping-stars-sm.jpg"
+ },
+ {
+  "title": "Aurora Cabin",
+  "pack": "nightsky",
+  "tags": [
+   "night",
+   "aurora",
+   "winter",
+   "snow",
+   "cabin",
+   "stars"
+  ],
+  "url": "wallpaper-nightsky-04-aurora-cabin.html",
+  "img": "assets/img/nightsky-04-aurora-cabin-sm.jpg"
+ },
+ {
+  "title": "Desert Milky Way",
+  "pack": "nightsky",
+  "tags": [
+   "night",
+   "stars",
+   "milky way",
+   "desert"
+  ],
+  "url": "wallpaper-nightsky-05-milkyway-rock.html",
+  "img": "assets/img/nightsky-05-milkyway-rock-sm.jpg"
+ },
+ {
+  "title": "Moon Through Pines",
+  "pack": "nightsky",
+  "tags": [
+   "night",
+   "moon",
+   "forest",
+   "trees"
+  ],
+  "url": "wallpaper-nightsky-06-moon-trees.html",
+  "img": "assets/img/nightsky-06-moon-trees-sm.jpg"
+ },
+ {
+  "title": "Cliff of Stars",
+  "pack": "nightsky",
+  "tags": [
+   "night",
+   "stars",
+   "cliff",
+   "silhouette"
+  ],
+  "url": "wallpaper-nightsky-07-starry-cliff.html",
+  "img": "assets/img/nightsky-07-starry-cliff-sm.jpg"
+ },
+ {
+  "title": "Make a Wish",
+  "pack": "nightsky",
+  "tags": [
+   "night",
+   "stars",
+   "shooting star",
+   "valley"
+  ],
+  "url": "wallpaper-nightsky-08-shooting-star.html",
+  "img": "assets/img/nightsky-08-shooting-star-sm.jpg"
  }
 ]
