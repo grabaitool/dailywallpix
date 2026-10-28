@@ -11532,6 +11532,578 @@
   "img": "assets/img/minimal-08-desert-dune-sm.jpg"
  },
  {
+  "title": "Terracotta Arch",
+  "pack": "minimal",
+  "tags": [
+   "minimal",
+   "arch",
+   "terracotta",
+   "cream",
+   "boho"
+  ],
+  "url": "wallpaper-minimal-09-terracotta-arch.html",
+  "img": "assets/img/minimal-09-terracotta-arch-sm.jpg"
+ },
+ {
+  "title": "Sage Circle",
+  "pack": "minimal",
+  "tags": [
+   "minimal",
+   "sage",
+   "circle",
+   "calm",
+   "green"
+  ],
+  "url": "wallpaper-minimal-10-sage-circle.html",
+  "img": "assets/img/minimal-10-sage-circle-sm.jpg"
+ },
+ {
+  "title": "Navy Wave",
+  "pack": "minimal",
+  "tags": [
+   "minimal",
+   "wave",
+   "navy",
+   "line",
+   "ocean"
+  ],
+  "url": "wallpaper-minimal-11-navy-wave.html",
+  "img": "assets/img/minimal-11-navy-wave-sm.jpg"
+ },
+ {
+  "title": "Blush Gradient",
+  "pack": "minimal",
+  "tags": [
+   "minimal",
+   "blush",
+   "gradient",
+   "pink",
+   "sun"
+  ],
+  "url": "wallpaper-minimal-12-blush-gradient.html",
+  "img": "assets/img/minimal-12-blush-gradient-sm.jpg"
+ },
+ {
+  "title": "Sand Lines",
+  "pack": "minimal",
+  "tags": [
+   "minimal",
+   "lines",
+   "sand",
+   "beige",
+   "curve"
+  ],
+  "url": "wallpaper-minimal-13-sand-lines.html",
+  "img": "assets/img/minimal-13-sand-lines-sm.jpg"
+ },
+ {
+  "title": "Charcoal & Gold",
+  "pack": "minimal",
+  "tags": [
+   "minimal",
+   "charcoal",
+   "gold",
+   "dot",
+   "modern"
+  ],
+  "url": "wallpaper-minimal-14-charcoal-dot.html",
+  "img": "assets/img/minimal-14-charcoal-dot-sm.jpg"
+ },
+ {
+  "title": "Lavender Haze",
+  "pack": "minimal",
+  "tags": [
+   "minimal",
+   "lavender",
+   "gradient",
+   "dreamy",
+   "purple"
+  ],
+  "url": "wallpaper-minimal-15-lavender-haze.html",
+  "img": "assets/img/minimal-15-lavender-haze-sm.jpg"
+ },
+ {
+  "title": "Olive Line",
+  "pack": "minimal",
+  "tags": [
+   "minimal",
+   "olive",
+   "line art",
+   "branch",
+   "elegant"
+  ],
+  "url": "wallpaper-minimal-16-olive-branch.html",
+  "img": "assets/img/minimal-16-olive-branch-sm.jpg"
+ },
+ {
+  "title": "Mist Mountain",
+  "pack": "minimal",
+  "tags": [
+   "minimal",
+   "mountain",
+   "mist",
+   "grey",
+   "layers"
+  ],
+  "url": "wallpaper-minimal-17-mist-mountain.html",
+  "img": "assets/img/minimal-17-mist-mountain-sm.jpg"
+ },
+ {
+  "title": "Coral Block",
+  "pack": "minimal",
+  "tags": [
+   "minimal",
+   "coral",
+   "color block",
+   "bold",
+   "cream"
+  ],
+  "url": "wallpaper-minimal-18-coral-block.html",
+  "img": "assets/img/minimal-18-coral-block-sm.jpg"
+ },
+ {
+  "title": "Window Shadow",
+  "pack": "minimal",
+  "tags": [
+   "minimal",
+   "shadow",
+   "light",
+   "wall",
+   "warm"
+  ],
+  "url": "wallpaper-minimal-19-paper-shadow.html",
+  "img": "assets/img/minimal-19-paper-shadow-sm.jpg"
+ },
+ {
+  "title": "Ink Stroke",
+  "pack": "minimal",
+  "tags": [
+   "minimal",
+   "ink",
+   "brush",
+   "zen",
+   "black"
+  ],
+  "url": "wallpaper-minimal-20-ink-brush.html",
+  "img": "assets/img/minimal-20-ink-brush-sm.jpg"
+ },
+ {
+  "title": "Zen Pebbles",
+  "pack": "minimal",
+  "tags": [
+   "minimal",
+   "pebbles",
+   "zen",
+   "stack",
+   "calm"
+  ],
+  "url": "wallpaper-minimal-21-pebble-zen.html",
+  "img": "assets/img/minimal-21-pebble-zen-sm.jpg"
+ },
+ {
+  "title": "Aqua Arc",
+  "pack": "minimal",
+  "tags": [
+   "minimal",
+   "aqua",
+   "arc",
+   "rainbow",
+   "sand"
+  ],
+  "url": "wallpaper-minimal-22-aqua-arc.html",
+  "img": "assets/img/minimal-22-aqua-arc-sm.jpg"
+ },
+ {
+  "title": "Rose Moon",
+  "pack": "minimal",
+  "tags": [
+   "minimal",
+   "moon",
+   "rose",
+   "dune",
+   "pink"
+  ],
+  "url": "wallpaper-minimal-23-rose-moon.html",
+  "img": "assets/img/minimal-23-rose-moon-sm.jpg"
+ },
+ {
+  "title": "One Blue Square",
+  "pack": "minimal",
+  "tags": [
+   "minimal",
+   "grid",
+   "grey",
+   "blue",
+   "subtle"
+  ],
+  "url": "wallpaper-minimal-24-grid-soft.html",
+  "img": "assets/img/minimal-24-grid-soft-sm.jpg"
+ },
+ {
+  "title": "Ocean Line",
+  "pack": "minimal",
+  "tags": [
+   "minimal",
+   "ocean",
+   "horizon",
+   "blue",
+   "white"
+  ],
+  "url": "wallpaper-minimal-25-ocean-line.html",
+  "img": "assets/img/minimal-25-ocean-line-sm.jpg"
+ },
+ {
+  "title": "Mustard Sun",
+  "pack": "minimal",
+  "tags": [
+   "minimal",
+   "sun",
+   "mustard",
+   "yellow",
+   "cream"
+  ],
+  "url": "wallpaper-minimal-26-mustard-sun.html",
+  "img": "assets/img/minimal-26-mustard-sun-sm.jpg"
+ },
+ {
+  "title": "Clay Vase",
+  "pack": "minimal",
+  "tags": [
+   "minimal",
+   "vase",
+   "clay",
+   "beige",
+   "still life"
+  ],
+  "url": "wallpaper-minimal-27-clay-vase.html",
+  "img": "assets/img/minimal-27-clay-vase-sm.jpg"
+ },
+ {
+  "title": "Fog Fade",
+  "pack": "minimal",
+  "tags": [
+   "minimal",
+   "fog",
+   "gradient",
+   "grey",
+   "calm"
+  ],
+  "url": "wallpaper-minimal-28-fog-gradient.html",
+  "img": "assets/img/minimal-28-fog-gradient-sm.jpg"
+ },
+ {
+  "title": "Teal Corner",
+  "pack": "minimal",
+  "tags": [
+   "minimal",
+   "teal",
+   "corner",
+   "circle",
+   "modern"
+  ],
+  "url": "wallpaper-minimal-29-teal-corner.html",
+  "img": "assets/img/minimal-29-teal-corner-sm.jpg"
+ },
+ {
+  "title": "Botanical Line",
+  "pack": "minimal",
+  "tags": [
+   "minimal",
+   "botanical",
+   "line art",
+   "leaf",
+   "elegant"
+  ],
+  "url": "wallpaper-minimal-30-botanical-line.html",
+  "img": "assets/img/minimal-30-botanical-line-sm.jpg"
+ },
+ {
+  "title": "Dune Shadow",
+  "pack": "minimal",
+  "tags": [
+   "minimal",
+   "dune",
+   "shadow",
+   "sand",
+   "desert"
+  ],
+  "url": "wallpaper-minimal-31-dune-shadow.html",
+  "img": "assets/img/minimal-31-dune-shadow-sm.jpg"
+ },
+ {
+  "title": "Night Dot",
+  "pack": "minimal",
+  "tags": [
+   "minimal",
+   "night",
+   "navy",
+   "moon",
+   "dark"
+  ],
+  "url": "wallpaper-minimal-32-night-dot.html",
+  "img": "assets/img/minimal-32-night-dot-sm.jpg"
+ },
+ {
+  "title": "Muted Rainbow",
+  "pack": "minimal",
+  "tags": [
+   "minimal",
+   "rainbow",
+   "muted",
+   "earth tones",
+   "cream"
+  ],
+  "url": "wallpaper-minimal-33-rainbow-muted.html",
+  "img": "assets/img/minimal-33-rainbow-muted-sm.jpg"
+ },
+ {
+  "title": "Single Cloud",
+  "pack": "minimal",
+  "tags": [
+   "minimal",
+   "cloud",
+   "sky",
+   "blue",
+   "calm"
+  ],
+  "url": "wallpaper-minimal-34-single-cloud.html",
+  "img": "assets/img/minimal-34-single-cloud-sm.jpg"
+ },
+ {
+  "title": "Stone Arch",
+  "pack": "minimal",
+  "tags": [
+   "minimal",
+   "arch",
+   "stone",
+   "sandstone",
+   "doorway"
+  ],
+  "url": "wallpaper-minimal-35-stone-arch.html",
+  "img": "assets/img/minimal-35-stone-arch-sm.jpg"
+ },
+ {
+  "title": "Wave Curve",
+  "pack": "minimal",
+  "tags": [
+   "minimal",
+   "wave",
+   "curve",
+   "blue",
+   "white"
+  ],
+  "url": "wallpaper-minimal-36-wave-curve.html",
+  "img": "assets/img/minimal-36-wave-curve-sm.jpg"
+ },
+ {
+  "title": "Leaf Shadow",
+  "pack": "minimal",
+  "tags": [
+   "minimal",
+   "leaf",
+   "shadow",
+   "wall",
+   "sunlight"
+  ],
+  "url": "wallpaper-minimal-37-leaf-shadow.html",
+  "img": "assets/img/minimal-37-leaf-shadow-sm.jpg"
+ },
+ {
+  "title": "Peach Orb",
+  "pack": "minimal",
+  "tags": [
+   "minimal",
+   "peach",
+   "orb",
+   "glow",
+   "gradient"
+  ],
+  "url": "wallpaper-minimal-38-peach-orb.html",
+  "img": "assets/img/minimal-38-peach-orb-sm.jpg"
+ },
+ {
+  "title": "Pine Line",
+  "pack": "minimal",
+  "tags": [
+   "minimal",
+   "pine",
+   "forest",
+   "sage",
+   "silhouette"
+  ],
+  "url": "wallpaper-minimal-39-pine-line.html",
+  "img": "assets/img/minimal-39-pine-line-sm.jpg"
+ },
+ {
+  "title": "Gold Vein",
+  "pack": "minimal",
+  "tags": [
+   "minimal",
+   "marble",
+   "gold",
+   "luxury",
+   "white"
+  ],
+  "url": "wallpaper-minimal-40-marble-vein.html",
+  "img": "assets/img/minimal-40-marble-vein-sm.jpg"
+ },
+ {
+  "title": "Sun Mirror",
+  "pack": "minimal",
+  "tags": [
+   "minimal",
+   "sun",
+   "reflection",
+   "water",
+   "two tone"
+  ],
+  "url": "wallpaper-minimal-41-sun-mirror.html",
+  "img": "assets/img/minimal-41-sun-mirror-sm.jpg"
+ },
+ {
+  "title": "Taupe Forms",
+  "pack": "minimal",
+  "tags": [
+   "minimal",
+   "taupe",
+   "organic",
+   "shapes",
+   "cream"
+  ],
+  "url": "wallpaper-minimal-42-taupe-forms.html",
+  "img": "assets/img/minimal-42-taupe-forms-sm.jpg"
+ },
+ {
+  "title": "One Feather",
+  "pack": "minimal",
+  "tags": [
+   "minimal",
+   "feather",
+   "grey",
+   "soft",
+   "floating"
+  ],
+  "url": "wallpaper-minimal-43-feather.html",
+  "img": "assets/img/minimal-43-feather-sm.jpg"
+ },
+ {
+  "title": "Sky Fade",
+  "pack": "minimal",
+  "tags": [
+   "minimal",
+   "sky",
+   "gradient",
+   "blue",
+   "serene"
+  ],
+  "url": "wallpaper-minimal-44-sky-fade.html",
+  "img": "assets/img/minimal-44-sky-fade-sm.jpg"
+ },
+ {
+  "title": "Circle Duo",
+  "pack": "minimal",
+  "tags": [
+   "minimal",
+   "circles",
+   "terracotta",
+   "sage",
+   "overlap"
+  ],
+  "url": "wallpaper-minimal-45-circle-duo.html",
+  "img": "assets/img/minimal-45-circle-duo-sm.jpg"
+ },
+ {
+  "title": "Zen Garden",
+  "pack": "minimal",
+  "tags": [
+   "minimal",
+   "zen",
+   "garden",
+   "sand",
+   "stone"
+  ],
+  "url": "wallpaper-minimal-46-zen-garden.html",
+  "img": "assets/img/minimal-46-zen-garden-sm.jpg"
+ },
+ {
+  "title": "Moon Arch",
+  "pack": "minimal",
+  "tags": [
+   "minimal",
+   "moon",
+   "arch",
+   "terracotta",
+   "beige"
+  ],
+  "url": "wallpaper-minimal-47-moon-arch.html",
+  "img": "assets/img/minimal-47-moon-arch-sm.jpg"
+ },
+ {
+  "title": "Gold Horizon",
+  "pack": "minimal",
+  "tags": [
+   "minimal",
+   "gold",
+   "horizon",
+   "grey",
+   "luxury"
+  ],
+  "url": "wallpaper-minimal-48-horizon-gold.html",
+  "img": "assets/img/minimal-48-horizon-gold-sm.jpg"
+ },
+ {
+  "title": "Arch Duo",
+  "pack": "minimal",
+  "tags": [
+   "minimal",
+   "arches",
+   "sand",
+   "clay",
+   "cream"
+  ],
+  "url": "wallpaper-minimal-49-soft-arch-duo.html",
+  "img": "assets/img/minimal-49-soft-arch-duo-sm.jpg"
+ },
+ {
+  "title": "Lone Bird",
+  "pack": "minimal",
+  "tags": [
+   "minimal",
+   "bird",
+   "sky",
+   "gradient",
+   "freedom"
+  ],
+  "url": "wallpaper-minimal-50-lone-bird.html",
+  "img": "assets/img/minimal-50-lone-bird-sm.jpg"
+ },
+ {
+  "title": "Green Slope",
+  "pack": "minimal",
+  "tags": [
+   "minimal",
+   "hill",
+   "green",
+   "slope",
+   "cloud"
+  ],
+  "url": "wallpaper-minimal-51-green-slope.html",
+  "img": "assets/img/minimal-51-green-slope-sm.jpg"
+ },
+ {
+  "title": "Warm Void",
+  "pack": "minimal",
+  "tags": [
+   "minimal",
+   "void",
+   "ivory",
+   "sun dot",
+   "extreme minimal"
+  ],
+  "url": "wallpaper-minimal-52-warm-void.html",
+  "img": "assets/img/minimal-52-warm-void-sm.jpg"
+ },
+ {
   "title": "Blossom Street",
   "pack": "blossoms",
   "tags": [
