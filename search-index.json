@@ -516,5 +516,370 @@
   ],
   "url": "wallpaper-aesthetic-04-gradient-waves.html",
   "img": "assets/img/aesthetic-04-gradient-waves-sm.jpg"
+ },
+ {
+  "title": "The Christmas Tree",
+  "pack": "christmas",
+  "tags": [
+   "christmas",
+   "tree",
+   "lights",
+   "cozy",
+   "winter"
+  ],
+  "url": "wallpaper-christmas-01-tree-lights.html",
+  "img": "assets/img/christmas-01-tree-lights-sm.jpg"
+ },
+ {
+  "title": "Christmas Street",
+  "pack": "christmas",
+  "tags": [
+   "christmas",
+   "snow",
+   "street",
+   "night",
+   "winter"
+  ],
+  "url": "wallpaper-christmas-02-snowy-street.html",
+  "img": "assets/img/christmas-02-snowy-street-sm.jpg"
+ },
+ {
+  "title": "The Reindeer",
+  "pack": "christmas",
+  "tags": [
+   "christmas",
+   "reindeer",
+   "snow",
+   "animal",
+   "winter",
+   "night"
+  ],
+  "url": "wallpaper-christmas-03-reindeer.html",
+  "img": "assets/img/christmas-03-reindeer-sm.jpg"
+ },
+ {
+  "title": "Christmas Cabin",
+  "pack": "christmas",
+  "tags": [
+   "christmas",
+   "cabin",
+   "snow",
+   "cozy",
+   "winter",
+   "night"
+  ],
+  "url": "wallpaper-christmas-04-cozy-cabin.html",
+  "img": "assets/img/christmas-04-cozy-cabin-sm.jpg"
+ },
+ {
+  "title": "Midnight Fireworks",
+  "pack": "newyear",
+  "tags": [
+   "new year",
+   "fireworks",
+   "city",
+   "night",
+   "celebration"
+  ],
+  "url": "wallpaper-newyear-01-fireworks-city.html",
+  "img": "assets/img/newyear-01-fireworks-city-sm.jpg"
+ },
+ {
+  "title": "Black & Gold",
+  "pack": "newyear",
+  "tags": [
+   "new year",
+   "gold",
+   "glitter",
+   "party",
+   "celebration"
+  ],
+  "url": "wallpaper-newyear-02-gold-glitter.html",
+  "img": "assets/img/newyear-02-gold-glitter-sm.jpg"
+ },
+ {
+  "title": "Beach Fireworks",
+  "pack": "newyear",
+  "tags": [
+   "new year",
+   "fireworks",
+   "beach",
+   "night",
+   "celebration"
+  ],
+  "url": "wallpaper-newyear-03-fireworks-beach.html",
+  "img": "assets/img/newyear-03-fireworks-beach-sm.jpg"
+ },
+ {
+  "title": "The Toast",
+  "pack": "newyear",
+  "tags": [
+   "new year",
+   "champagne",
+   "toast",
+   "gold",
+   "celebration",
+   "party"
+  ],
+  "url": "wallpaper-newyear-04-champagne-toast.html",
+  "img": "assets/img/newyear-04-champagne-toast-sm.jpg"
+ },
+ {
+  "title": "Decide Your Tomorrow",
+  "pack": "quotes",
+  "tags": [
+   "quote",
+   "motivational",
+   "mountains",
+   "sunrise"
+  ],
+  "url": "wallpaper-quotes-01-dawn.html",
+  "img": "assets/img/quotes-01-dawn-sm.jpg"
+ },
+ {
+  "title": "Slow Progress",
+  "pack": "quotes",
+  "tags": [
+   "quote",
+   "motivational",
+   "ocean",
+   "calm"
+  ],
+  "url": "wallpaper-quotes-02-progress.html",
+  "img": "assets/img/quotes-02-progress-sm.jpg"
+ },
+ {
+  "title": "The Next Step",
+  "pack": "quotes",
+  "tags": [
+   "quote",
+   "motivational",
+   "forest",
+   "focus"
+  ],
+  "url": "wallpaper-quotes-03-step.html",
+  "img": "assets/img/quotes-03-step-sm.jpg"
+ },
+ {
+  "title": "Built in Silence",
+  "pack": "quotes",
+  "tags": [
+   "quote",
+   "motivational",
+   "city",
+   "night"
+  ],
+  "url": "wallpaper-quotes-04-silence.html",
+  "img": "assets/img/quotes-04-silence-sm.jpg"
+ },
+ {
+  "title": "Neon Nights",
+  "pack": "cars",
+  "tags": [
+   "car",
+   "sports car",
+   "neon",
+   "night",
+   "city"
+  ],
+  "url": "wallpaper-cars-01-neon-sports.html",
+  "img": "assets/img/cars-01-neon-sports-sm.jpg"
+ },
+ {
+  "title": "Golden Muscle",
+  "pack": "cars",
+  "tags": [
+   "car",
+   "muscle car",
+   "classic",
+   "road"
+  ],
+  "url": "wallpaper-cars-02-classic-muscle.html",
+  "img": "assets/img/cars-02-classic-muscle-sm.jpg"
+ },
+ {
+  "title": "Rain Lights",
+  "pack": "cars",
+  "tags": [
+   "car",
+   "supercar",
+   "rain",
+   "night",
+   "lights"
+  ],
+  "url": "wallpaper-cars-03-rain-lights.html",
+  "img": "assets/img/cars-03-rain-lights-sm.jpg"
+ },
+ {
+  "title": "Above the Clouds",
+  "pack": "cars",
+  "tags": [
+   "car",
+   "truck",
+   "offroad",
+   "mountains",
+   "adventure"
+  ],
+  "url": "wallpaper-cars-04-offroad.html",
+  "img": "assets/img/cars-04-offroad-sm.jpg"
+ },
+ {
+  "title": "Golden Puppy",
+  "pack": "pets",
+  "tags": [
+   "pet",
+   "dog",
+   "puppy",
+   "cute",
+   "animal"
+  ],
+  "url": "wallpaper-pets-01-puppy.html",
+  "img": "assets/img/pets-01-puppy-sm.jpg"
+ },
+ {
+  "title": "Big Eyes",
+  "pack": "pets",
+  "tags": [
+   "pet",
+   "cat",
+   "kitten",
+   "cute",
+   "animal"
+  ],
+  "url": "wallpaper-pets-02-kitten.html",
+  "img": "assets/img/pets-02-kitten-sm.jpg"
+ },
+ {
+  "title": "The Head Tilt",
+  "pack": "pets",
+  "tags": [
+   "pet",
+   "dog",
+   "bulldog",
+   "cute",
+   "animal"
+  ],
+  "url": "wallpaper-pets-03-bulldog.html",
+  "img": "assets/img/pets-03-bulldog-sm.jpg"
+ },
+ {
+  "title": "Snow Pup",
+  "pack": "pets",
+  "tags": [
+   "pet",
+   "dog",
+   "husky",
+   "puppy",
+   "snow",
+   "cute",
+   "animal",
+   "winter"
+  ],
+  "url": "wallpaper-pets-04-husky.html",
+  "img": "assets/img/pets-04-husky-sm.jpg"
+ },
+ {
+  "title": "Blossom Girl",
+  "pack": "anime",
+  "tags": [
+   "anime",
+   "girl",
+   "cherry blossom",
+   "spring",
+   "pink"
+  ],
+  "url": "wallpaper-anime-01-blossom-girl.html",
+  "img": "assets/img/anime-01-blossom-girl-sm.jpg"
+ },
+ {
+  "title": "Rainy Train Ride",
+  "pack": "anime",
+  "tags": [
+   "anime",
+   "boy",
+   "train",
+   "rain",
+   "night",
+   "city"
+  ],
+  "url": "wallpaper-anime-02-train-boy.html",
+  "img": "assets/img/anime-02-train-boy-sm.jpg"
+ },
+ {
+  "title": "Castle in the Clouds",
+  "pack": "anime",
+  "tags": [
+   "anime",
+   "fantasy",
+   "castle",
+   "sky",
+   "sunset"
+  ],
+  "url": "wallpaper-anime-03-sky-castle.html",
+  "img": "assets/img/anime-03-sky-castle-sm.jpg"
+ },
+ {
+  "title": "The Cozy Room",
+  "pack": "anime",
+  "tags": [
+   "anime",
+   "cozy",
+   "room",
+   "rain",
+   "lofi"
+  ],
+  "url": "wallpaper-anime-04-cozy-room.html",
+  "img": "assets/img/anime-04-cozy-room-sm.jpg"
+ },
+ {
+  "title": "The Setup",
+  "pack": "gaming",
+  "tags": [
+   "gaming",
+   "setup",
+   "neon",
+   "room",
+   "rgb"
+  ],
+  "url": "wallpaper-gaming-01-neon-setup.html",
+  "img": "assets/img/gaming-01-neon-setup-sm.jpg"
+ },
+ {
+  "title": "Cyber Warrior",
+  "pack": "gaming",
+  "tags": [
+   "gaming",
+   "cyberpunk",
+   "warrior",
+   "neon",
+   "city"
+  ],
+  "url": "wallpaper-gaming-02-cyber-warrior.html",
+  "img": "assets/img/gaming-02-cyber-warrior-sm.jpg"
+ },
+ {
+  "title": "Light Tunnel",
+  "pack": "gaming",
+  "tags": [
+   "gaming",
+   "racing",
+   "car",
+   "neon",
+   "speed"
+  ],
+  "url": "wallpaper-gaming-03-racing.html",
+  "img": "assets/img/gaming-03-racing-sm.jpg"
+ },
+ {
+  "title": "Dragon Kingdom",
+  "pack": "gaming",
+  "tags": [
+   "gaming",
+   "dragon",
+   "fantasy",
+   "kingdom"
+  ],
+  "url": "wallpaper-gaming-04-dragon.html",
+  "img": "assets/img/gaming-04-dragon-sm.jpg"
  }
 ]
