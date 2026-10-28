@@ -163,5 +163,358 @@
   ],
   "url": "wallpaper-winter-snowy-owl.html",
   "img": "assets/img/winter-snowy-owl-sm.jpg"
+ },
+ {
+  "title": "Mountain Lake",
+  "pack": "nature",
+  "tags": [
+   "nature",
+   "mountains",
+   "lake",
+   "sunrise"
+  ],
+  "url": "wallpaper-nature-01-mountain-lake.html",
+  "img": "assets/img/nature-01-mountain-lake-sm.jpg"
+ },
+ {
+  "title": "Jungle Waterfall",
+  "pack": "nature",
+  "tags": [
+   "nature",
+   "waterfall",
+   "forest",
+   "green"
+  ],
+  "url": "wallpaper-nature-02-waterfall.html",
+  "img": "assets/img/nature-02-waterfall-sm.jpg"
+ },
+ {
+  "title": "Desert Dunes",
+  "pack": "nature",
+  "tags": [
+   "nature",
+   "desert",
+   "sunset",
+   "minimal"
+  ],
+  "url": "wallpaper-nature-03-desert-dunes.html",
+  "img": "assets/img/nature-03-desert-dunes-sm.jpg"
+ },
+ {
+  "title": "Blossom River",
+  "pack": "nature",
+  "tags": [
+   "nature",
+   "spring",
+   "cherry blossom",
+   "pink",
+   "flowers"
+  ],
+  "url": "wallpaper-nature-04-cherry-blossom.html",
+  "img": "assets/img/nature-04-cherry-blossom-sm.jpg"
+ },
+ {
+  "title": "Turquoise Beach",
+  "pack": "ocean",
+  "tags": [
+   "ocean",
+   "beach",
+   "summer",
+   "aerial"
+  ],
+  "url": "wallpaper-ocean-01-turquoise-beach.html",
+  "img": "assets/img/ocean-01-turquoise-beach-sm.jpg"
+ },
+ {
+  "title": "Golden Wave",
+  "pack": "ocean",
+  "tags": [
+   "ocean",
+   "wave",
+   "sunset",
+   "beach"
+  ],
+  "url": "wallpaper-ocean-02-sunset-wave.html",
+  "img": "assets/img/ocean-02-sunset-wave-sm.jpg"
+ },
+ {
+  "title": "The Lighthouse",
+  "pack": "ocean",
+  "tags": [
+   "ocean",
+   "lighthouse",
+   "coast",
+   "dusk"
+  ],
+  "url": "wallpaper-ocean-03-lighthouse.html",
+  "img": "assets/img/ocean-03-lighthouse-sm.jpg"
+ },
+ {
+  "title": "Sea Turtle",
+  "pack": "ocean",
+  "tags": [
+   "ocean",
+   "turtle",
+   "animal",
+   "underwater",
+   "wildlife"
+  ],
+  "url": "wallpaper-ocean-04-sea-turtle.html",
+  "img": "assets/img/ocean-04-sea-turtle-sm.jpg"
+ },
+ {
+  "title": "Milky Way Camp",
+  "pack": "space",
+  "tags": [
+   "space",
+   "night",
+   "stars",
+   "milky way",
+   "mountains"
+  ],
+  "url": "wallpaper-space-01-milky-way.html",
+  "img": "assets/img/space-01-milky-way-sm.jpg"
+ },
+ {
+  "title": "Earthrise",
+  "pack": "space",
+  "tags": [
+   "space",
+   "earth",
+   "planet",
+   "night"
+  ],
+  "url": "wallpaper-space-02-earth-view.html",
+  "img": "assets/img/space-02-earth-view-sm.jpg"
+ },
+ {
+  "title": "Purple Nebula",
+  "pack": "space",
+  "tags": [
+   "space",
+   "nebula",
+   "stars",
+   "purple"
+  ],
+  "url": "wallpaper-space-03-purple-nebula.html",
+  "img": "assets/img/space-03-purple-nebula-sm.jpg"
+ },
+ {
+  "title": "Moon Lake",
+  "pack": "space",
+  "tags": [
+   "space",
+   "moon",
+   "night",
+   "lake",
+   "nature"
+  ],
+  "url": "wallpaper-space-04-moon-lake.html",
+  "img": "assets/img/space-04-moon-lake-sm.jpg"
+ },
+ {
+  "title": "Tokyo Rain",
+  "pack": "city",
+  "tags": [
+   "city",
+   "tokyo",
+   "night",
+   "neon",
+   "rain"
+  ],
+  "url": "wallpaper-city-01-tokyo-rain.html",
+  "img": "assets/img/city-01-tokyo-rain-sm.jpg"
+ },
+ {
+  "title": "New York Dusk",
+  "pack": "city",
+  "tags": [
+   "city",
+   "new york",
+   "skyline",
+   "night"
+  ],
+  "url": "wallpaper-city-02-ny-skyline.html",
+  "img": "assets/img/city-02-ny-skyline-sm.jpg"
+ },
+ {
+  "title": "Paris Golden Hour",
+  "pack": "city",
+  "tags": [
+   "city",
+   "paris",
+   "travel",
+   "golden"
+  ],
+  "url": "wallpaper-city-03-paris.html",
+  "img": "assets/img/city-03-paris-sm.jpg"
+ },
+ {
+  "title": "Dubai Nights",
+  "pack": "city",
+  "tags": [
+   "city",
+   "dubai",
+   "night",
+   "skyline",
+   "luxury"
+  ],
+  "url": "wallpaper-city-04-dubai-night.html",
+  "img": "assets/img/city-04-dubai-night-sm.jpg"
+ },
+ {
+  "title": "Neon Wolf",
+  "pack": "amoled",
+  "tags": [
+   "amoled",
+   "dark",
+   "neon",
+   "wolf",
+   "animal",
+   "black"
+  ],
+  "url": "wallpaper-amoled-01-neon-wolf.html",
+  "img": "assets/img/amoled-01-neon-wolf-sm.jpg"
+ },
+ {
+  "title": "Black Rose",
+  "pack": "amoled",
+  "tags": [
+   "amoled",
+   "dark",
+   "rose",
+   "flower",
+   "black"
+  ],
+  "url": "wallpaper-amoled-02-black-rose.html",
+  "img": "assets/img/amoled-02-black-rose-sm.jpg"
+ },
+ {
+  "title": "Neon Peaks",
+  "pack": "amoled",
+  "tags": [
+   "amoled",
+   "dark",
+   "neon",
+   "mountains",
+   "minimal"
+  ],
+  "url": "wallpaper-amoled-03-neon-mountains.html",
+  "img": "assets/img/amoled-03-neon-mountains-sm.jpg"
+ },
+ {
+  "title": "Gold on Black",
+  "pack": "amoled",
+  "tags": [
+   "amoled",
+   "dark",
+   "gold",
+   "abstract",
+   "minimal"
+  ],
+  "url": "wallpaper-amoled-04-gold-wave.html",
+  "img": "assets/img/amoled-04-gold-wave-sm.jpg"
+ },
+ {
+  "title": "Red Panda",
+  "pack": "animals",
+  "tags": [
+   "animal",
+   "red panda",
+   "wildlife",
+   "cute",
+   "nature"
+  ],
+  "url": "wallpaper-animals-01-red-panda.html",
+  "img": "assets/img/animals-01-red-panda-sm.jpg"
+ },
+ {
+  "title": "Forest Deer",
+  "pack": "animals",
+  "tags": [
+   "animal",
+   "deer",
+   "wildlife",
+   "forest",
+   "nature"
+  ],
+  "url": "wallpaper-animals-02-deer.html",
+  "img": "assets/img/animals-02-deer-sm.jpg"
+ },
+ {
+  "title": "The King",
+  "pack": "animals",
+  "tags": [
+   "animal",
+   "lion",
+   "wildlife",
+   "nature"
+  ],
+  "url": "wallpaper-animals-03-lion.html",
+  "img": "assets/img/animals-03-lion-sm.jpg"
+ },
+ {
+  "title": "Kingfisher",
+  "pack": "animals",
+  "tags": [
+   "animal",
+   "bird",
+   "wildlife",
+   "nature",
+   "colorful"
+  ],
+  "url": "wallpaper-animals-04-kingfisher.html",
+  "img": "assets/img/animals-04-kingfisher-sm.jpg"
+ },
+ {
+  "title": "Pastel Sky",
+  "pack": "aesthetic",
+  "tags": [
+   "aesthetic",
+   "pastel",
+   "sky",
+   "minimal",
+   "pink"
+  ],
+  "url": "wallpaper-aesthetic-01-pastel-sky.html",
+  "img": "assets/img/aesthetic-01-pastel-sky-sm.jpg"
+ },
+ {
+  "title": "Beige & Shadow",
+  "pack": "aesthetic",
+  "tags": [
+   "aesthetic",
+   "minimal",
+   "beige",
+   "calm"
+  ],
+  "url": "wallpaper-aesthetic-02-beige-shadow.html",
+  "img": "assets/img/aesthetic-02-beige-shadow-sm.jpg"
+ },
+ {
+  "title": "Soft Blossom",
+  "pack": "aesthetic",
+  "tags": [
+   "aesthetic",
+   "flowers",
+   "pink",
+   "pastel",
+   "spring"
+  ],
+  "url": "wallpaper-aesthetic-03-cherry-blossom.html",
+  "img": "assets/img/aesthetic-03-cherry-blossom-sm.jpg"
+ },
+ {
+  "title": "Silk Gradient",
+  "pack": "aesthetic",
+  "tags": [
+   "aesthetic",
+   "gradient",
+   "abstract",
+   "pastel",
+   "minimal"
+  ],
+  "url": "wallpaper-aesthetic-04-gradient-waves.html",
+  "img": "assets/img/aesthetic-04-gradient-waves-sm.jpg"
  }
 ]
