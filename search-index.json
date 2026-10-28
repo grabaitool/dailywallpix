@@ -10477,6 +10477,578 @@
   "img": "assets/img/art-08-marble-gold-sm.jpg"
  },
  {
+  "title": "Ink Mountains",
+  "pack": "art",
+  "tags": [
+   "art",
+   "ink",
+   "mountains",
+   "mist",
+   "red sun"
+  ],
+  "url": "wallpaper-art-09-ink-mountains.html",
+  "img": "assets/img/art-09-ink-mountains-sm.jpg"
+ },
+ {
+  "title": "Oil Lavender",
+  "pack": "art",
+  "tags": [
+   "art",
+   "oil painting",
+   "lavender",
+   "field",
+   "brushstrokes"
+  ],
+  "url": "wallpaper-art-10-oil-lavender.html",
+  "img": "assets/img/art-10-oil-lavender-sm.jpg"
+ },
+ {
+  "title": "Watercolor Fox",
+  "pack": "art",
+  "tags": [
+   "art",
+   "watercolor",
+   "fox",
+   "autumn",
+   "splashes"
+  ],
+  "url": "wallpaper-art-11-watercolor-fox.html",
+  "img": "assets/img/art-11-watercolor-fox-sm.jpg"
+ },
+ {
+  "title": "Golden Tree",
+  "pack": "art",
+  "tags": [
+   "art",
+   "gold leaf",
+   "tree of life",
+   "teal",
+   "foil"
+  ],
+  "url": "wallpaper-art-12-gold-leaf-tree.html",
+  "img": "assets/img/art-12-gold-leaf-tree-sm.jpg"
+ },
+ {
+  "title": "Fluid Waves",
+  "pack": "art",
+  "tags": [
+   "art",
+   "abstract",
+   "fluid art",
+   "waves",
+   "gold"
+  ],
+  "url": "wallpaper-art-13-abstract-waves.html",
+  "img": "assets/img/art-13-abstract-waves-sm.jpg"
+ },
+ {
+  "title": "Pastel Sky",
+  "pack": "art",
+  "tags": [
+   "art",
+   "pastel",
+   "gouache",
+   "clouds",
+   "sunset"
+  ],
+  "url": "wallpaper-art-14-pastel-sky.html",
+  "img": "assets/img/art-14-pastel-sky-sm.jpg"
+ },
+ {
+  "title": "Botanical Study",
+  "pack": "art",
+  "tags": [
+   "art",
+   "botanical",
+   "illustration",
+   "wildflowers",
+   "vintage"
+  ],
+  "url": "wallpaper-art-15-botanical-print.html",
+  "img": "assets/img/art-15-botanical-print-sm.jpg"
+ },
+ {
+  "title": "Charcoal Horse",
+  "pack": "art",
+  "tags": [
+   "art",
+   "charcoal",
+   "horse",
+   "sketch",
+   "dramatic"
+  ],
+  "url": "wallpaper-art-16-charcoal-horse.html",
+  "img": "assets/img/art-16-charcoal-horse-sm.jpg"
+ },
+ {
+  "title": "Impasto Ocean",
+  "pack": "art",
+  "tags": [
+   "art",
+   "impasto",
+   "ocean",
+   "oil painting",
+   "texture"
+  ],
+  "url": "wallpaper-art-17-impasto-ocean.html",
+  "img": "assets/img/art-17-impasto-ocean-sm.jpg"
+ },
+ {
+  "title": "Painted Whale",
+  "pack": "art",
+  "tags": [
+   "art",
+   "watercolor",
+   "whale",
+   "stars",
+   "dreamy"
+  ],
+  "url": "wallpaper-art-18-watercolor-whale.html",
+  "img": "assets/img/art-18-watercolor-whale-sm.jpg"
+ },
+ {
+  "title": "Woodblock Wave",
+  "pack": "art",
+  "tags": [
+   "art",
+   "woodblock",
+   "wave",
+   "japanese style",
+   "print"
+  ],
+  "url": "wallpaper-art-19-woodblock-wave.html",
+  "img": "assets/img/art-19-woodblock-wave-sm.jpg"
+ },
+ {
+  "title": "Neon Ink",
+  "pack": "art",
+  "tags": [
+   "art",
+   "neon",
+   "ink",
+   "abstract",
+   "dark"
+  ],
+  "url": "wallpaper-art-20-neon-ink.html",
+  "img": "assets/img/art-20-neon-ink-sm.jpg"
+ },
+ {
+  "title": "Gouache Garden",
+  "pack": "art",
+  "tags": [
+   "art",
+   "gouache",
+   "garden",
+   "hollyhocks",
+   "cottage"
+  ],
+  "url": "wallpaper-art-21-gouache-garden.html",
+  "img": "assets/img/art-21-gouache-garden-sm.jpg"
+ },
+ {
+  "title": "Mosaic Bird",
+  "pack": "art",
+  "tags": [
+   "art",
+   "mosaic",
+   "bird",
+   "tiles",
+   "colorful"
+  ],
+  "url": "wallpaper-art-22-mosaic-bird.html",
+  "img": "assets/img/art-22-mosaic-bird-sm.jpg"
+ },
+ {
+  "title": "Door to the Stars",
+  "pack": "art",
+  "tags": [
+   "art",
+   "surreal",
+   "door",
+   "stars",
+   "clouds"
+  ],
+  "url": "wallpaper-art-23-surreal-door.html",
+  "img": "assets/img/art-23-surreal-door-sm.jpg"
+ },
+ {
+  "title": "Antler Garden",
+  "pack": "art",
+  "tags": [
+   "art",
+   "watercolor",
+   "deer",
+   "flowers",
+   "antlers"
+  ],
+  "url": "wallpaper-art-24-watercolor-deer.html",
+  "img": "assets/img/art-24-watercolor-deer-sm.jpg"
+ },
+ {
+  "title": "Acrylic Pour",
+  "pack": "art",
+  "tags": [
+   "art",
+   "acrylic pour",
+   "coral",
+   "turquoise",
+   "fluid"
+  ],
+  "url": "wallpaper-art-25-acrylic-pour.html",
+  "img": "assets/img/art-25-acrylic-pour-sm.jpg"
+ },
+ {
+  "title": "Koi Duo",
+  "pack": "art",
+  "tags": [
+   "art",
+   "koi",
+   "ink",
+   "gold",
+   "dark"
+  ],
+  "url": "wallpaper-art-26-ink-koi-duo.html",
+  "img": "assets/img/art-26-ink-koi-duo-sm.jpg"
+ },
+ {
+  "title": "Oil Poppies",
+  "pack": "art",
+  "tags": [
+   "art",
+   "oil painting",
+   "poppies",
+   "red",
+   "field"
+  ],
+  "url": "wallpaper-art-27-oil-poppy.html",
+  "img": "assets/img/art-27-oil-poppy-sm.jpg"
+ },
+ {
+  "title": "City Rain",
+  "pack": "art",
+  "tags": [
+   "art",
+   "watercolor",
+   "city",
+   "rain",
+   "umbrellas"
+  ],
+  "url": "wallpaper-art-28-watercolor-city-rain.html",
+  "img": "assets/img/art-28-watercolor-city-rain-sm.jpg"
+ },
+ {
+  "title": "Stained Glass Bird",
+  "pack": "art",
+  "tags": [
+   "art",
+   "stained glass",
+   "hummingbird",
+   "jewel colors",
+   "flowers"
+  ],
+  "url": "wallpaper-art-29-stained-glass.html",
+  "img": "assets/img/art-29-stained-glass-sm.jpg"
+ },
+ {
+  "title": "Pointillist Sunset",
+  "pack": "art",
+  "tags": [
+   "art",
+   "pointillism",
+   "sunset",
+   "lake",
+   "dots"
+  ],
+  "url": "wallpaper-art-30-pointillism.html",
+  "img": "assets/img/art-30-pointillism-sm.jpg"
+ },
+ {
+  "title": "Paper Mountains",
+  "pack": "art",
+  "tags": [
+   "art",
+   "paper cut",
+   "mountains",
+   "layers",
+   "sunset"
+  ],
+  "url": "wallpaper-art-31-paper-cut.html",
+  "img": "assets/img/art-31-paper-cut-sm.jpg"
+ },
+ {
+  "title": "Painted Aurora",
+  "pack": "art",
+  "tags": [
+   "art",
+   "digital painting",
+   "aurora",
+   "forest",
+   "lake"
+  ],
+  "url": "wallpaper-art-32-digital-aurora.html",
+  "img": "assets/img/art-32-digital-aurora-sm.jpg"
+ },
+ {
+  "title": "Painted Jellyfish",
+  "pack": "art",
+  "tags": [
+   "art",
+   "watercolor",
+   "jellyfish",
+   "deep blue",
+   "splashes"
+  ],
+  "url": "wallpaper-art-33-watercolor-jellyfish.html",
+  "img": "assets/img/art-33-watercolor-jellyfish-sm.jpg"
+ },
+ {
+  "title": "Golden Lines",
+  "pack": "art",
+  "tags": [
+   "art",
+   "gold ink",
+   "waves",
+   "black",
+   "line art"
+  ],
+  "url": "wallpaper-art-34-gold-ink-wave.html",
+  "img": "assets/img/art-34-gold-ink-wave-sm.jpg"
+ },
+ {
+  "title": "Oil Sunflowers",
+  "pack": "art",
+  "tags": [
+   "art",
+   "oil painting",
+   "sunflowers",
+   "vase",
+   "texture"
+  ],
+  "url": "wallpaper-art-35-oil-sunflowers.html",
+  "img": "assets/img/art-35-oil-sunflowers-sm.jpg"
+ },
+ {
+  "title": "One Line Faces",
+  "pack": "art",
+  "tags": [
+   "art",
+   "line art",
+   "faces",
+   "abstract",
+   "minimal"
+  ],
+  "url": "wallpaper-art-36-abstract-faces.html",
+  "img": "assets/img/art-36-abstract-faces-sm.jpg"
+ },
+ {
+  "title": "Fresco Sky",
+  "pack": "art",
+  "tags": [
+   "art",
+   "fresco",
+   "clouds",
+   "pastel",
+   "classical"
+  ],
+  "url": "wallpaper-art-37-fresco-clouds.html",
+  "img": "assets/img/art-37-fresco-clouds-sm.jpg"
+ },
+ {
+  "title": "Resin Shore",
+  "pack": "art",
+  "tags": [
+   "art",
+   "resin",
+   "ocean",
+   "waves",
+   "sand"
+  ],
+  "url": "wallpaper-art-38-resin-ocean.html",
+  "img": "assets/img/art-38-resin-ocean-sm.jpg"
+ },
+ {
+  "title": "Ink Crane",
+  "pack": "art",
+  "tags": [
+   "art",
+   "ink",
+   "crane",
+   "flight",
+   "elegant"
+  ],
+  "url": "wallpaper-art-39-ink-crane.html",
+  "img": "assets/img/art-39-ink-crane-sm.jpg"
+ },
+ {
+  "title": "Watercolor Autumn",
+  "pack": "art",
+  "tags": [
+   "art",
+   "watercolor",
+   "autumn",
+   "forest",
+   "path"
+  ],
+  "url": "wallpaper-art-40-watercolor-autumn.html",
+  "img": "assets/img/art-40-watercolor-autumn-sm.jpg"
+ },
+ {
+  "title": "Galaxy Brush",
+  "pack": "art",
+  "tags": [
+   "art",
+   "galaxy",
+   "brush",
+   "painting",
+   "meta"
+  ],
+  "url": "wallpaper-art-41-galaxy-brush.html",
+  "img": "assets/img/art-41-galaxy-brush-sm.jpg"
+ },
+ {
+  "title": "Chalk Cliffs",
+  "pack": "art",
+  "tags": [
+   "art",
+   "oil painting",
+   "cliffs",
+   "sea",
+   "bold strokes"
+  ],
+  "url": "wallpaper-art-42-oil-cliffs.html",
+  "img": "assets/img/art-42-oil-cliffs-sm.jpg"
+ },
+ {
+  "title": "Watercolor Flamingo",
+  "pack": "art",
+  "tags": [
+   "art",
+   "watercolor",
+   "flamingo",
+   "pink",
+   "splashes"
+  ],
+  "url": "wallpaper-art-43-watercolor-flamingo.html",
+  "img": "assets/img/art-43-watercolor-flamingo-sm.jpg"
+ },
+ {
+  "title": "Embroidered Peaks",
+  "pack": "art",
+  "tags": [
+   "art",
+   "embroidery",
+   "mountains",
+   "hoop",
+   "thread"
+  ],
+  "url": "wallpaper-art-44-embroidery-hoop.html",
+  "img": "assets/img/art-44-embroidery-hoop-sm.jpg"
+ },
+ {
+  "title": "Emerald & Gold",
+  "pack": "art",
+  "tags": [
+   "art",
+   "abstract",
+   "gold foil",
+   "emerald",
+   "luxury"
+  ],
+  "url": "wallpaper-art-45-abstract-gold.html",
+  "img": "assets/img/art-45-abstract-gold-sm.jpg"
+ },
+ {
+  "title": "Three Mountains",
+  "pack": "art",
+  "tags": [
+   "art",
+   "sumi-e",
+   "ink",
+   "landscape",
+   "river"
+  ],
+  "url": "wallpaper-art-46-ink-landscape.html",
+  "img": "assets/img/art-46-ink-landscape-sm.jpg"
+ },
+ {
+  "title": "Pastel Profile",
+  "pack": "art",
+  "tags": [
+   "art",
+   "pastel",
+   "portrait",
+   "flowers",
+   "soft"
+  ],
+  "url": "wallpaper-art-47-pastel-portrait.html",
+  "img": "assets/img/art-47-pastel-portrait-sm.jpg"
+ },
+ {
+  "title": "Neon Jellyfish",
+  "pack": "art",
+  "tags": [
+   "art",
+   "digital painting",
+   "jellyfish",
+   "neon",
+   "ocean"
+  ],
+  "url": "wallpaper-art-48-neon-jelly.html",
+  "img": "assets/img/art-48-neon-jelly-sm.jpg"
+ },
+ {
+  "title": "Ink Phoenix",
+  "pack": "art",
+  "tags": [
+   "art",
+   "phoenix",
+   "ink",
+   "watercolor",
+   "flames"
+  ],
+  "url": "wallpaper-art-49-ink-phoenix.html",
+  "img": "assets/img/art-49-ink-phoenix-sm.jpg"
+ },
+ {
+  "title": "Storm & Lighthouse",
+  "pack": "art",
+  "tags": [
+   "art",
+   "oil painting",
+   "storm",
+   "lighthouse",
+   "sea"
+  ],
+  "url": "wallpaper-art-50-oil-storm.html",
+  "img": "assets/img/art-50-oil-storm-sm.jpg"
+ },
+ {
+  "title": "Balloon Dawn",
+  "pack": "art",
+  "tags": [
+   "art",
+   "watercolor",
+   "balloons",
+   "dawn",
+   "hills"
+  ],
+  "url": "wallpaper-art-51-watercolor-balloons.html",
+  "img": "assets/img/art-51-watercolor-balloons-sm.jpg"
+ },
+ {
+  "title": "Golden Moon Art",
+  "pack": "art",
+  "tags": [
+   "art",
+   "gold foil",
+   "moon",
+   "waves",
+   "navy"
+  ],
+  "url": "wallpaper-art-52-gold-moon-art.html",
+  "img": "assets/img/art-52-gold-moon-art-sm.jpg"
+ },
+ {
   "title": "Rain on City Glass",
   "pack": "rain",
   "tags": [
