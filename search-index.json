@@ -10405,6 +10405,630 @@
   "img": "assets/img/gaming-04-dragon-sm.jpg"
  },
  {
+  "title": "RGB Close-Up",
+  "pack": "gaming",
+  "tags": [
+   "gaming",
+   "keyboard",
+   "rgb",
+   "close-up",
+   "setup"
+  ],
+  "url": "wallpaper-gaming-05-rgb-keyboard.html",
+  "img": "assets/img/gaming-05-rgb-keyboard-sm.jpg"
+ },
+ {
+  "title": "Space Pilot",
+  "pack": "gaming",
+  "tags": [
+   "gaming",
+   "space pilot",
+   "cockpit",
+   "stars",
+   "sci-fi"
+  ],
+  "url": "wallpaper-gaming-06-space-pilot.html",
+  "img": "assets/img/gaming-06-space-pilot-sm.jpg"
+ },
+ {
+  "title": "Pixel Hero",
+  "pack": "gaming",
+  "tags": [
+   "gaming",
+   "pixel art",
+   "retro",
+   "hero",
+   "castle"
+  ],
+  "url": "wallpaper-gaming-07-pixel-hero.html",
+  "img": "assets/img/gaming-07-pixel-hero-sm.jpg"
+ },
+ {
+  "title": "Triple Screen Rig",
+  "pack": "gaming",
+  "tags": [
+   "gaming",
+   "racing simulator",
+   "rig",
+   "monitors",
+   "setup"
+  ],
+  "url": "wallpaper-gaming-08-racing-rig.html",
+  "img": "assets/img/gaming-08-racing-rig-sm.jpg"
+ },
+ {
+  "title": "Forest Knight",
+  "pack": "gaming",
+  "tags": [
+   "gaming",
+   "knight",
+   "glowing sword",
+   "forest",
+   "fantasy"
+  ],
+  "url": "wallpaper-gaming-09-fantasy-knight.html",
+  "img": "assets/img/gaming-09-fantasy-knight-sm.jpg"
+ },
+ {
+  "title": "Controller Trails",
+  "pack": "gaming",
+  "tags": [
+   "gaming",
+   "controller",
+   "neon",
+   "light trails",
+   "dark"
+  ],
+  "url": "wallpaper-gaming-10-controller-dark.html",
+  "img": "assets/img/gaming-10-controller-dark-sm.jpg"
+ },
+ {
+  "title": "Neon Rain City",
+  "pack": "gaming",
+  "tags": [
+   "gaming",
+   "cyberpunk",
+   "city",
+   "neon",
+   "rain"
+  ],
+  "url": "wallpaper-gaming-11-cyber-city-game.html",
+  "img": "assets/img/gaming-11-cyber-city-game-sm.jpg"
+ },
+ {
+  "title": "Arena Night",
+  "pack": "gaming",
+  "tags": [
+   "gaming",
+   "esports",
+   "arena",
+   "crowd",
+   "stage"
+  ],
+  "url": "wallpaper-gaming-12-esports-arena.html",
+  "img": "assets/img/gaming-12-esports-arena-sm.jpg"
+ },
+ {
+  "title": "Hangar Mecha",
+  "pack": "gaming",
+  "tags": [
+   "gaming",
+   "mecha",
+   "robot",
+   "hangar",
+   "giant"
+  ],
+  "url": "wallpaper-gaming-13-mecha-robot.html",
+  "img": "assets/img/gaming-13-mecha-robot-sm.jpg"
+ },
+ {
+  "title": "Rooftop Ninja",
+  "pack": "gaming",
+  "tags": [
+   "gaming",
+   "ninja",
+   "rooftop",
+   "moon",
+   "stealth"
+  ],
+  "url": "wallpaper-gaming-14-stealth-ninja-game.html",
+  "img": "assets/img/gaming-14-stealth-ninja-game-sm.jpg"
+ },
+ {
+  "title": "Arcade Glow",
+  "pack": "gaming",
+  "tags": [
+   "gaming",
+   "arcade",
+   "retro",
+   "cabinets",
+   "glow"
+  ],
+  "url": "wallpaper-gaming-15-retro-arcade-room.html",
+  "img": "assets/img/gaming-15-retro-arcade-room-sm.jpg"
+ },
+ {
+  "title": "Dragon Rider",
+  "pack": "gaming",
+  "tags": [
+   "gaming",
+   "dragon rider",
+   "flying",
+   "valley",
+   "sunset"
+  ],
+  "url": "wallpaper-gaming-16-dragon-rider-game.html",
+  "img": "assets/img/gaming-16-dragon-rider-game-sm.jpg"
+ },
+ {
+  "title": "Into VR",
+  "pack": "gaming",
+  "tags": [
+   "gaming",
+   "vr",
+   "headset",
+   "particles",
+   "future"
+  ],
+  "url": "wallpaper-gaming-17-vr-headset.html",
+  "img": "assets/img/gaming-17-vr-headset-sm.jpg"
+ },
+ {
+  "title": "Loot Light",
+  "pack": "gaming",
+  "tags": [
+   "gaming",
+   "loot chest",
+   "treasure",
+   "dungeon",
+   "glow"
+  ],
+  "url": "wallpaper-gaming-18-loot-chest.html",
+  "img": "assets/img/gaming-18-loot-chest-sm.jpg"
+ },
+ {
+  "title": "Blossom Duel",
+  "pack": "gaming",
+  "tags": [
+   "gaming",
+   "samurai",
+   "duel",
+   "cherry blossom",
+   "silhouette"
+  ],
+  "url": "wallpaper-gaming-19-samurai-duel.html",
+  "img": "assets/img/gaming-19-samurai-duel-sm.jpg"
+ },
+ {
+  "title": "Portal Jump",
+  "pack": "gaming",
+  "tags": [
+   "gaming",
+   "portal",
+   "jump",
+   "ring",
+   "silhouette"
+  ],
+  "url": "wallpaper-gaming-20-portal-jump.html",
+  "img": "assets/img/gaming-20-portal-jump-sm.jpg"
+ },
+ {
+  "title": "Deep Boss",
+  "pack": "gaming",
+  "tags": [
+   "gaming",
+   "sea monster",
+   "boss",
+   "underwater",
+   "giant"
+  ],
+  "url": "wallpaper-gaming-21-underwater-boss.html",
+  "img": "assets/img/gaming-21-underwater-boss-sm.jpg"
+ },
+ {
+  "title": "Hover Race",
+  "pack": "gaming",
+  "tags": [
+   "gaming",
+   "hover bikes",
+   "race",
+   "neon canyon",
+   "future"
+  ],
+  "url": "wallpaper-gaming-22-hover-bike-race.html",
+  "img": "assets/img/gaming-22-hover-bike-race-sm.jpg"
+ },
+ {
+  "title": "Spell Library",
+  "pack": "gaming",
+  "tags": [
+   "gaming",
+   "wizard",
+   "spells",
+   "library",
+   "magic"
+  ],
+  "url": "wallpaper-gaming-23-wizard-spells.html",
+  "img": "assets/img/gaming-23-wizard-spells-sm.jpg"
+ },
+ {
+  "title": "Fog Light",
+  "pack": "gaming",
+  "tags": [
+   "gaming",
+   "survival",
+   "flashlight",
+   "fog",
+   "moody"
+  ],
+  "url": "wallpaper-gaming-24-survival-fog.html",
+  "img": "assets/img/gaming-24-survival-fog-sm.jpg"
+ },
+ {
+  "title": "Floating Isles",
+  "pack": "gaming",
+  "tags": [
+   "gaming",
+   "floating islands",
+   "waterfalls",
+   "sky",
+   "world"
+  ],
+  "url": "wallpaper-gaming-25-flying-islands-game.html",
+  "img": "assets/img/gaming-25-flying-islands-game-sm.jpg"
+ },
+ {
+  "title": "Neon Highway",
+  "pack": "gaming",
+  "tags": [
+   "gaming",
+   "race car",
+   "neon highway",
+   "night",
+   "speed"
+  ],
+  "url": "wallpaper-gaming-26-racing-neon-highway.html",
+  "img": "assets/img/gaming-26-racing-neon-highway-sm.jpg"
+ },
+ {
+  "title": "Storm Sails",
+  "pack": "gaming",
+  "tags": [
+   "gaming",
+   "pirate ship",
+   "waves",
+   "island",
+   "adventure"
+  ],
+  "url": "wallpaper-gaming-27-pirate-ship-game.html",
+  "img": "assets/img/gaming-27-pirate-ship-game-sm.jpg"
+ },
+ {
+  "title": "Crystal Dungeon",
+  "pack": "gaming",
+  "tags": [
+   "gaming",
+   "crystal",
+   "dungeon",
+   "torches",
+   "door"
+  ],
+  "url": "wallpaper-gaming-28-crystal-dungeon.html",
+  "img": "assets/img/gaming-28-crystal-dungeon-sm.jpg"
+ },
+ {
+  "title": "Day Setup",
+  "pack": "gaming",
+  "tags": [
+   "gaming",
+   "desk setup",
+   "dual monitors",
+   "daylight",
+   "clean"
+  ],
+  "url": "wallpaper-gaming-29-desk-setup-day.html",
+  "img": "assets/img/gaming-29-desk-setup-day-sm.jpg"
+ },
+ {
+  "title": "Aurora Watch",
+  "pack": "gaming",
+  "tags": [
+   "gaming",
+   "ice world",
+   "aurora",
+   "armor",
+   "snow"
+  ],
+  "url": "wallpaper-gaming-30-ice-world-game.html",
+  "img": "assets/img/gaming-30-ice-world-game-sm.jpg"
+ },
+ {
+  "title": "Little Companion",
+  "pack": "gaming",
+  "tags": [
+   "gaming",
+   "robot",
+   "companion",
+   "cute",
+   "workshop"
+  ],
+  "url": "wallpaper-gaming-31-robot-companion.html",
+  "img": "assets/img/gaming-31-robot-companion-sm.jpg"
+ },
+ {
+  "title": "Lava Level",
+  "pack": "gaming",
+  "tags": [
+   "gaming",
+   "lava",
+   "platforms",
+   "level",
+   "jump"
+  ],
+  "url": "wallpaper-gaming-32-lava-level.html",
+  "img": "assets/img/gaming-32-lava-level-sm.jpg"
+ },
+ {
+  "title": "Tokens and Buttons",
+  "pack": "gaming",
+  "tags": [
+   "gaming",
+   "arcade",
+   "tokens",
+   "buttons",
+   "macro"
+  ],
+  "url": "wallpaper-gaming-33-arcade-token-macro.html",
+  "img": "assets/img/gaming-33-arcade-token-macro-sm.jpg"
+ },
+ {
+  "title": "Sky Fortress",
+  "pack": "gaming",
+  "tags": [
+   "gaming",
+   "sky fortress",
+   "airships",
+   "clouds",
+   "world"
+  ],
+  "url": "wallpaper-gaming-34-sky-fortress-game.html",
+  "img": "assets/img/gaming-34-sky-fortress-game-sm.jpg"
+ },
+ {
+  "title": "Rest Point",
+  "pack": "gaming",
+  "tags": [
+   "gaming",
+   "knight",
+   "campfire",
+   "rest",
+   "dark"
+  ],
+  "url": "wallpaper-gaming-35-campfire-knight.html",
+  "img": "assets/img/gaming-35-campfire-knight-sm.jpg"
+ },
+ {
+  "title": "Mushroom World",
+  "pack": "gaming",
+  "tags": [
+   "gaming",
+   "mushroom",
+   "platforms",
+   "whimsical",
+   "world"
+  ],
+  "url": "wallpaper-gaming-36-mushroom-world.html",
+  "img": "assets/img/gaming-36-mushroom-world-sm.jpg"
+ },
+ {
+  "title": "Headphones Glow",
+  "pack": "gaming",
+  "tags": [
+   "gaming",
+   "headphones",
+   "rgb",
+   "desk",
+   "bokeh"
+  ],
+  "url": "wallpaper-gaming-37-headphones-glow.html",
+  "img": "assets/img/gaming-37-headphones-glow-sm.jpg"
+ },
+ {
+  "title": "Ruins Explorer",
+  "pack": "gaming",
+  "tags": [
+   "gaming",
+   "desert ruins",
+   "explorer",
+   "silhouette",
+   "level"
+  ],
+  "url": "wallpaper-gaming-38-desert-ruins-game.html",
+  "img": "assets/img/gaming-38-desert-ruins-game-sm.jpg"
+ },
+ {
+  "title": "Neon Ronin",
+  "pack": "gaming",
+  "tags": [
+   "gaming",
+   "samurai",
+   "neon",
+   "rain street",
+   "character"
+  ],
+  "url": "wallpaper-gaming-39-neon-samurai-game.html",
+  "img": "assets/img/gaming-39-neon-samurai-game-sm.jpg"
+ },
+ {
+  "title": "Siege at Dusk",
+  "pack": "gaming",
+  "tags": [
+   "gaming",
+   "castle",
+   "siege",
+   "catapults",
+   "dusk"
+  ],
+  "url": "wallpaper-gaming-40-castle-siege-game.html",
+  "img": "assets/img/gaming-40-castle-siege-game-sm.jpg"
+ },
+ {
+  "title": "Cozy Valley Farm",
+  "pack": "gaming",
+  "tags": [
+   "gaming",
+   "farming",
+   "cozy",
+   "windmill",
+   "valley"
+  ],
+  "url": "wallpaper-gaming-41-cozy-farming-game.html",
+  "img": "assets/img/gaming-41-cozy-farming-game-sm.jpg"
+ },
+ {
+  "title": "The Boss Door",
+  "pack": "gaming",
+  "tags": [
+   "gaming",
+   "boss door",
+   "runes",
+   "dark hall",
+   "ornate"
+  ],
+  "url": "wallpaper-gaming-42-boss-door.html",
+  "img": "assets/img/gaming-42-boss-door-sm.jpg"
+ },
+ {
+  "title": "Controller Lineup",
+  "pack": "gaming",
+  "tags": [
+   "gaming",
+   "controllers",
+   "collection",
+   "colors",
+   "flat lay"
+  ],
+  "url": "wallpaper-gaming-43-controller-collection.html",
+  "img": "assets/img/gaming-43-controller-collection-sm.jpg"
+ },
+ {
+  "title": "City Watch",
+  "pack": "gaming",
+  "tags": [
+   "gaming",
+   "hero",
+   "gargoyle",
+   "city night",
+   "silhouette"
+  ],
+  "url": "wallpaper-gaming-44-night-city-hero.html",
+  "img": "assets/img/gaming-44-night-city-hero-sm.jpg"
+ },
+ {
+  "title": "The Final Gate",
+  "pack": "gaming",
+  "tags": [
+   "gaming",
+   "final level",
+   "gate",
+   "hero",
+   "epic scale"
+  ],
+  "url": "wallpaper-gaming-45-final-level-gate.html",
+  "img": "assets/img/gaming-45-final-level-gate-sm.jpg"
+ },
+ {
+  "title": "Fan Wall",
+  "pack": "gaming",
+  "tags": [
+   "gaming",
+   "rgb fans",
+   "pc case",
+   "glow",
+   "build"
+  ],
+  "url": "wallpaper-gaming-46-rgb-fan-wall.html",
+  "img": "assets/img/gaming-46-rgb-fan-wall-sm.jpg"
+ },
+ {
+  "title": "Legendary Drop",
+  "pack": "gaming",
+  "tags": [
+   "gaming",
+   "legendary",
+   "loot",
+   "sword",
+   "golden beam"
+  ],
+  "url": "wallpaper-gaming-47-loot-drop-legendary.html",
+  "img": "assets/img/gaming-47-loot-drop-legendary-sm.jpg"
+ },
+ {
+  "title": "Pixel Sunset",
+  "pack": "gaming",
+  "tags": [
+   "gaming",
+   "pixel art",
+   "sunset",
+   "campfire",
+   "lake"
+  ],
+  "url": "wallpaper-gaming-48-pixel-sunset.html",
+  "img": "assets/img/gaming-48-pixel-sunset-sm.jpg"
+ },
+ {
+  "title": "Boss Fight",
+  "pack": "gaming",
+  "tags": [
+   "gaming",
+   "dragon",
+   "boss fight",
+   "warrior",
+   "storm"
+  ],
+  "url": "wallpaper-gaming-49-dragon-boss-fight.html",
+  "img": "assets/img/gaming-49-dragon-boss-fight-sm.jpg"
+ },
+ {
+  "title": "Night Setup",
+  "pack": "gaming",
+  "tags": [
+   "gaming",
+   "setup",
+   "ultrawide",
+   "night",
+   "led"
+  ],
+  "url": "wallpaper-gaming-50-night-setup-glow.html",
+  "img": "assets/img/gaming-50-night-setup-glow-sm.jpg"
+ },
+ {
+  "title": "Checkpoint",
+  "pack": "gaming",
+  "tags": [
+   "gaming",
+   "bonfire",
+   "checkpoint",
+   "forest",
+   "fireflies"
+  ],
+  "url": "wallpaper-gaming-51-checkpoint-bonfire.html",
+  "img": "assets/img/gaming-51-checkpoint-bonfire-sm.jpg"
+ },
+ {
+  "title": "Victory Light",
+  "pack": "gaming",
+  "tags": [
+   "gaming",
+   "victory",
+   "trophy",
+   "confetti",
+   "finale"
+  ],
+  "url": "wallpaper-gaming-52-victory-screen-mood.html",
+  "img": "assets/img/gaming-52-victory-screen-mood-sm.jpg"
+ },
+ {
   "title": "Tiny Wins",
   "pack": "quotes",
   "tags": [
