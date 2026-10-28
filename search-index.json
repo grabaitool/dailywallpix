@@ -8628,6 +8628,601 @@
   "img": "assets/img/birds-08-parrot-sm.jpg"
  },
  {
+  "title": "Bald Eagle",
+  "pack": "birds",
+  "tags": [
+   "bird",
+   "eagle",
+   "flight",
+   "mountains",
+   "wildlife",
+   "usa"
+  ],
+  "url": "wallpaper-birds-09-bald-eagle.html",
+  "img": "assets/img/birds-09-bald-eagle-sm.jpg"
+ },
+ {
+  "title": "Puffin Cliff",
+  "pack": "birds",
+  "tags": [
+   "bird",
+   "puffin",
+   "cliff",
+   "sea",
+   "cute",
+   "wildlife"
+  ],
+  "url": "wallpaper-birds-10-puffin.html",
+  "img": "assets/img/birds-10-puffin-sm.jpg"
+ },
+ {
+  "title": "Winter Cardinal",
+  "pack": "birds",
+  "tags": [
+   "bird",
+   "cardinal",
+   "red",
+   "snow",
+   "winter"
+  ],
+  "url": "wallpaper-birds-11-cardinal.html",
+  "img": "assets/img/birds-11-cardinal-sm.jpg"
+ },
+ {
+  "title": "Kingfisher Dive",
+  "pack": "birds",
+  "tags": [
+   "bird",
+   "kingfisher",
+   "dive",
+   "water",
+   "action"
+  ],
+  "url": "wallpaper-birds-12-kingfisher.html",
+  "img": "assets/img/birds-12-kingfisher-sm.jpg"
+ },
+ {
+  "title": "Keel-Billed Toucan",
+  "pack": "birds",
+  "tags": [
+   "bird",
+   "toucan",
+   "rainforest",
+   "colorful",
+   "beak"
+  ],
+  "url": "wallpaper-birds-13-toucan.html",
+  "img": "assets/img/birds-13-toucan-sm.jpg"
+ },
+ {
+  "title": "Blue Jay",
+  "pack": "birds",
+  "tags": [
+   "bird",
+   "blue jay",
+   "autumn",
+   "blue",
+   "wildlife"
+  ],
+  "url": "wallpaper-birds-14-blue-jay.html",
+  "img": "assets/img/birds-14-blue-jay-sm.jpg"
+ },
+ {
+  "title": "Pelican Glide",
+  "pack": "birds",
+  "tags": [
+   "bird",
+   "pelican",
+   "ocean",
+   "sunset",
+   "flight"
+  ],
+  "url": "wallpaper-birds-15-pelican.html",
+  "img": "assets/img/birds-15-pelican-sm.jpg"
+ },
+ {
+  "title": "Snowy Owl Flight",
+  "pack": "birds",
+  "tags": [
+   "bird",
+   "owl",
+   "snowy owl",
+   "winter",
+   "flight"
+  ],
+  "url": "wallpaper-birds-16-snowy-owl.html",
+  "img": "assets/img/birds-16-snowy-owl-sm.jpg"
+ },
+ {
+  "title": "Macaw Pair",
+  "pack": "birds",
+  "tags": [
+   "bird",
+   "macaw",
+   "parrot",
+   "pair",
+   "rainforest",
+   "colorful"
+  ],
+  "url": "wallpaper-birds-17-macaw.html",
+  "img": "assets/img/birds-17-macaw-sm.jpg"
+ },
+ {
+  "title": "Heron at Dawn",
+  "pack": "birds",
+  "tags": [
+   "bird",
+   "heron",
+   "marsh",
+   "dawn",
+   "mist",
+   "water"
+  ],
+  "url": "wallpaper-birds-18-heron.html",
+  "img": "assets/img/birds-18-heron-sm.jpg"
+ },
+ {
+  "title": "Chickadee",
+  "pack": "birds",
+  "tags": [
+   "bird",
+   "chickadee",
+   "winter",
+   "pine",
+   "cute",
+   "small"
+  ],
+  "url": "wallpaper-birds-19-chickadee.html",
+  "img": "assets/img/birds-19-chickadee-sm.jpg"
+ },
+ {
+  "title": "Falcon Dive",
+  "pack": "birds",
+  "tags": [
+   "bird",
+   "falcon",
+   "peregrine",
+   "dive",
+   "speed",
+   "sky"
+  ],
+  "url": "wallpaper-birds-20-falcon.html",
+  "img": "assets/img/birds-20-falcon-sm.jpg"
+ },
+ {
+  "title": "Crane Dance",
+  "pack": "birds",
+  "tags": [
+   "bird",
+   "crane",
+   "snow",
+   "japan",
+   "dance",
+   "elegant"
+  ],
+  "url": "wallpaper-birds-21-crane.html",
+  "img": "assets/img/birds-21-crane-sm.jpg"
+ },
+ {
+  "title": "Cockatoo Crest",
+  "pack": "birds",
+  "tags": [
+   "bird",
+   "cockatoo",
+   "white",
+   "crest",
+   "parrot"
+  ],
+  "url": "wallpaper-birds-22-cockatoo.html",
+  "img": "assets/img/birds-22-cockatoo-sm.jpg"
+ },
+ {
+  "title": "Goldfinch",
+  "pack": "birds",
+  "tags": [
+   "bird",
+   "goldfinch",
+   "sunflower",
+   "yellow",
+   "summer"
+  ],
+  "url": "wallpaper-birds-23-goldfinch.html",
+  "img": "assets/img/birds-23-goldfinch-sm.jpg"
+ },
+ {
+  "title": "Ostrich Portrait",
+  "pack": "birds",
+  "tags": [
+   "bird",
+   "ostrich",
+   "savanna",
+   "portrait",
+   "africa"
+  ],
+  "url": "wallpaper-birds-24-ostrich.html",
+  "img": "assets/img/birds-24-ostrich-sm.jpg"
+ },
+ {
+  "title": "Kiwi at Dusk",
+  "pack": "birds",
+  "tags": [
+   "bird",
+   "kiwi",
+   "new zealand",
+   "forest",
+   "night",
+   "rare"
+  ],
+  "url": "wallpaper-birds-25-kiwi.html",
+  "img": "assets/img/birds-25-kiwi-sm.jpg"
+ },
+ {
+  "title": "Secretary Bird",
+  "pack": "birds",
+  "tags": [
+   "bird",
+   "secretary bird",
+   "savanna",
+   "africa",
+   "stride"
+  ],
+  "url": "wallpaper-birds-26-secretary.html",
+  "img": "assets/img/birds-26-secretary-sm.jpg"
+ },
+ {
+  "title": "Lovebirds",
+  "pack": "birds",
+  "tags": [
+   "bird",
+   "lovebirds",
+   "pair",
+   "cute",
+   "colorful",
+   "branch"
+  ],
+  "url": "wallpaper-birds-27-lovebirds.html",
+  "img": "assets/img/birds-27-lovebirds-sm.jpg"
+ },
+ {
+  "title": "Albatross Soar",
+  "pack": "birds",
+  "tags": [
+   "bird",
+   "albatross",
+   "ocean",
+   "flight",
+   "waves"
+  ],
+  "url": "wallpaper-birds-28-albatross.html",
+  "img": "assets/img/birds-28-albatross-sm.jpg"
+ },
+ {
+  "title": "Pileated Woodpecker",
+  "pack": "birds",
+  "tags": [
+   "bird",
+   "woodpecker",
+   "forest",
+   "red",
+   "trunk"
+  ],
+  "url": "wallpaper-birds-29-woodpecker.html",
+  "img": "assets/img/birds-29-woodpecker-sm.jpg"
+ },
+ {
+  "title": "Bee-Eater",
+  "pack": "birds",
+  "tags": [
+   "bird",
+   "bee-eater",
+   "rainbow",
+   "colorful",
+   "twig"
+  ],
+  "url": "wallpaper-birds-30-bee-eater.html",
+  "img": "assets/img/birds-30-bee-eater-sm.jpg"
+ },
+ {
+  "title": "Emperor & Chick",
+  "pack": "birds",
+  "tags": [
+   "bird",
+   "penguin",
+   "emperor",
+   "antarctica",
+   "chick",
+   "snow"
+  ],
+  "url": "wallpaper-birds-31-emperor-penguin.html",
+  "img": "assets/img/birds-31-emperor-penguin-sm.jpg"
+ },
+ {
+  "title": "Mandarin Duck",
+  "pack": "birds",
+  "tags": [
+   "bird",
+   "duck",
+   "mandarin",
+   "colorful",
+   "water",
+   "reflection"
+  ],
+  "url": "wallpaper-birds-32-mandarin-duck.html",
+  "img": "assets/img/birds-32-mandarin-duck-sm.jpg"
+ },
+ {
+  "title": "Scarlet Ibis Flight",
+  "pack": "birds",
+  "tags": [
+   "bird",
+   "ibis",
+   "scarlet",
+   "flight",
+   "sunset",
+   "flock"
+  ],
+  "url": "wallpaper-birds-33-ibis.html",
+  "img": "assets/img/birds-33-ibis-sm.jpg"
+ },
+ {
+  "title": "Resplendent Quetzal",
+  "pack": "birds",
+  "tags": [
+   "bird",
+   "quetzal",
+   "green",
+   "cloud forest",
+   "tail",
+   "rare"
+  ],
+  "url": "wallpaper-birds-34-quetzal.html",
+  "img": "assets/img/birds-34-quetzal-sm.jpg"
+ },
+ {
+  "title": "Cliff Gulls",
+  "pack": "birds",
+  "tags": [
+   "bird",
+   "seagull",
+   "coast",
+   "cliff",
+   "golden hour",
+   "flight"
+  ],
+  "url": "wallpaper-birds-35-seagull.html",
+  "img": "assets/img/birds-35-seagull-sm.jpg"
+ },
+ {
+  "title": "Two at the Flower",
+  "pack": "birds",
+  "tags": [
+   "bird",
+   "hummingbird",
+   "pair",
+   "flower",
+   "hover"
+  ],
+  "url": "wallpaper-birds-36-hummingbird-pair.html",
+  "img": "assets/img/birds-36-hummingbird-pair-sm.jpg"
+ },
+ {
+  "title": "The Raven",
+  "pack": "birds",
+  "tags": [
+   "bird",
+   "raven",
+   "dark",
+   "portrait",
+   "glossy"
+  ],
+  "url": "wallpaper-birds-37-raven.html",
+  "img": "assets/img/birds-37-raven-sm.jpg"
+ },
+ {
+  "title": "One Flamingo",
+  "pack": "birds",
+  "tags": [
+   "bird",
+   "flamingo",
+   "pink",
+   "dawn",
+   "reflection",
+   "water"
+  ],
+  "url": "wallpaper-birds-38-flamingo-single.html",
+  "img": "assets/img/birds-38-flamingo-single-sm.jpg"
+ },
+ {
+  "title": "Burrowing Owl",
+  "pack": "birds",
+  "tags": [
+   "bird",
+   "owl",
+   "burrowing owl",
+   "cute",
+   "golden hour"
+  ],
+  "url": "wallpaper-birds-39-burrowing-owl.html",
+  "img": "assets/img/birds-39-burrowing-owl-sm.jpg"
+ },
+ {
+  "title": "Kestrel Hover",
+  "pack": "birds",
+  "tags": [
+   "bird",
+   "kestrel",
+   "falcon",
+   "hover",
+   "meadow"
+  ],
+  "url": "wallpaper-birds-40-kestrel.html",
+  "img": "assets/img/birds-40-kestrel-sm.jpg"
+ },
+ {
+  "title": "Swallows at Dusk",
+  "pack": "birds",
+  "tags": [
+   "bird",
+   "swallow",
+   "dusk",
+   "meadow",
+   "flight",
+   "summer"
+  ],
+  "url": "wallpaper-birds-41-barn-swallow.html",
+  "img": "assets/img/birds-41-barn-swallow-sm.jpg"
+ },
+ {
+  "title": "Great Hornbill",
+  "pack": "birds",
+  "tags": [
+   "bird",
+   "hornbill",
+   "rainforest",
+   "beak",
+   "canopy"
+  ],
+  "url": "wallpaper-birds-42-hornbill.html",
+  "img": "assets/img/birds-42-hornbill-sm.jpg"
+ },
+ {
+  "title": "Cranes at Sunrise",
+  "pack": "birds",
+  "tags": [
+   "bird",
+   "sandhill crane",
+   "flight",
+   "sunrise",
+   "flock"
+  ],
+  "url": "wallpaper-birds-43-sandhill.html",
+  "img": "assets/img/birds-43-sandhill-sm.jpg"
+ },
+ {
+  "title": "Waxwing Berries",
+  "pack": "birds",
+  "tags": [
+   "bird",
+   "waxwing",
+   "berries",
+   "branch",
+   "pair"
+  ],
+  "url": "wallpaper-birds-44-cedar-waxwing.html",
+  "img": "assets/img/birds-44-cedar-waxwing-sm.jpg"
+ },
+ {
+  "title": "The Shoebill",
+  "pack": "birds",
+  "tags": [
+   "bird",
+   "shoebill",
+   "swamp",
+   "africa",
+   "rare",
+   "statue"
+  ],
+  "url": "wallpaper-birds-45-shoebill.html",
+  "img": "assets/img/birds-45-shoebill-sm.jpg"
+ },
+ {
+  "title": "Nuthatch Descent",
+  "pack": "birds",
+  "tags": [
+   "bird",
+   "nuthatch",
+   "pine",
+   "climb",
+   "small",
+   "forest"
+  ],
+  "url": "wallpaper-birds-46-nuthatch.html",
+  "img": "assets/img/birds-46-nuthatch-sm.jpg"
+ },
+ {
+  "title": "Bird of Paradise",
+  "pack": "birds",
+  "tags": [
+   "bird",
+   "bird of paradise",
+   "iridescent",
+   "jungle",
+   "display"
+  ],
+  "url": "wallpaper-birds-47-paradise.html",
+  "img": "assets/img/birds-47-paradise-sm.jpg"
+ },
+ {
+  "title": "Egret Landing",
+  "pack": "birds",
+  "tags": [
+   "bird",
+   "egret",
+   "white",
+   "landing",
+   "water",
+   "golden hour"
+  ],
+  "url": "wallpaper-birds-48-egret.html",
+  "img": "assets/img/birds-48-egret-sm.jpg"
+ },
+ {
+  "title": "Eagle Landing",
+  "pack": "birds",
+  "tags": [
+   "bird",
+   "eagle",
+   "nest",
+   "landing",
+   "sunrise",
+   "wings"
+  ],
+  "url": "wallpaper-birds-49-eagle-nest.html",
+  "img": "assets/img/birds-49-eagle-nest-sm.jpg"
+ },
+ {
+  "title": "Flamingos in Flight",
+  "pack": "birds",
+  "tags": [
+   "bird",
+   "flamingo",
+   "flight",
+   "flock",
+   "sunset",
+   "pink"
+  ],
+  "url": "wallpaper-birds-50-flamingo-flight.html",
+  "img": "assets/img/birds-50-flamingo-flight-sm.jpg"
+ },
+ {
+  "title": "Robin in Blossom",
+  "pack": "birds",
+  "tags": [
+   "bird",
+   "robin",
+   "spring",
+   "blossom",
+   "branch",
+   "morning"
+  ],
+  "url": "wallpaper-birds-51-robin-spring.html",
+  "img": "assets/img/birds-51-robin-spring-sm.jpg"
+ },
+ {
+  "title": "Night Owl",
+  "pack": "birds",
+  "tags": [
+   "bird",
+   "owl",
+   "great horned owl",
+   "night",
+   "moonlight",
+   "eyes"
+  ],
+  "url": "wallpaper-birds-52-owl-night.html",
+  "img": "assets/img/birds-52-owl-night-sm.jpg"
+ },
+ {
   "title": "Painted Mountains",
   "pack": "art",
   "tags": [
