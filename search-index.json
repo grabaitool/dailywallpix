@@ -1,0 +1,167 @@
+[
+ {
+  "title": "Haunted House",
+  "pack": "halloween",
+  "tags": [
+   "halloween",
+   "haunted house",
+   "moon",
+   "night",
+   "spooky"
+  ],
+  "url": "wallpaper-halloween-haunted-house.html",
+  "img": "assets/img/halloween-haunted-house-sm.jpg"
+ },
+ {
+  "title": "Pumpkin Path",
+  "pack": "halloween",
+  "tags": [
+   "halloween",
+   "pumpkins",
+   "forest",
+   "night",
+   "spooky"
+  ],
+  "url": "wallpaper-halloween-pumpkin-path.html",
+  "img": "assets/img/halloween-pumpkin-path-sm.jpg"
+ },
+ {
+  "title": "Gothic Castle",
+  "pack": "halloween",
+  "tags": [
+   "halloween",
+   "castle",
+   "night",
+   "dusk",
+   "spooky",
+   "bats"
+  ],
+  "url": "wallpaper-halloween-gothic-castle.html",
+  "img": "assets/img/halloween-gothic-castle-sm.jpg"
+ },
+ {
+  "title": "Cozy Cottage",
+  "pack": "halloween",
+  "tags": [
+   "halloween",
+   "cozy",
+   "cottage",
+   "autumn",
+   "pumpkins"
+  ],
+  "url": "wallpaper-halloween-cozy-cottage.html",
+  "img": "assets/img/halloween-cozy-cottage-sm.jpg"
+ },
+ {
+  "title": "Lake Cabin",
+  "pack": "autumn",
+  "tags": [
+   "autumn",
+   "cabin",
+   "lake",
+   "nature",
+   "cozy",
+   "fall"
+  ],
+  "url": "wallpaper-autumn-lake-cabin.html",
+  "img": "assets/img/autumn-lake-cabin-sm.jpg"
+ },
+ {
+  "title": "Forest Road",
+  "pack": "autumn",
+  "tags": [
+   "autumn",
+   "forest",
+   "road",
+   "nature",
+   "golden",
+   "fall"
+  ],
+  "url": "wallpaper-autumn-forest-road.html",
+  "img": "assets/img/autumn-forest-road-sm.jpg"
+ },
+ {
+  "title": "Caf\u00e9 Street",
+  "pack": "autumn",
+  "tags": [
+   "autumn",
+   "cozy",
+   "street",
+   "lights",
+   "pumpkins",
+   "fall"
+  ],
+  "url": "wallpaper-autumn-cafe-street.html",
+  "img": "assets/img/autumn-cafe-street-sm.jpg"
+ },
+ {
+  "title": "Red Fox",
+  "pack": "autumn",
+  "tags": [
+   "autumn",
+   "fox",
+   "animal",
+   "nature",
+   "wildlife",
+   "fall"
+  ],
+  "url": "wallpaper-autumn-red-fox.html",
+  "img": "assets/img/autumn-red-fox-sm.jpg"
+ },
+ {
+  "title": "Snow Village",
+  "pack": "winter",
+  "tags": [
+   "winter",
+   "snow",
+   "village",
+   "night",
+   "cozy",
+   "christmas"
+  ],
+  "url": "wallpaper-winter-snow-village.html",
+  "img": "assets/img/winter-snow-village-sm.jpg"
+ },
+ {
+  "title": "Christmas Market",
+  "pack": "winter",
+  "tags": [
+   "christmas",
+   "winter",
+   "market",
+   "lights",
+   "tree",
+   "snow"
+  ],
+  "url": "wallpaper-winter-christmas-market.html",
+  "img": "assets/img/winter-christmas-market-sm.jpg"
+ },
+ {
+  "title": "Aurora Cabin",
+  "pack": "winter",
+  "tags": [
+   "winter",
+   "northern lights",
+   "aurora",
+   "cabin",
+   "night",
+   "snow"
+  ],
+  "url": "wallpaper-winter-aurora-cabin.html",
+  "img": "assets/img/winter-aurora-cabin-sm.jpg"
+ },
+ {
+  "title": "Snowy Owl",
+  "pack": "winter",
+  "tags": [
+   "winter",
+   "owl",
+   "animal",
+   "snow",
+   "wildlife",
+   "bird"
+  ],
+  "url": "wallpaper-winter-snowy-owl.html",
+  "img": "assets/img/winter-snowy-owl-sm.jpg"
+ }
+]

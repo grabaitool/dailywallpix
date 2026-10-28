@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Search Wallpapers | DailyWallPix</title>
+<meta name="description" content="Search all DailyWallPix wallpapers, packs and AI photo trends.">
+<link rel="canonical" href="https://dailywallpix.com/search.html">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="DailyWallPix">
+<meta property="og:title" content="Search Wallpapers | DailyWallPix">
+<meta property="og:description" content="Search all DailyWallPix wallpapers, packs and AI photo trends.">
+<meta property="og:url" content="https://dailywallpix.com/search.html">
+<meta property="og:image" content="https://dailywallpix.com/assets/img/winter-aurora-cabin.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="favicon.ico" sizes="any">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/favicon-32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="assets/favicon-16.png">
+<link rel="apple-touch-icon" href="assets/apple-touch-icon.png">
+<link rel="stylesheet" href="assets/css/style.css">
+
+</head>
+<body><nav><div class="wrap nav-in">
+  <a class="logo" href="index.html">DAILY<span>WALLPIX</span></a>
+  <div class="nav-links">
+    <a href="wallpapers.html">Wallpapers</a>
+    <a href="ai-trends.html">AI Photo Trends</a>
+    <a href="explainers.html">Explainers</a>
+    <a href="about.html">About</a>
+  </div>
+  <a class="today-pill" href="search.html">🔍 Search</a>
+</div></nav>
+<div class="page"><div class="wrap">
+  <div class="crumb">Home / <b>Search</b></div>
+  <h1>Search DailyWallPix</h1>
+  <div class="search-big"><input type="search" id="q" placeholder="Try “aurora”, “fox”, “halloween”…" aria-label="Search"><button type="button">Search</button></div>
+  <div class="fchips"><button class="fchip on" data-f="all">All</button>
+<button class="fchip" data-f="halloween">🎃 Halloween</button>
+<button class="fchip" data-f="autumn">🍂 Autumn</button>
+<button class="fchip" data-f="winter">❄ Winter</button>
+<button class="fchip" data-f="night">Night</button>
+<button class="fchip" data-f="cozy">Cozy</button>
+<button class="fchip" data-f="animal">Animals</button>
+<button class="fchip" data-f="nature">Nature</button></div>
+  <p class="result-note" id="note"></p>
+  <div class="grid" id="results"></div>
+  <p class="empty" id="empty">No matches — try a shorter word, like “snow” or “night”.</p>
+</div></div>
+<footer><div class="wrap foot-in">
+  <span class="logo">DAILY<span>WALLPIX</span></span>
+  <span>Fresh wallpapers & AI photo trends — new every day.</span>
+  <span style="margin-left:auto"><a href="about.html">About</a> · <a href="privacy.html">Privacy</a> · © 2026 DailyWallPix</span>
+</div></footer>
+</body>
+</html>
+<script>
+const box = document.getElementById('q'), grid = document.getElementById('results'),
+      note = document.getElementById('note'), empty = document.getElementById('empty');
+let DATA = [], activeFilter = 'all';
+fetch('search-index.json').then(r => r.json()).then(d => { DATA = d; render(); });
+function matches(item, q) {
+  const hay = (item.title + ' ' + item.pack + ' ' + item.tags.join(' ')).toLowerCase();
+  return q.split(/\s+/).filter(Boolean).every(w => hay.includes(w));
+}
+function render() {
+  const q = (box.value || '').trim().toLowerCase();
+  const items = DATA.filter(it => (activeFilter === 'all' || it.pack === activeFilter || it.tags.includes(activeFilter)) && matches(it, q));
+  grid.innerHTML = items.map(it =>
+    '<a class="wall" href="' + it.url + '"><img src="' + it.img + '" alt="' + it.title + '" loading="lazy"><span class="dl">Download</span></a>').join('');
+  note.textContent = items.length + ' result' + (items.length === 1 ? '' : 's') + (q ? ' for “' + q + '”' : '');
+  empty.style.display = items.length ? 'none' : 'block';
+}
+box.addEventListener('input', render);
+document.querySelectorAll('.fchip').forEach(c => c.addEventListener('click', () => {
+  document.querySelectorAll('.fchip').forEach(x => x.classList.remove('on'));
+  c.classList.add('on'); activeFilter = c.dataset.f; render();
+}));
+const start = new URLSearchParams(location.search).get('q');
+if (start) box.value = start;
+</script>
