@@ -1921,6 +1921,592 @@
   "img": "assets/img/dogs-08-puppy-pair-sm.jpg"
  },
  {
+  "title": "The Frenchie",
+  "pack": "dogs",
+  "tags": [
+   "dog",
+   "pet",
+   "animal",
+   "portrait",
+   "cute"
+  ],
+  "url": "wallpaper-dogs-09-frenchie.html",
+  "img": "assets/img/dogs-09-frenchie-sm.jpg"
+ },
+ {
+  "title": "Golden Puppy",
+  "pack": "dogs",
+  "tags": [
+   "dog",
+   "puppy",
+   "pet",
+   "animal",
+   "cute"
+  ],
+  "url": "wallpaper-dogs-10-golden-puppy.html",
+  "img": "assets/img/dogs-10-golden-puppy-sm.jpg"
+ },
+ {
+  "title": "Ears Flying",
+  "pack": "dogs",
+  "tags": [
+   "dog",
+   "pet",
+   "animal",
+   "funny",
+   "cute",
+   "flowers"
+  ],
+  "url": "wallpaper-dogs-11-dachshund.html",
+  "img": "assets/img/dogs-11-dachshund-sm.jpg"
+ },
+ {
+  "title": "Blue-Eyed Pup",
+  "pack": "dogs",
+  "tags": [
+   "dog",
+   "puppy",
+   "pet",
+   "animal",
+   "husky",
+   "snow",
+   "winter",
+   "cute"
+  ],
+  "url": "wallpaper-dogs-12-husky-puppy.html",
+  "img": "assets/img/dogs-12-husky-puppy-sm.jpg"
+ },
+ {
+  "title": "The Worker",
+  "pack": "dogs",
+  "tags": [
+   "dog",
+   "pet",
+   "animal",
+   "nature"
+  ],
+  "url": "wallpaper-dogs-13-border-collie.html",
+  "img": "assets/img/dogs-13-border-collie-sm.jpg"
+ },
+ {
+  "title": "The Pug Face",
+  "pack": "dogs",
+  "tags": [
+   "dog",
+   "pet",
+   "animal",
+   "funny",
+   "cute",
+   "portrait"
+  ],
+  "url": "wallpaper-dogs-14-pug.html",
+  "img": "assets/img/dogs-14-pug-sm.jpg"
+ },
+ {
+  "title": "Floppy Ear",
+  "pack": "dogs",
+  "tags": [
+   "dog",
+   "puppy",
+   "pet",
+   "animal",
+   "cute"
+  ],
+  "url": "wallpaper-dogs-15-shepherd-puppy.html",
+  "img": "assets/img/dogs-15-shepherd-puppy-sm.jpg"
+ },
+ {
+  "title": "101 Spots",
+  "pack": "dogs",
+  "tags": [
+   "dog",
+   "pet",
+   "animal",
+   "portrait"
+  ],
+  "url": "wallpaper-dogs-16-dalmatian.html",
+  "img": "assets/img/dogs-16-dalmatian-sm.jpg"
+ },
+ {
+  "title": "Long Ears",
+  "pack": "dogs",
+  "tags": [
+   "dog",
+   "puppy",
+   "pet",
+   "animal",
+   "cute"
+  ],
+  "url": "wallpaper-dogs-17-beagle-puppy.html",
+  "img": "assets/img/dogs-17-beagle-puppy-sm.jpg"
+ },
+ {
+  "title": "The Guardian",
+  "pack": "dogs",
+  "tags": [
+   "dog",
+   "pet",
+   "animal",
+   "portrait"
+  ],
+  "url": "wallpaper-dogs-18-rottweiler.html",
+  "img": "assets/img/dogs-18-rottweiler-sm.jpg"
+ },
+ {
+  "title": "The Shiba",
+  "pack": "dogs",
+  "tags": [
+   "dog",
+   "pet",
+   "animal",
+   "autumn",
+   "cute"
+  ],
+  "url": "wallpaper-dogs-19-shiba.html",
+  "img": "assets/img/dogs-19-shiba-sm.jpg"
+ },
+ {
+  "title": "The Poodle",
+  "pack": "dogs",
+  "tags": [
+   "dog",
+   "pet",
+   "animal",
+   "portrait",
+   "elegant"
+  ],
+  "url": "wallpaper-dogs-20-poodle.html",
+  "img": "assets/img/dogs-20-poodle-sm.jpg"
+ },
+ {
+  "title": "Air Boxer",
+  "pack": "dogs",
+  "tags": [
+   "dog",
+   "pet",
+   "animal",
+   "funny",
+   "action"
+  ],
+  "url": "wallpaper-dogs-21-boxer.html",
+  "img": "assets/img/dogs-21-boxer-sm.jpg"
+ },
+ {
+  "title": "Tiny & Mighty",
+  "pack": "dogs",
+  "tags": [
+   "dog",
+   "pet",
+   "animal",
+   "cute",
+   "funny"
+  ],
+  "url": "wallpaper-dogs-22-chihuahua.html",
+  "img": "assets/img/dogs-22-chihuahua-sm.jpg"
+ },
+ {
+  "title": "Gentle Giant",
+  "pack": "dogs",
+  "tags": [
+   "dog",
+   "pet",
+   "animal",
+   "cute",
+   "funny"
+  ],
+  "url": "wallpaper-dogs-23-great-dane.html",
+  "img": "assets/img/dogs-23-great-dane-sm.jpg"
+ },
+ {
+  "title": "Golden Spaniel",
+  "pack": "dogs",
+  "tags": [
+   "dog",
+   "pet",
+   "animal",
+   "golden",
+   "cute"
+  ],
+  "url": "wallpaper-dogs-24-cocker.html",
+  "img": "assets/img/dogs-24-cocker-sm.jpg"
+ },
+ {
+  "title": "Two-Colored Eyes",
+  "pack": "dogs",
+  "tags": [
+   "dog",
+   "pet",
+   "animal",
+   "portrait",
+   "nature"
+  ],
+  "url": "wallpaper-dogs-25-aussie.html",
+  "img": "assets/img/dogs-25-aussie-sm.jpg"
+ },
+ {
+  "title": "The Sammy Smile",
+  "pack": "dogs",
+  "tags": [
+   "dog",
+   "pet",
+   "animal",
+   "snow",
+   "winter",
+   "cute"
+  ],
+  "url": "wallpaper-dogs-26-samoyed.html",
+  "img": "assets/img/dogs-26-samoyed-sm.jpg"
+ },
+ {
+  "title": "Beach Chase",
+  "pack": "dogs",
+  "tags": [
+   "dog",
+   "pet",
+   "animal",
+   "beach",
+   "ocean",
+   "action"
+  ],
+  "url": "wallpaper-dogs-27-beach-ball.html",
+  "img": "assets/img/dogs-27-beach-ball-sm.jpg"
+ },
+ {
+  "title": "Bath Day",
+  "pack": "dogs",
+  "tags": [
+   "dog",
+   "puppy",
+   "pet",
+   "animal",
+   "cute",
+   "funny"
+  ],
+  "url": "wallpaper-dogs-28-bath-puppy.html",
+  "img": "assets/img/dogs-28-bath-puppy-sm.jpg"
+ },
+ {
+  "title": "Christmas Dog",
+  "pack": "dogs",
+  "tags": [
+   "dog",
+   "pet",
+   "animal",
+   "christmas",
+   "cozy",
+   "cute"
+  ],
+  "url": "wallpaper-dogs-29-christmas-dog.html",
+  "img": "assets/img/dogs-29-christmas-dog-sm.jpg"
+ },
+ {
+  "title": "Old Friends",
+  "pack": "dogs",
+  "tags": [
+   "dog",
+   "pet",
+   "animal",
+   "funny",
+   "cute"
+  ],
+  "url": "wallpaper-dogs-30-two-pugs.html",
+  "img": "assets/img/dogs-30-two-pugs-sm.jpg"
+ },
+ {
+  "title": "Window Down",
+  "pack": "dogs",
+  "tags": [
+   "dog",
+   "pet",
+   "animal",
+   "funny",
+   "cute"
+  ],
+  "url": "wallpaper-dogs-31-car-ride.html",
+  "img": "assets/img/dogs-31-car-ride-sm.jpg"
+ },
+ {
+  "title": "Grey Wisdom",
+  "pack": "dogs",
+  "tags": [
+   "dog",
+   "pet",
+   "animal",
+   "portrait"
+  ],
+  "url": "wallpaper-dogs-32-wise-dog.html",
+  "img": "assets/img/dogs-32-wise-dog-sm.jpg"
+ },
+ {
+  "title": "Mountain Bernese",
+  "pack": "dogs",
+  "tags": [
+   "dog",
+   "pet",
+   "animal",
+   "snow",
+   "mountains",
+   "winter"
+  ],
+  "url": "wallpaper-dogs-33-bernese.html",
+  "img": "assets/img/dogs-33-bernese-sm.jpg"
+ },
+ {
+  "title": "Rust & Gold",
+  "pack": "dogs",
+  "tags": [
+   "dog",
+   "pet",
+   "animal",
+   "autumn",
+   "portrait"
+  ],
+  "url": "wallpaper-dogs-34-vizsla.html",
+  "img": "assets/img/dogs-34-vizsla-sm.jpg"
+ },
+ {
+  "title": "The Pile",
+  "pack": "dogs",
+  "tags": [
+   "dog",
+   "puppy",
+   "pet",
+   "animal",
+   "cute"
+  ],
+  "url": "wallpaper-dogs-35-puppy-pile.html",
+  "img": "assets/img/dogs-35-puppy-pile-sm.jpg"
+ },
+ {
+  "title": "Paw in Hand",
+  "pack": "dogs",
+  "tags": [
+   "dog",
+   "pet",
+   "animal",
+   "love"
+  ],
+  "url": "wallpaper-dogs-36-paw-hand.html",
+  "img": "assets/img/dogs-36-paw-hand-sm.jpg"
+ },
+ {
+  "title": "The Greyhound",
+  "pack": "dogs",
+  "tags": [
+   "dog",
+   "pet",
+   "animal",
+   "portrait",
+   "elegant"
+  ],
+  "url": "wallpaper-dogs-37-greyhound.html",
+  "img": "assets/img/dogs-37-greyhound-sm.jpg"
+ },
+ {
+  "title": "Birthday Dog",
+  "pack": "dogs",
+  "tags": [
+   "dog",
+   "pet",
+   "animal",
+   "birthday",
+   "cute",
+   "funny"
+  ],
+  "url": "wallpaper-dogs-38-birthday-dog.html",
+  "img": "assets/img/dogs-38-birthday-dog-sm.jpg"
+ },
+ {
+  "title": "Mid-Air",
+  "pack": "dogs",
+  "tags": [
+   "dog",
+   "pet",
+   "animal",
+   "action"
+  ],
+  "url": "wallpaper-dogs-39-agility.html",
+  "img": "assets/img/dogs-39-agility-sm.jpg"
+ },
+ {
+  "title": "The Maltese",
+  "pack": "dogs",
+  "tags": [
+   "dog",
+   "pet",
+   "animal",
+   "cute",
+   "white"
+  ],
+  "url": "wallpaper-dogs-40-maltese.html",
+  "img": "assets/img/dogs-40-maltese-sm.jpg"
+ },
+ {
+  "title": "Raincoat Dog",
+  "pack": "dogs",
+  "tags": [
+   "dog",
+   "pet",
+   "animal",
+   "rain",
+   "cute",
+   "funny"
+  ],
+  "url": "wallpaper-dogs-41-raincoat.html",
+  "img": "assets/img/dogs-41-raincoat-sm.jpg"
+ },
+ {
+  "title": "Basket of Puppies",
+  "pack": "dogs",
+  "tags": [
+   "dog",
+   "puppy",
+   "pet",
+   "animal",
+   "cute",
+   "flowers"
+  ],
+  "url": "wallpaper-dogs-42-basket-puppies.html",
+  "img": "assets/img/dogs-42-basket-puppies-sm.jpg"
+ },
+ {
+  "title": "Full Sprint",
+  "pack": "dogs",
+  "tags": [
+   "dog",
+   "pet",
+   "animal",
+   "sunset",
+   "action"
+  ],
+  "url": "wallpaper-dogs-43-field-run.html",
+  "img": "assets/img/dogs-43-field-run-sm.jpg"
+ },
+ {
+  "title": "The Rescuer",
+  "pack": "dogs",
+  "tags": [
+   "dog",
+   "pet",
+   "animal",
+   "snow",
+   "mountains",
+   "winter"
+  ],
+  "url": "wallpaper-dogs-44-st-bernard.html",
+  "img": "assets/img/dogs-44-st-bernard-sm.jpg"
+ },
+ {
+  "title": "Cafe Dog",
+  "pack": "dogs",
+  "tags": [
+   "dog",
+   "pet",
+   "animal",
+   "cafe",
+   "cute"
+  ],
+  "url": "wallpaper-dogs-45-cafe-dog.html",
+  "img": "assets/img/dogs-45-cafe-dog-sm.jpg"
+ },
+ {
+  "title": "Three Goldens",
+  "pack": "dogs",
+  "tags": [
+   "dog",
+   "puppy",
+   "pet",
+   "animal",
+   "cute"
+  ],
+  "url": "wallpaper-dogs-46-three-goldens.html",
+  "img": "assets/img/dogs-46-three-goldens-sm.jpg"
+ },
+ {
+  "title": "Beach Silhouette",
+  "pack": "dogs",
+  "tags": [
+   "dog",
+   "pet",
+   "animal",
+   "beach",
+   "sunrise",
+   "silhouette"
+  ],
+  "url": "wallpaper-dogs-47-beach-silhouette.html",
+  "img": "assets/img/dogs-47-beach-silhouette-sm.jpg"
+ },
+ {
+  "title": "Corgi Puppy",
+  "pack": "dogs",
+  "tags": [
+   "dog",
+   "puppy",
+   "pet",
+   "animal",
+   "cute"
+  ],
+  "url": "wallpaper-dogs-48-corgi-puppy.html",
+  "img": "assets/img/dogs-48-corgi-puppy-sm.jpg"
+ },
+ {
+  "title": "Boot Puppy",
+  "pack": "dogs",
+  "tags": [
+   "dog",
+   "puppy",
+   "pet",
+   "animal",
+   "cute",
+   "funny"
+  ],
+  "url": "wallpaper-dogs-49-puppy-boot.html",
+  "img": "assets/img/dogs-49-puppy-boot-sm.jpg"
+ },
+ {
+  "title": "Stargazing",
+  "pack": "dogs",
+  "tags": [
+   "dog",
+   "pet",
+   "animal",
+   "night",
+   "stars"
+  ],
+  "url": "wallpaper-dogs-50-stargazing.html",
+  "img": "assets/img/dogs-50-stargazing-sm.jpg"
+ },
+ {
+  "title": "Moon Howl",
+  "pack": "dogs",
+  "tags": [
+   "dog",
+   "pet",
+   "animal",
+   "husky",
+   "night",
+   "moon",
+   "snow"
+  ],
+  "url": "wallpaper-dogs-51-howl-moon.html",
+  "img": "assets/img/dogs-51-howl-moon-sm.jpg"
+ },
+ {
+  "title": "First Snow",
+  "pack": "dogs",
+  "tags": [
+   "dog",
+   "puppy",
+   "pet",
+   "animal",
+   "winter",
+   "snow",
+   "cute"
+  ],
+  "url": "wallpaper-dogs-52-first-snow-puppy.html",
+  "img": "assets/img/dogs-52-first-snow-puppy-sm.jpg"
+ },
+ {
   "title": "Open Road",
   "pack": "bikes",
   "tags": [
