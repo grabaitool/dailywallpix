@@ -2591,5 +2591,566 @@
   ],
   "url": "wallpaper-nightsky-08-shooting-star.html",
   "img": "assets/img/nightsky-08-shooting-star-sm.jpg"
+ },
+ {
+  "title": "Calm Is Power",
+  "pack": "quotes",
+  "tags": [
+   "quote",
+   "motivational",
+   "lighthouse",
+   "ocean",
+   "calm"
+  ],
+  "url": "wallpaper-quotes-17-lighthouse.html",
+  "img": "assets/img/quotes-17-lighthouse-sm.jpg"
+ },
+ {
+  "title": "After the Rain",
+  "pack": "quotes",
+  "tags": [
+   "quote",
+   "motivational",
+   "rainbow",
+   "valley",
+   "nature"
+  ],
+  "url": "wallpaper-quotes-18-rainbow.html",
+  "img": "assets/img/quotes-18-rainbow-sm.jpg"
+ },
+ {
+  "title": "Rise Early",
+  "pack": "quotes",
+  "tags": [
+   "quote",
+   "motivational",
+   "balloons",
+   "sunrise",
+   "morning"
+  ],
+  "url": "wallpaper-quotes-19-balloons.html",
+  "img": "assets/img/quotes-19-balloons-sm.jpg"
+ },
+ {
+  "title": "Home Is Built",
+  "pack": "quotes",
+  "tags": [
+   "quote",
+   "motivational",
+   "home",
+   "cottage",
+   "ocean",
+   "dusk"
+  ],
+  "url": "wallpaper-quotes-20-cottage.html",
+  "img": "assets/img/quotes-20-cottage-sm.jpg"
+ },
+ {
+  "title": "The Gourmet Burger",
+  "pack": "foodie",
+  "tags": [
+   "food",
+   "burger",
+   "photography"
+  ],
+  "url": "wallpaper-foodie-01-burger.html",
+  "img": "assets/img/foodie-01-burger-sm.jpg"
+ },
+ {
+  "title": "Honey Pancakes",
+  "pack": "foodie",
+  "tags": [
+   "food",
+   "pancakes",
+   "breakfast",
+   "morning"
+  ],
+  "url": "wallpaper-foodie-02-pancakes.html",
+  "img": "assets/img/foodie-02-pancakes-sm.jpg"
+ },
+ {
+  "title": "The Sundae",
+  "pack": "foodie",
+  "tags": [
+   "food",
+   "ice cream",
+   "dessert",
+   "pastel",
+   "summer"
+  ],
+  "url": "wallpaper-foodie-03-icecream.html",
+  "img": "assets/img/foodie-03-icecream-sm.jpg"
+ },
+ {
+  "title": "Wood-Fired",
+  "pack": "foodie",
+  "tags": [
+   "food",
+   "pizza",
+   "italian"
+  ],
+  "url": "wallpaper-foodie-04-pizza.html",
+  "img": "assets/img/foodie-04-pizza-sm.jpg"
+ },
+ {
+  "title": "Sushi, Refined",
+  "pack": "foodie",
+  "tags": [
+   "food",
+   "sushi",
+   "japanese",
+   "minimal"
+  ],
+  "url": "wallpaper-foodie-05-sushi.html",
+  "img": "assets/img/foodie-05-sushi-sm.jpg"
+ },
+ {
+  "title": "Chocolate, Dripping",
+  "pack": "foodie",
+  "tags": [
+   "food",
+   "cake",
+   "chocolate",
+   "dessert"
+  ],
+  "url": "wallpaper-foodie-06-chocolate-cake.html",
+  "img": "assets/img/foodie-06-chocolate-cake-sm.jpg"
+ },
+ {
+  "title": "Tropical Bowl",
+  "pack": "foodie",
+  "tags": [
+   "food",
+   "fruit",
+   "healthy",
+   "colorful"
+  ],
+  "url": "wallpaper-foodie-07-fruit-bowl.html",
+  "img": "assets/img/foodie-07-fruit-bowl-sm.jpg"
+ },
+ {
+  "title": "Ramen Steam",
+  "pack": "foodie",
+  "tags": [
+   "food",
+   "ramen",
+   "japanese",
+   "cozy"
+  ],
+  "url": "wallpaper-foodie-08-ramen.html",
+  "img": "assets/img/foodie-08-ramen-sm.jpg"
+ },
+ {
+  "title": "The King",
+  "pack": "wildlife",
+  "tags": [
+   "animal",
+   "lion",
+   "wildlife",
+   "safari",
+   "africa"
+  ],
+  "url": "wallpaper-wildlife-01-lion.html",
+  "img": "assets/img/wildlife-01-lion-sm.jpg"
+ },
+ {
+  "title": "Gentle Giant",
+  "pack": "wildlife",
+  "tags": [
+   "animal",
+   "elephant",
+   "wildlife",
+   "safari",
+   "sunset"
+  ],
+  "url": "wallpaper-wildlife-02-elephant.html",
+  "img": "assets/img/wildlife-02-elephant-sm.jpg"
+ },
+ {
+  "title": "Tiger Eyes",
+  "pack": "wildlife",
+  "tags": [
+   "animal",
+   "tiger",
+   "wildlife",
+   "jungle"
+  ],
+  "url": "wallpaper-wildlife-03-tiger.html",
+  "img": "assets/img/wildlife-03-tiger-sm.jpg"
+ },
+ {
+  "title": "Red Panda",
+  "pack": "wildlife",
+  "tags": [
+   "animal",
+   "panda",
+   "wildlife",
+   "cute",
+   "forest"
+  ],
+  "url": "wallpaper-wildlife-04-red-panda.html",
+  "img": "assets/img/wildlife-04-red-panda-sm.jpg"
+ },
+ {
+  "title": "Winter Fox",
+  "pack": "wildlife",
+  "tags": [
+   "animal",
+   "fox",
+   "wildlife",
+   "snow",
+   "winter"
+  ],
+  "url": "wallpaper-wildlife-05-fox-snow.html",
+  "img": "assets/img/wildlife-05-fox-snow-sm.jpg"
+ },
+ {
+  "title": "Forest Light",
+  "pack": "wildlife",
+  "tags": [
+   "animal",
+   "deer",
+   "wildlife",
+   "forest",
+   "nature"
+  ],
+  "url": "wallpaper-wildlife-06-deer.html",
+  "img": "assets/img/wildlife-06-deer-sm.jpg"
+ },
+ {
+  "title": "Stripes",
+  "pack": "wildlife",
+  "tags": [
+   "animal",
+   "zebra",
+   "wildlife",
+   "safari",
+   "pattern"
+  ],
+  "url": "wallpaper-wildlife-07-zebra.html",
+  "img": "assets/img/wildlife-07-zebra-sm.jpg"
+ },
+ {
+  "title": "Arctic Calm",
+  "pack": "wildlife",
+  "tags": [
+   "animal",
+   "bear",
+   "wildlife",
+   "snow",
+   "winter",
+   "arctic"
+  ],
+  "url": "wallpaper-wildlife-08-polar-bear.html",
+  "img": "assets/img/wildlife-08-polar-bear-sm.jpg"
+ },
+ {
+  "title": "The Spiral",
+  "pack": "interiors",
+  "tags": [
+   "architecture",
+   "interior",
+   "stairs",
+   "minimal",
+   "design"
+  ],
+  "url": "wallpaper-interiors-01-staircase.html",
+  "img": "assets/img/interiors-01-staircase-sm.jpg"
+ },
+ {
+  "title": "House at Dusk",
+  "pack": "interiors",
+  "tags": [
+   "architecture",
+   "house",
+   "luxury",
+   "evening",
+   "design"
+  ],
+  "url": "wallpaper-interiors-02-modern-house.html",
+  "img": "assets/img/interiors-02-modern-house-sm.jpg"
+ },
+ {
+  "title": "The Grand Library",
+  "pack": "interiors",
+  "tags": [
+   "architecture",
+   "interior",
+   "library",
+   "books",
+   "cozy"
+  ],
+  "url": "wallpaper-interiors-03-library.html",
+  "img": "assets/img/interiors-03-library-sm.jpg"
+ },
+ {
+  "title": "Look Up",
+  "pack": "interiors",
+  "tags": [
+   "architecture",
+   "city",
+   "skyscraper",
+   "sky"
+  ],
+  "url": "wallpaper-interiors-04-skyscraper.html",
+  "img": "assets/img/interiors-04-skyscraper-sm.jpg"
+ },
+ {
+  "title": "The Nook",
+  "pack": "interiors",
+  "tags": [
+   "interior",
+   "cozy",
+   "reading",
+   "window",
+   "home"
+  ],
+  "url": "wallpaper-interiors-05-reading-nook.html",
+  "img": "assets/img/interiors-05-reading-nook-sm.jpg"
+ },
+ {
+  "title": "White & Blue",
+  "pack": "interiors",
+  "tags": [
+   "architecture",
+   "mediterranean",
+   "stairs",
+   "flowers",
+   "travel"
+  ],
+  "url": "wallpaper-interiors-06-white-stairs.html",
+  "img": "assets/img/interiors-06-white-stairs-sm.jpg"
+ },
+ {
+  "title": "The Greenhouse",
+  "pack": "interiors",
+  "tags": [
+   "interior",
+   "plants",
+   "garden",
+   "sunlight",
+   "green"
+  ],
+  "url": "wallpaper-interiors-07-greenhouse.html",
+  "img": "assets/img/interiors-07-greenhouse-sm.jpg"
+ },
+ {
+  "title": "Marble Spa",
+  "pack": "interiors",
+  "tags": [
+   "interior",
+   "bathroom",
+   "luxury",
+   "marble",
+   "spa"
+  ],
+  "url": "wallpaper-interiors-08-marble-bath.html",
+  "img": "assets/img/interiors-08-marble-bath-sm.jpg"
+ },
+ {
+  "title": "Floating Islands",
+  "pack": "fantasy",
+  "tags": [
+   "fantasy",
+   "magic",
+   "sky",
+   "waterfall",
+   "world"
+  ],
+  "url": "wallpaper-fantasy-01-floating-islands.html",
+  "img": "assets/img/fantasy-01-floating-islands-sm.jpg"
+ },
+ {
+  "title": "Crystal Cave",
+  "pack": "fantasy",
+  "tags": [
+   "fantasy",
+   "crystal",
+   "cave",
+   "purple",
+   "magic"
+  ],
+  "url": "wallpaper-fantasy-02-crystal-cave.html",
+  "img": "assets/img/fantasy-02-crystal-cave-sm.jpg"
+ },
+ {
+  "title": "Enchanted Forest",
+  "pack": "fantasy",
+  "tags": [
+   "fantasy",
+   "forest",
+   "magic",
+   "night",
+   "nature"
+  ],
+  "url": "wallpaper-fantasy-03-enchanted-forest.html",
+  "img": "assets/img/fantasy-03-enchanted-forest-sm.jpg"
+ },
+ {
+  "title": "Sky Castle",
+  "pack": "fantasy",
+  "tags": [
+   "fantasy",
+   "castle",
+   "sky",
+   "clouds",
+   "magic"
+  ],
+  "url": "wallpaper-fantasy-04-sky-castle.html",
+  "img": "assets/img/fantasy-04-sky-castle-sm.jpg"
+ },
+ {
+  "title": "Underwater City",
+  "pack": "fantasy",
+  "tags": [
+   "fantasy",
+   "ocean",
+   "city",
+   "underwater",
+   "magic"
+  ],
+  "url": "wallpaper-fantasy-05-underwater-city.html",
+  "img": "assets/img/fantasy-05-underwater-city-sm.jpg"
+ },
+ {
+  "title": "Tree Village",
+  "pack": "fantasy",
+  "tags": [
+   "fantasy",
+   "forest",
+   "village",
+   "cozy",
+   "magic"
+  ],
+  "url": "wallpaper-fantasy-06-tree-village.html",
+  "img": "assets/img/fantasy-06-tree-village-sm.jpg"
+ },
+ {
+  "title": "The Portal",
+  "pack": "fantasy",
+  "tags": [
+   "fantasy",
+   "forest",
+   "magic",
+   "portal",
+   "mist"
+  ],
+  "url": "wallpaper-fantasy-07-forest-portal.html",
+  "img": "assets/img/fantasy-07-forest-portal-sm.jpg"
+ },
+ {
+  "title": "Moon Gate",
+  "pack": "fantasy",
+  "tags": [
+   "fantasy",
+   "moon",
+   "sky",
+   "clouds",
+   "gate"
+  ],
+  "url": "wallpaper-fantasy-08-moon-gate.html",
+  "img": "assets/img/fantasy-08-moon-gate-sm.jpg"
+ },
+ {
+  "title": "The 50s Diner",
+  "pack": "retro",
+  "tags": [
+   "retro",
+   "vintage",
+   "diner",
+   "americana",
+   "neon"
+  ],
+  "url": "wallpaper-retro-01-diner.html",
+  "img": "assets/img/retro-01-diner-sm.jpg"
+ },
+ {
+  "title": "Vinyl Nights",
+  "pack": "retro",
+  "tags": [
+   "retro",
+   "vintage",
+   "music",
+   "vinyl",
+   "cozy"
+  ],
+  "url": "wallpaper-retro-02-vinyl.html",
+  "img": "assets/img/retro-02-vinyl-sm.jpg"
+ },
+ {
+  "title": "Film Cameras",
+  "pack": "retro",
+  "tags": [
+   "retro",
+   "vintage",
+   "camera",
+   "photography"
+  ],
+  "url": "wallpaper-retro-03-cameras.html",
+  "img": "assets/img/retro-03-cameras-sm.jpg"
+ },
+ {
+  "title": "Arcade Glow",
+  "pack": "retro",
+  "tags": [
+   "retro",
+   "vintage",
+   "gaming",
+   "arcade",
+   "neon"
+  ],
+  "url": "wallpaper-retro-04-arcade.html",
+  "img": "assets/img/retro-04-arcade-sm.jpg"
+ },
+ {
+  "title": "Steam & Gold",
+  "pack": "retro",
+  "tags": [
+   "retro",
+   "vintage",
+   "train",
+   "travel",
+   "golden"
+  ],
+  "url": "wallpaper-retro-05-steam-train.html",
+  "img": "assets/img/retro-05-steam-train-sm.jpg"
+ },
+ {
+  "title": "The Rotary",
+  "pack": "retro",
+  "tags": [
+   "retro",
+   "vintage",
+   "phone",
+   "pastel"
+  ],
+  "url": "wallpaper-retro-06-rotary-phone.html",
+  "img": "assets/img/retro-06-rotary-phone-sm.jpg"
+ },
+ {
+  "title": "Route Stop",
+  "pack": "retro",
+  "tags": [
+   "retro",
+   "vintage",
+   "americana",
+   "road",
+   "dusk"
+  ],
+  "url": "wallpaper-retro-07-gas-station.html",
+  "img": "assets/img/retro-07-gas-station-sm.jpg"
+ },
+ {
+  "title": "Old Cinema",
+  "pack": "retro",
+  "tags": [
+   "retro",
+   "vintage",
+   "cinema",
+   "movies",
+   "red"
+  ],
+  "url": "wallpaper-retro-08-cinema.html",
+  "img": "assets/img/retro-08-cinema-sm.jpg"
  }
 ]
