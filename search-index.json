@@ -1441,5 +1441,581 @@
   ],
   "url": "wallpaper-bikes-08-oldtimer-night.html",
   "img": "assets/img/bikes-08-oldtimer-night-sm.jpg"
+ },
+ {
+  "title": "Direction First",
+  "pack": "quotes",
+  "tags": [
+   "quote",
+   "motivational",
+   "river",
+   "sunrise",
+   "nature"
+  ],
+  "url": "wallpaper-quotes-09-river.html",
+  "img": "assets/img/quotes-09-river-sm.jpg"
+ },
+ {
+  "title": "Slow Down",
+  "pack": "quotes",
+  "tags": [
+   "quote",
+   "motivational",
+   "lavender",
+   "calm",
+   "purple"
+  ],
+  "url": "wallpaper-quotes-10-lavender.html",
+  "img": "assets/img/quotes-10-lavender-sm.jpg"
+ },
+ {
+  "title": "Before the Breakthrough",
+  "pack": "quotes",
+  "tags": [
+   "quote",
+   "motivational",
+   "canyon",
+   "light"
+  ],
+  "url": "wallpaper-quotes-11-canyon.html",
+  "img": "assets/img/quotes-11-canyon-sm.jpg"
+ },
+ {
+  "title": "Make It Yours",
+  "pack": "quotes",
+  "tags": [
+   "quote",
+   "motivational",
+   "night",
+   "forest",
+   "moon"
+  ],
+  "url": "wallpaper-quotes-12-moon.html",
+  "img": "assets/img/quotes-12-moon-sm.jpg"
+ },
+ {
+  "title": "Santorini Blues",
+  "pack": "travel",
+  "tags": [
+   "travel",
+   "greece",
+   "santorini",
+   "ocean",
+   "summer"
+  ],
+  "url": "wallpaper-travel-01-santorini.html",
+  "img": "assets/img/travel-01-santorini-sm.jpg"
+ },
+ {
+  "title": "Kyoto Morning",
+  "pack": "travel",
+  "tags": [
+   "travel",
+   "japan",
+   "kyoto",
+   "temple",
+   "spring",
+   "cherry blossom"
+  ],
+  "url": "wallpaper-travel-02-kyoto.html",
+  "img": "assets/img/travel-02-kyoto-sm.jpg"
+ },
+ {
+  "title": "Swiss Village",
+  "pack": "travel",
+  "tags": [
+   "travel",
+   "switzerland",
+   "mountains",
+   "village",
+   "lake",
+   "snow"
+  ],
+  "url": "wallpaper-travel-03-swiss-village.html",
+  "img": "assets/img/travel-03-swiss-village-sm.jpg"
+ },
+ {
+  "title": "Bali Terraces",
+  "pack": "travel",
+  "tags": [
+   "travel",
+   "bali",
+   "nature",
+   "green",
+   "sunrise"
+  ],
+  "url": "wallpaper-travel-04-bali-terraces.html",
+  "img": "assets/img/travel-04-bali-terraces-sm.jpg"
+ },
+ {
+  "title": "Iceland Falls",
+  "pack": "travel",
+  "tags": [
+   "travel",
+   "iceland",
+   "waterfall",
+   "nature",
+   "rainbow"
+  ],
+  "url": "wallpaper-travel-05-iceland-falls.html",
+  "img": "assets/img/travel-05-iceland-falls-sm.jpg"
+ },
+ {
+  "title": "The Blue City",
+  "pack": "travel",
+  "tags": [
+   "travel",
+   "morocco",
+   "city",
+   "blue",
+   "street"
+  ],
+  "url": "wallpaper-travel-06-morocco-blue.html",
+  "img": "assets/img/travel-06-morocco-blue-sm.jpg"
+ },
+ {
+  "title": "The Fjords",
+  "pack": "travel",
+  "tags": [
+   "travel",
+   "norway",
+   "fjord",
+   "mountains",
+   "ocean",
+   "nature"
+  ],
+  "url": "wallpaper-travel-07-fjords.html",
+  "img": "assets/img/travel-07-fjords-sm.jpg"
+ },
+ {
+  "title": "Balloon Sunrise",
+  "pack": "travel",
+  "tags": [
+   "travel",
+   "turkey",
+   "cappadocia",
+   "balloons",
+   "sunrise"
+  ],
+  "url": "wallpaper-travel-08-cappadocia.html",
+  "img": "assets/img/travel-08-cappadocia-sm.jpg"
+ },
+ {
+  "title": "Coffee & Rain",
+  "pack": "coffee",
+  "tags": [
+   "coffee",
+   "cozy",
+   "rain",
+   "window",
+   "cafe"
+  ],
+  "url": "wallpaper-coffee-01-window-rain.html",
+  "img": "assets/img/coffee-01-window-rain-sm.jpg"
+ },
+ {
+  "title": "Latte Art",
+  "pack": "coffee",
+  "tags": [
+   "coffee",
+   "latte",
+   "cafe",
+   "morning"
+  ],
+  "url": "wallpaper-coffee-02-latte-art.html",
+  "img": "assets/img/coffee-02-latte-art-sm.jpg"
+ },
+ {
+  "title": "Slow Breakfast",
+  "pack": "coffee",
+  "tags": [
+   "coffee",
+   "breakfast",
+   "food",
+   "cozy",
+   "morning"
+  ],
+  "url": "wallpaper-coffee-03-breakfast.html",
+  "img": "assets/img/coffee-03-breakfast-sm.jpg"
+ },
+ {
+  "title": "Books & Coffee",
+  "pack": "coffee",
+  "tags": [
+   "coffee",
+   "books",
+   "cozy",
+   "reading"
+  ],
+  "url": "wallpaper-coffee-04-books.html",
+  "img": "assets/img/coffee-04-books-sm.jpg"
+ },
+ {
+  "title": "Dark Roast",
+  "pack": "coffee",
+  "tags": [
+   "coffee",
+   "beans",
+   "dark",
+   "cafe"
+  ],
+  "url": "wallpaper-coffee-05-beans.html",
+  "img": "assets/img/coffee-05-beans-sm.jpg"
+ },
+ {
+  "title": "Tea Time",
+  "pack": "coffee",
+  "tags": [
+   "tea",
+   "cozy",
+   "calm",
+   "pastel"
+  ],
+  "url": "wallpaper-coffee-06-tea-time.html",
+  "img": "assets/img/coffee-06-tea-time-sm.jpg"
+ },
+ {
+  "title": "The Bakery",
+  "pack": "coffee",
+  "tags": [
+   "bakery",
+   "food",
+   "bread",
+   "cozy",
+   "golden"
+  ],
+  "url": "wallpaper-coffee-07-bakery.html",
+  "img": "assets/img/coffee-07-bakery-sm.jpg"
+ },
+ {
+  "title": "Cozy Desk",
+  "pack": "coffee",
+  "tags": [
+   "coffee",
+   "desk",
+   "workspace",
+   "cozy",
+   "evening"
+  ],
+  "url": "wallpaper-coffee-08-desk.html",
+  "img": "assets/img/coffee-08-desk-sm.jpg"
+ },
+ {
+  "title": "The Hummingbird",
+  "pack": "birds",
+  "tags": [
+   "bird",
+   "hummingbird",
+   "animal",
+   "flowers",
+   "nature"
+  ],
+  "url": "wallpaper-birds-01-hummingbird.html",
+  "img": "assets/img/birds-01-hummingbird-sm.jpg"
+ },
+ {
+  "title": "The Barn Owl",
+  "pack": "birds",
+  "tags": [
+   "bird",
+   "owl",
+   "animal",
+   "portrait",
+   "wildlife"
+  ],
+  "url": "wallpaper-birds-02-barn-owl.html",
+  "img": "assets/img/birds-02-barn-owl-sm.jpg"
+ },
+ {
+  "title": "Flamingo Sunrise",
+  "pack": "birds",
+  "tags": [
+   "bird",
+   "flamingo",
+   "animal",
+   "pink",
+   "sunrise",
+   "ocean"
+  ],
+  "url": "wallpaper-birds-03-flamingos.html",
+  "img": "assets/img/birds-03-flamingos-sm.jpg"
+ },
+ {
+  "title": "Full Display",
+  "pack": "birds",
+  "tags": [
+   "bird",
+   "peacock",
+   "animal",
+   "colorful",
+   "wildlife"
+  ],
+  "url": "wallpaper-birds-04-peacock.html",
+  "img": "assets/img/birds-04-peacock-sm.jpg"
+ },
+ {
+  "title": "Spring Robin",
+  "pack": "birds",
+  "tags": [
+   "bird",
+   "robin",
+   "animal",
+   "spring",
+   "nature"
+  ],
+  "url": "wallpaper-birds-05-robin.html",
+  "img": "assets/img/birds-05-robin-sm.jpg"
+ },
+ {
+  "title": "Butterfly Meadow",
+  "pack": "birds",
+  "tags": [
+   "butterfly",
+   "animal",
+   "flowers",
+   "nature",
+   "golden"
+  ],
+  "url": "wallpaper-birds-06-butterflies.html",
+  "img": "assets/img/birds-06-butterflies-sm.jpg"
+ },
+ {
+  "title": "Dawn Swan",
+  "pack": "birds",
+  "tags": [
+   "bird",
+   "swan",
+   "animal",
+   "lake",
+   "morning",
+   "calm"
+  ],
+  "url": "wallpaper-birds-07-swan.html",
+  "img": "assets/img/birds-07-swan-sm.jpg"
+ },
+ {
+  "title": "Scarlet Macaw",
+  "pack": "birds",
+  "tags": [
+   "bird",
+   "parrot",
+   "animal",
+   "colorful",
+   "wildlife"
+  ],
+  "url": "wallpaper-birds-08-parrot.html",
+  "img": "assets/img/birds-08-parrot-sm.jpg"
+ },
+ {
+  "title": "Painted Mountains",
+  "pack": "art",
+  "tags": [
+   "art",
+   "watercolor",
+   "mountains",
+   "painting",
+   "aesthetic"
+  ],
+  "url": "wallpaper-art-01-watercolor-mountains.html",
+  "img": "assets/img/art-01-watercolor-mountains-sm.jpg"
+ },
+ {
+  "title": "Painted Wave",
+  "pack": "art",
+  "tags": [
+   "art",
+   "watercolor",
+   "ocean",
+   "wave",
+   "painting"
+  ],
+  "url": "wallpaper-art-02-watercolor-wave.html",
+  "img": "assets/img/art-02-watercolor-wave-sm.jpg"
+ },
+ {
+  "title": "Ink & Gold",
+  "pack": "art",
+  "tags": [
+   "art",
+   "abstract",
+   "gold",
+   "ink",
+   "dark",
+   "aesthetic"
+  ],
+  "url": "wallpaper-art-03-ink-gold.html",
+  "img": "assets/img/art-03-ink-gold-sm.jpg"
+ },
+ {
+  "title": "Painted Wildflowers",
+  "pack": "art",
+  "tags": [
+   "art",
+   "watercolor",
+   "flowers",
+   "painting",
+   "aesthetic"
+  ],
+  "url": "wallpaper-art-04-watercolor-flowers.html",
+  "img": "assets/img/art-04-watercolor-flowers-sm.jpg"
+ },
+ {
+  "title": "Painted Rain City",
+  "pack": "art",
+  "tags": [
+   "art",
+   "watercolor",
+   "city",
+   "rain",
+   "painting"
+  ],
+  "url": "wallpaper-art-05-watercolor-city.html",
+  "img": "assets/img/art-05-watercolor-city-sm.jpg"
+ },
+ {
+  "title": "Painted Galaxy",
+  "pack": "art",
+  "tags": [
+   "art",
+   "watercolor",
+   "space",
+   "galaxy",
+   "purple",
+   "painting"
+  ],
+  "url": "wallpaper-art-06-galaxy-paint.html",
+  "img": "assets/img/art-06-galaxy-paint-sm.jpg"
+ },
+ {
+  "title": "Koi Circle",
+  "pack": "art",
+  "tags": [
+   "art",
+   "watercolor",
+   "koi",
+   "fish",
+   "painting"
+  ],
+  "url": "wallpaper-art-07-koi.html",
+  "img": "assets/img/art-07-koi-sm.jpg"
+ },
+ {
+  "title": "Marble & Gold",
+  "pack": "art",
+  "tags": [
+   "art",
+   "marble",
+   "gold",
+   "abstract",
+   "luxury",
+   "aesthetic"
+  ],
+  "url": "wallpaper-art-08-marble-gold.html",
+  "img": "assets/img/art-08-marble-gold-sm.jpg"
+ },
+ {
+  "title": "Rain on City Glass",
+  "pack": "rain",
+  "tags": [
+   "rain",
+   "window",
+   "city",
+   "night",
+   "cozy"
+  ],
+  "url": "wallpaper-rain-01-window-city.html",
+  "img": "assets/img/rain-01-window-city-sm.jpg"
+ },
+ {
+  "title": "Cabin Window Rain",
+  "pack": "rain",
+  "tags": [
+   "rain",
+   "window",
+   "cabin",
+   "forest",
+   "cozy",
+   "nature"
+  ],
+  "url": "wallpaper-rain-02-cabin-window.html",
+  "img": "assets/img/rain-02-cabin-window-sm.jpg"
+ },
+ {
+  "title": "The Red Umbrella",
+  "pack": "rain",
+  "tags": [
+   "rain",
+   "street",
+   "city",
+   "umbrella",
+   "travel"
+  ],
+  "url": "wallpaper-rain-03-umbrella-street.html",
+  "img": "assets/img/rain-03-umbrella-street-sm.jpg"
+ },
+ {
+  "title": "Rain on a Leaf",
+  "pack": "rain",
+  "tags": [
+   "rain",
+   "leaf",
+   "macro",
+   "nature",
+   "green"
+  ],
+  "url": "wallpaper-rain-04-leaf-macro.html",
+  "img": "assets/img/rain-04-leaf-macro-sm.jpg"
+ },
+ {
+  "title": "The Window Seat",
+  "pack": "rain",
+  "tags": [
+   "rain",
+   "window",
+   "cozy",
+   "tea",
+   "calm"
+  ],
+  "url": "wallpaper-rain-05-window-seat.html",
+  "img": "assets/img/rain-05-window-seat-sm.jpg"
+ },
+ {
+  "title": "Rainy Forest Path",
+  "pack": "rain",
+  "tags": [
+   "rain",
+   "forest",
+   "nature",
+   "mist",
+   "calm"
+  ],
+  "url": "wallpaper-rain-06-forest-path.html",
+  "img": "assets/img/rain-06-forest-path-sm.jpg"
+ },
+ {
+  "title": "Wet Neon",
+  "pack": "rain",
+  "tags": [
+   "rain",
+   "neon",
+   "city",
+   "night",
+   "street"
+  ],
+  "url": "wallpaper-rain-07-neon-street.html",
+  "img": "assets/img/rain-07-neon-street-sm.jpg"
+ },
+ {
+  "title": "Storm Watching",
+  "pack": "rain",
+  "tags": [
+   "rain",
+   "storm",
+   "window",
+   "cozy",
+   "dramatic"
+  ],
+  "url": "wallpaper-rain-08-storm-window.html",
+  "img": "assets/img/rain-08-storm-window-sm.jpg"
  }
 ]
