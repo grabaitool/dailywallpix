@@ -20,7 +20,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Sora:wght@600;700;800&family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="assets/css/style.css?v=16">
+<link rel="stylesheet" href="assets/css/style.css?v=17">
 
 </head>
 <body><nav><div class="wrap nav-in">
@@ -64,10 +64,6 @@
         <span class="spec">Made for phones</span>
         <span class="spec hot">Free · No watermark</span>
       </div>
-      <div class="sizes">
-        <div class="size on" data-file="assets/downloads/amoled-05-neon-jellyfish.jpg">Phone<small>1152 × 2048</small></div>
-        <div class="size" data-file="assets/downloads/amoled-05-neon-jellyfish.jpg">Original<small>Full quality</small></div>
-      </div>
       <a class="big-dl" href="assets/downloads/amoled-05-neon-jellyfish.jpg" download>Download Free Wallpaper</a>
       <div class="steps">
         <h4>How to set it (10 seconds)</h4>
@@ -93,13 +89,6 @@
 <script>
 (function () {
   var btn = document.querySelector('.big-dl');
-  document.querySelectorAll('.size').forEach(function (el) {
-    el.addEventListener('click', function () {
-      document.querySelectorAll('.size').forEach(function (x) { x.classList.remove('on'); });
-      el.classList.add('on');
-      if (btn && el.dataset.file) btn.setAttribute('href', el.dataset.file);
-    });
-  });
   if (btn) {
     var label = btn.textContent, busy = false;
     btn.addEventListener('click', function () {

@@ -156,11 +156,6 @@ footer{border-top:1px solid var(--line);margin-top:72px;padding:40px 0 48px;colo
 .detail .shot{border-radius:22px;overflow:hidden;aspect-ratio:9/14.5;background:#141824;box-shadow:var(--shadow-lg)}
 .detail .shot img{object-position:50% 30%}
 .detail h1{font-size:clamp(30px,4vw,40px)}
-.sizes{display:grid;grid-template-columns:repeat(2,1fr);gap:10px;margin:22px 0 14px}
-.size{border:1.5px solid var(--line);background:var(--panel);border-radius:14px;padding:12px 14px;font-weight:800;font-size:14.5px;color:var(--text);text-align:center;cursor:pointer;transition:border-color .15s,background .15s,transform .1s}
-.size small{display:block;color:var(--muted);font-weight:600;font-size:11.5px;margin-top:2px}
-.size.on{border-color:var(--acc);background:rgba(124,77,255,.07)}
-.size:active{transform:scale(.97)}
 .specs{display:flex;flex-wrap:wrap;gap:9px 20px;margin:16px 0 4px}
 .spec{display:inline-flex;align-items:center;gap:8px;font-size:13.5px;font-weight:600;color:var(--muted)}
 .spec::before{content:"";width:6px;height:6px;border-radius:50%;background:var(--acc);flex:none}
