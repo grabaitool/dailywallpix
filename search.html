@@ -20,7 +20,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Sora:wght@600;700;800&family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="assets/css/style.css?v=7">
+<link rel="stylesheet" href="assets/css/style.css?v=8">
 
 </head>
 <body><nav><div class="wrap nav-in">
@@ -84,7 +84,7 @@ function render() {
   const q = (box.value || '').trim().toLowerCase();
   const items = DATA.filter(it => (activeFilter === 'all' || it.pack === activeFilter || it.tags.includes(activeFilter)) && matches(it, q));
   grid.innerHTML = items.map(it =>
-    '<a class="wall" href="' + it.url + '"><img src="' + it.img.replace('.jpg','-sm.jpg') + '" srcset="' + it.img.replace('.jpg','-sm.jpg') + ' 360w, ' + it.img + ' 720w" sizes="(max-width: 820px) 46vw, 300px" alt="' + it.title + '" loading="lazy" decoding="async"><span class="dl">Download</span></a>').join('');
+    '<a class="wall" href="' + it.url + '"><img src="' + it.img.replace('.jpg','-sm.jpg') + '" srcset="' + it.img.replace('.jpg','-sm.jpg') + ' 360w, ' + it.img.replace('.jpg','-md.jpg') + ' 540w" sizes="(max-width: 820px) 46vw, 300px" alt="' + it.title + '" loading="lazy" decoding="async"><span class="dl">Download</span></a>').join('');
   note.textContent = items.length + ' result' + (items.length === 1 ? '' : 's') + (q ? ' for “' + q + '”' : '');
   empty.style.display = items.length ? 'none' : 'block';
 }
