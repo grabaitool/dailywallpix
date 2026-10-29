@@ -20,7 +20,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Sora:wght@600;700;800&family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="assets/css/style.css?v=11">
+<link rel="stylesheet" href="assets/css/style.css?v=12">
 
 </head>
 <body><nav><div class="wrap nav-in">
@@ -35,7 +35,22 @@
     <a href="about.html">About</a>
   </div>
   <a class="today-pill" href="search.html">🔍 Search</a>
-</div></nav>
+  <button class="nav-toggle" id="navToggle" type="button" aria-label="Open menu" aria-expanded="false" aria-controls="mobileMenu"><span></span><span></span><span></span></button>
+</div>
+<div class="mobile-menu" id="mobileMenu">
+  <a href="wallpapers.html">Wallpapers</a>
+  <a href="ai-trends.html">AI Photo Trends</a>
+  <a href="pfp.html">PFP</a>
+  <a href="prompts.html">Prompts</a>
+  <a href="desktop.html">Desktop</a>
+  <a href="explainers.html">Explainers</a>
+  <a href="about.html">About</a>
+  <a href="privacy.html">Privacy</a>
+</div>
+</nav>
+<script>
+(function(){var t=document.getElementById('navToggle'),m=document.getElementById('mobileMenu');if(!t||!m)return;var n=t.closest('nav');function close(){n.classList.remove('menu-open');t.setAttribute('aria-expanded','false');t.setAttribute('aria-label','Open menu');}t.addEventListener('click',function(){var open=n.classList.toggle('menu-open');t.setAttribute('aria-expanded',open?'true':'false');t.setAttribute('aria-label',open?'Close menu':'Open menu');});m.addEventListener('click',function(e){if(e.target.closest('a'))close();});document.addEventListener('keydown',function(e){if(e.key==='Escape')close();});window.addEventListener('resize',function(){if(window.innerWidth>820)close();});})();
+</script>
 <div class="page"><div class="wrap">
   <div class="crumb">Home / Wallpapers / Coffee & Cozy / <b>Iced Coffee Swirl</b></div>
   <div class="detail">
