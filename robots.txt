@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://dailywallpix.com/sitemap.xml
+Sitemap: https://dailywallpix.grabaitool.com/sitemap.xml
